@@ -1,58 +1,58 @@
-# import classes
+from BookReserveReturn import  BookReserveReturn
 
-from bookReserveReturn import BookReserveReturn
+from Catalog import  Catalog
 
-from bookManagement import bookManagement
 
-class user:
-    def __init__(self,name, location, age,aadhar_id):
-        self.name= name
+class User:
+
+    def __init__(self,name,location,age,aadhar_id):
+        self.name = name
         self.location= location
-        self.age = age
-        self.aadhar_id =aadhar_id
+        self.age=age
+        self.aadhar_id= aadhar_id
 
-    def viewBooks(self):
-        bookManagement.displayAllBooks()
+    def viewBook(self):
 
-class Librarian(user):
+        Catalog.displayAllBooks()
 
-    def __init__(self,name,location,age, aadhar_id ,employee_id ):
-        super().__init__(name,location,age,aadhar_id)
-        self.employee_id= employee_id
+class Librarian(User):
+
+    def __init__(self, name, location, age, aadhar_id, employee_id):
+        super().__init__(name, location, age, aadhar_id)
+        self.employee_id = employee_id
 
     def __repr__(self):
-        return self.name + " " +  self.location + " " + self.employee_id
+        return self.name + " " + self.location + " " + self.employee_id
 
-    def addBook(self, title,author,category,publication_data):
-        bookManagement.addBook(title,author,category,publication_data)
+    def addBook(self, title, author, category, publication_date):
+        Catalog.addBook(title, author, category, publication_date)
 
-    def addBookItem(self , title, isbn,rack):
-        bookManagement.addBookItem(title, isbn, rack)
+    def addBookItem(self, title, isbn, rack):
+        Catalog.addBookItem(title, isbn, rack)
 
     def removeBook(self, rem_book):
-        bookManagement.removeBook(rem_book)
+        Catalog.removeBook(rem_book)
 
-    def removeBookItem(self,rem_bookitem):
-        bookManagement.removeBook(rem_bookitem)
+    def removeBookItem(self, rem_bookitem):
+        Catalog.removeBookItem(rem_bookitem)
 
-    def addMenber(self, name, location, age, aadhar_id, student_id):
+    def addMember(self, name, location, age, aadhar_id, student_id):
         Member(name, location, age, aadhar_id, student_id)
 
-    def removeMember(self,name):
+    def removeMember(self, name):
         for member in Member.members_list:
-            if menber.name == name:
+            if member.name == name:
                 Member.members_list.remove(member)
-                print(" {} was successfully removed from library!".format(name))
+                print("{} was successfully removed from the library!".format(name))
                 break
+        else:
+            print("No member exists by this name")
 
-            else:
-                print("No menber exist by this name")
-
-    def viewMenbers(self,name):
+    def viewMembers(self):
         for member in Member.members_list:
             print(member)
 
-    def searchMember(self,name):
+    def searchMember(self, name):
         for member in Member.members_list:
             if member.name == name:
                 print(member)
@@ -63,72 +63,45 @@ class Librarian(user):
             print("There are no registered members in this library by this name.")
 
     def viewReservedBookItems(self):
-        bookManagement.viewReservedBookItem()
+        Catalog.viewReservedBookItems()
 
-    def viewIssueInfo(self):
-        isbn = input( "Please enter isbn of the book for which you'd like to view issuer information for: ")
-        bookManagement.viewIssueInfo()
+    def viewIssuerInfo(self):
+        isbn = input("Please enter isbn of the book for which you'd like to view issuer information for: ")
+        Catalog.viewIssuerInfo(isbn)
 
 
-class Member(user):
-    members_List= []
+
+
+class Member(User):
+
+    members_list=[]
 
     @classmethod
     def addMemberList(cls,member):
-        cls.members_List.append(member)
+        cls.members_list.append(member)
 
+    def __init__(self,name, location,age,aadhar_id,student_id):
 
-    def __init__(self,name, location, age, aadhar_id,student_id):
-        super().__init__(name,location,age,aadhar_id)
+        super().__init__(name,location, age, aadhar_id)
         self.student_id= student_id
         self.issued_book_list= []
         Member.addMemberList(self)
-
-        print("Welcome to Library Members{}".format(name))
+        print("Welcome to library {}".fromat(name))
 
     def __repr__(self):
-        return self.name + " " + self.location + " " + self.student_id
+        return self.name + " " +self.location + " " + self.student_id
 
-    def searchByTitle(self, title):
-        bookManagement.searchByTitle(title)
+    def searchByTitle(self,title):
+        Catalog.searchByTitle(title)
 
-    def searchByAuthor(self, author):
-        bookManagement.searchByAuthor(author)
+    def searchByAuthor(self,author):
+        Catalog.searchByAuthor(author)
 
-    def searchByCategory(self, category):
-        bookManagement.searchByCategory(category)
+    def searchByCatagory(self,catagory):
+        Catalog.searchByCatagory(catagory)
 
-    def searchByPublicationDate(self, publication_date):
-        bookManagement.searchByPublicationDate(publication_date)
-
-
-
-
-    def extendDates(self):
-        print("BOOKS CURRENTLY ISSUED BY YOU: ")
-        for book_item in self.issued_books_list:
-            print(book_item.isbn)
-        isbn = input("Please enter isbn of the book for which you'd like to extend dates: ")
-        ext_days = int(input("Please enter the number of days you'd like to extend for: "))
-        for book_item in self.issued_books_list:
-            if book_item.isbn == isbn:
-                bookReserveReturn.extendDates(book_item, ext_days)
-
-
-
-    def returnBook(self):
-        print("BOOKS CURRENTLY ISSUED BY YOU: ")
-        for book_item in self.issued_books_list:
-            print(book_item.book.title, book_item.isbn)
-        isbn = input("Which book would you like to return? Enter isbn: ")
-        days = int(input("How many days has it been since you issued this book? Be honest! "))
-        for book_item in self.issued_books_list:
-            if book_item.isbn == isbn:
-                ret_book_item = book_item
-            else:
-                print("Sorry.. the book you're trying to return is not issued by you!")
-        bookReserveReturn.returnBook(ret_book_item, days)
-        self.issued_books_list.remove(ret_book_item)
+    def searchByPublicationdate(self,publication_date):
+        Catalog.searchByPublicationDate(publication_date)
 
     def reserveBook(self, book_title):
         days = 0
@@ -154,33 +127,31 @@ class Member(user):
                 print(condition[1])
                 break
         else:
-            book_item = bookReserveReturn.reserveBook(self.name, self.student_id, book_title, days)
+            book_item = BookReserveReturn.reserveBook(self.name, self.student_id, book_title, days)
             self.issued_books_list.append(book_item)
             print("Book reserved successfully!")
             print("Grab your copy {} from rack {}".format(book_item.isbn, book_item.rack))
 
+    def returnBook(self):
+        print("BOOKS CURRENTLY ISSUED BY YOU: ")
+        for book_item in self.issued_books_list:
+            print(book_item.book.title, book_item.isbn)
+        isbn = input("Which book would you like to return? Enter isbn: ")
+        days = int(input("How many days has it been since you issued this book? Be honest! "))
+        for book_item in self.issued_books_list:
+            if book_item.isbn == isbn:
+                ret_book_item = book_item
+            else:
+                print("Sorry.. the book you're trying to return is not issued by you!")
+        BookReserveReturn.returnBook(ret_book_item, days)
+        self.issued_books_list.remove(ret_book_item)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    def extendDates(self):
+        print("BOOKS CURRENTLY ISSUED BY YOU: ")
+        for book_item in self.issued_books_list:
+            print(book_item.isbn)
+        isbn = input("Please enter isbn of the book for which you'd like to extend dates: ")
+        ext_days = int(input("Please enter the number of days you'd like to extend for: "))
+        for book_item in self.issued_books_list:
+            if book_item.isbn == isbn:
+                BookReserveReturn.extendDates(book_item, ext_days)
