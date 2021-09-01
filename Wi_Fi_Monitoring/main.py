@@ -11,7 +11,7 @@ import tkMessageBox
 
 def monitor(limit, unit):
 	check="vnstat"
-	#os.system(check)
+
 	proc=subprocess.Popen(check, shell=True, stdout=subprocess.PIPE)
 	output=proc.communicate()
 	output=str(output)
@@ -36,10 +36,7 @@ def monitor(limit, unit):
 		top.mainloop()
 	arg=[limit,unit]
 	threading.Timer(60.0, monitor, arg).start()
-#def callMonitor(limit, unit):
-#	t=threading.Timer(4.0, monitor(limit, unit))
-#	t.start()
-#	monitor(limit, unit)
+
 
 def main():
 	if len(sys.argv) >3 or len(sys.argv)<3:
