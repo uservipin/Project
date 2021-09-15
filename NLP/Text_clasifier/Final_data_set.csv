@@ -1,0 +1,5 @@
+,CIK,CONAME,FYRMO,FDATE,FORM,SECFNAME,positive_score,negative_score,polarity_score,average_sentence_length,percentage_of_complex_words,fog_index,complex_word_count,word_count,uncertainty_score,constraining_score,positive_word_proportion,negative_word_proportion,uncertainty_word_proportion,constraining_word_proportion,constraining_words_whole_report
+0,,,,,,,18,4,0.636364636,41.45193036,0.09070212,16.61705299,149,78605,17,0,0.000228993,5.09E-05,0.000216271,0,
+1,,,,,,,18,4,0.636364636,43.28365385,0.137916991,17.36862833,149,50916,17,0,0.000353523,7.86E-05,0.000333883,0,
+2,,,,,,,18,4,0.636364636,40.95,18.19291819,23.65716728,149,438,17,0,0.04109589,0.00913242,0.038812785,0,
+3,,,,,,,18,4,0.636364636,31.86876006,0.188221621,12.82279267,149,40037,17,0,0.000449584,9.99E-05,0.000424607,0,
