@@ -1,4 +1,4 @@
-from BookItem import BookItem
+from Questions import BookItem
 
 class Book:
 
@@ -53,7 +53,5 @@ class Book:
     def removeFromReservedList(ret_book_item):
         BookItem.removeFromReservedList(ret_book_item)
 
-    def extendDates(book_item,ext_days):
-        BookItem.extendDates(book_item,ext_days)
 
 

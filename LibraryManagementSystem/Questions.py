@@ -1,11 +1,3 @@
-""":cvar
-
-addReservedBooks
-updateIssuerInfo
-add to reserved list
-remove from reserved list
-clear issuer informationextend datetime
-"""
 
 
 class BookItem:
