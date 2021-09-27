@@ -1,0 +1,18 @@
+﻿entry_id,exit_id,entry_label,exit_label,ods,path,Direction,status,price,time
+202NO,224ND,495 Express Lanes/I-495/I-95,Washington D.C.,od_1265,95,NB,open,0.8,9/21/2021 15:43
+202NO,223ND,495 Express Lanes/I-495/I-95,Pentagon/Eads Street,od_1264,95,NB,open,1,9/21/2021 15:43
+202NO,222ND,495 Express Lanes/I-495/I-95,Seminary Road NB (HOV-3 ONLY),od_1263,95,NB,open,0,9/21/2021 15:43
+202NO,201ND,495 Express Lanes/I-495/I-95,I-395 Near Edsall Road,od_1146,95,NB,open,0.2,9/21/2021 15:43
+203NO,224ND,Old Keene Mill Road/Route 644,Washington D.C.,od_1262,95,NB,open,0.6,9/21/2021 15:43
+203NO,223ND,Old Keene Mill Road/Route 644,Pentagon/Eads Street,od_1261,95,NB,open,1,9/21/2021 15:43
+203NO,222ND,Old Keene Mill Road/Route 644,Seminary Road NB (HOV-3 ONLY),od_1260,95,NB,open,1.4,9/21/2021 15:43
+203NO,201ND,Old Keene Mill Road/Route 644,I-395 Near Edsall Road,od_1145,95,NB,open,1.8,9/21/2021 15:43
+203NO,202ND,Old Keene Mill Road/Route 644,495 Express Lanes/I-495/I-95,od_1144,95,NB,open,2.2,9/21/2021 15:43
+206NO,224ND,Franconia-Springfield Parkway/Route 289,Washington D.C.,od_1256,95,NB,open,2.6,9/21/2021 15:43
+206NO,223ND,Franconia-Springfield Parkway/Route 289,Pentagon/Eads Street,od_1255,95,NB,open,3,9/21/2021 15:43
+206NO,222ND,Franconia-Springfield Parkway/Route 289,Seminary Road NB (HOV-3 ONLY),od_1254,95,NB,open,3.4,9/21/2021 15:43
+206NO,201ND,Franconia-Springfield Parkway/Route 289,I-395 Near Edsall Road,od_1141,95,NB,open,3.8,9/21/2021 15:43
+,,,,,,,,,
+,,,,,,,,,
+,,Entry ,dict key : Entry id,,,,,,
+,,exit ,dict key : exit id,,,,,,

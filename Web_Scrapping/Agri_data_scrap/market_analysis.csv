@@ -1,573 +1,573 @@
 ,Sl no.,District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
-0,1,Agra,Achnera,Potato,Desi,FAQ,900,960,930.0,15 Sep 2021
-1,2,Agra,Achnera,Potato,Desi,FAQ,900,960,930.0,14 Sep 2021
-2,3,Agra,Achnera,Potato,Desi,FAQ,890,950,920.0,13 Sep 2021
-3,4,Agra,Achnera,Potato,Desi,FAQ,870,930,900.0,12 Sep 2021
-4,5,Agra,Achnera,Potato,Desi,FAQ,880,940,910.0,11 Sep 2021
-5,6,Agra,Achnera,Potato,Desi,FAQ,880,960,920.0,10 Sep 2021
-6,7,Agra,Achnera,Potato,Desi,FAQ,900,950,925.0,08 Sep 2021
-7,8,Agra,Achnera,Potato,Desi,FAQ,900,980,940.0,07 Sep 2021
-8,9,Agra,Achnera,Potato,Desi,FAQ,910,970,940.0,06 Sep 2021
-9,10,Agra,Achnera,Potato,Desi,FAQ,900,960,930.0,05 Sep 2021
-10,11,Agra,Achnera,Potato,Desi,FAQ,890,970,930.0,04 Sep 2021
-11,12,Agra,Achnera,Potato,Desi,FAQ,870,930,900.0,03 Sep 2021
-12,13,Agra,Achnera,Potato,Desi,FAQ,880,960,920.0,01 Sep 2021
-13,14,Agra,Achnera,Potato,Desi,FAQ,910,970,940.0,31 Aug 2021
-14,15,Agra,Achnera,Potato,Desi,FAQ,900,950,925.0,30 Aug 2021
-15,16,Agra,Achnera,Potato,Desi,FAQ,900,960,930.0,29 Aug 2021
-16,17,Agra,Achnera,Potato,Desi,FAQ,900,960,930.0,27 Aug 2021
-17,18,Agra,Achnera,Potato,Desi,FAQ,880,960,920.0,25 Aug 2021
-18,19,Agra,Achnera,Potato,Desi,FAQ,890,960,925.0,24 Aug 2021
-19,20,Agra,Achnera,Potato,Desi,FAQ,910,970,940.0,23 Aug 2021
-20,21,Agra,Achnera,Potato,Desi,FAQ,870,930,900.0,22 Aug 2021
-21,22,Agra,Achnera,Potato,Desi,FAQ,880,960,920.0,21 Aug 2021
-22,23,Agra,Achnera,Potato,Desi,FAQ,880,940,910.0,20 Aug 2021
-23,24,Agra,Achnera,Potato,Desi,FAQ,900,950,925.0,19 Aug 2021
-24,25,Agra,Achnera,Potato,Desi,FAQ,900,960,930.0,18 Aug 2021
-25,26,Agra,Achnera,Potato,Desi,FAQ,900,960,930.0,17 Aug 2021
-26,27,Agra,Achnera,Potato,Desi,FAQ,860,940,900.0,16 Aug 2021
-27,28,Agra,Achnera,Potato,Desi,FAQ,870,950,910.0,15 Aug 2021
-28,29,Agra,Achnera,Potato,Desi,FAQ,890,950,920.0,14 Aug 2021
-29,30,Agra,Achnera,Potato,Desi,FAQ,880,960,920.0,13 Aug 2021
-30,31,Agra,Achnera,Potato,Desi,FAQ,890,970,930.0,12 Aug 2021
-31,32,Agra,Achnera,Potato,Desi,FAQ,880,960,920.0,11 Aug 2021
-32,33,Agra,Achnera,Potato,Desi,FAQ,910,990,950.0,10 Aug 2021
-33,34,Agra,Achnera,Potato,Desi,FAQ,900,960,930.0,09 Aug 2021
-34,35,Agra,Achnera,Potato,Desi,FAQ,900,960,930.0,08 Aug 2021
-35,36,Agra,Achnera,Potato,Desi,FAQ,910,970,940.0,07 Aug 2021
-36,37,Agra,Achnera,Potato,Desi,FAQ,920,980,950.0,06 Aug 2021
-37,38,Agra,Achnera,Potato,Desi,FAQ,910,970,940.0,05 Aug 2021
-38,39,Agra,Achnera,Potato,Desi,FAQ,910,970,940.0,04 Aug 2021
-39,40,Agra,Achnera,Potato,Desi,FAQ,900,950,925.0,03 Aug 2021
-40,41,Agra,Achnera,Potato,Desi,FAQ,880,930,905.0,31 Jul 2021
-41,42,Agra,Achnera,Potato,Desi,FAQ,890,950,920.0,30 Jul 2021
-42,43,Agra,Achnera,Potato,Desi,FAQ,900,950,925.0,29 Jul 2021
-43,44,Agra,Achnera,Potato,Desi,FAQ,880,960,920.0,28 Jul 2021
-44,45,Agra,Achnera,Potato,Desi,FAQ,910,960,935.0,27 Jul 2021
-45,46,Agra,Achnera,Potato,Desi,FAQ,900,950,925.0,26 Jul 2021
-46,47,Agra,Achnera,Potato,Desi,FAQ,900,960,930.0,25 Jul 2021
-47,48,Agra,Achnera,Potato,Desi,FAQ,910,990,950.0,24 Jul 2021
-48,49,Agra,Achnera,Potato,Desi,FAQ,900,950,925.0,23 Jul 2021
-49,50,Agra,Achnera,Potato,Desi,FAQ,900,980,940.0,22 Jul 2021
+0,1,Agra,Achnera,Potato,Desi,FAQ,900,960,930,15-Sep-21
+1,2,Agra,Achnera,Potato,Desi,FAQ,900,960,930,14-Sep-21
+2,3,Agra,Achnera,Potato,Desi,FAQ,890,950,920,13-Sep-21
+3,4,Agra,Achnera,Potato,Desi,FAQ,870,930,900,12-Sep-21
+4,5,Agra,Achnera,Potato,Desi,FAQ,880,940,910,11-Sep-21
+5,6,Agra,Achnera,Potato,Desi,FAQ,880,960,920,10-Sep-21
+6,7,Agra,Achnera,Potato,Desi,FAQ,900,950,925,08-Sep-21
+7,8,Agra,Achnera,Potato,Desi,FAQ,900,980,940,07-Sep-21
+8,9,Agra,Achnera,Potato,Desi,FAQ,910,970,940,06-Sep-21
+9,10,Agra,Achnera,Potato,Desi,FAQ,900,960,930,05-Sep-21
+10,11,Agra,Achnera,Potato,Desi,FAQ,890,970,930,04-Sep-21
+11,12,Agra,Achnera,Potato,Desi,FAQ,870,930,900,03-Sep-21
+12,13,Agra,Achnera,Potato,Desi,FAQ,880,960,920,01-Sep-21
+13,14,Agra,Achnera,Potato,Desi,FAQ,910,970,940,31-Aug-21
+14,15,Agra,Achnera,Potato,Desi,FAQ,900,950,925,30-Aug-21
+15,16,Agra,Achnera,Potato,Desi,FAQ,900,960,930,29-Aug-21
+16,17,Agra,Achnera,Potato,Desi,FAQ,900,960,930,27-Aug-21
+17,18,Agra,Achnera,Potato,Desi,FAQ,880,960,920,25-Aug-21
+18,19,Agra,Achnera,Potato,Desi,FAQ,890,960,925,24-Aug-21
+19,20,Agra,Achnera,Potato,Desi,FAQ,910,970,940,23-Aug-21
+20,21,Agra,Achnera,Potato,Desi,FAQ,870,930,900,22-Aug-21
+21,22,Agra,Achnera,Potato,Desi,FAQ,880,960,920,21-Aug-21
+22,23,Agra,Achnera,Potato,Desi,FAQ,880,940,910,20-Aug-21
+23,24,Agra,Achnera,Potato,Desi,FAQ,900,950,925,19-Aug-21
+24,25,Agra,Achnera,Potato,Desi,FAQ,900,960,930,18-Aug-21
+25,26,Agra,Achnera,Potato,Desi,FAQ,900,960,930,17-Aug-21
+26,27,Agra,Achnera,Potato,Desi,FAQ,860,940,900,16-Aug-21
+27,28,Agra,Achnera,Potato,Desi,FAQ,870,950,910,15-Aug-21
+28,29,Agra,Achnera,Potato,Desi,FAQ,890,950,920,14-Aug-21
+29,30,Agra,Achnera,Potato,Desi,FAQ,880,960,920,13-Aug-21
+30,31,Agra,Achnera,Potato,Desi,FAQ,890,970,930,12-Aug-21
+31,32,Agra,Achnera,Potato,Desi,FAQ,880,960,920,11-Aug-21
+32,33,Agra,Achnera,Potato,Desi,FAQ,910,990,950,10-Aug-21
+33,34,Agra,Achnera,Potato,Desi,FAQ,900,960,930,09-Aug-21
+34,35,Agra,Achnera,Potato,Desi,FAQ,900,960,930,08-Aug-21
+35,36,Agra,Achnera,Potato,Desi,FAQ,910,970,940,07-Aug-21
+36,37,Agra,Achnera,Potato,Desi,FAQ,920,980,950,06-Aug-21
+37,38,Agra,Achnera,Potato,Desi,FAQ,910,970,940,05-Aug-21
+38,39,Agra,Achnera,Potato,Desi,FAQ,910,970,940,04-Aug-21
+39,40,Agra,Achnera,Potato,Desi,FAQ,900,950,925,03-Aug-21
+40,41,Agra,Achnera,Potato,Desi,FAQ,880,930,905,31-Jul-21
+41,42,Agra,Achnera,Potato,Desi,FAQ,890,950,920,30-Jul-21
+42,43,Agra,Achnera,Potato,Desi,FAQ,900,950,925,29-Jul-21
+43,44,Agra,Achnera,Potato,Desi,FAQ,880,960,920,28-Jul-21
+44,45,Agra,Achnera,Potato,Desi,FAQ,910,960,935,27-Jul-21
+45,46,Agra,Achnera,Potato,Desi,FAQ,900,950,925,26-Jul-21
+46,47,Agra,Achnera,Potato,Desi,FAQ,900,960,930,25-Jul-21
+47,48,Agra,Achnera,Potato,Desi,FAQ,910,990,950,24-Jul-21
+48,49,Agra,Achnera,Potato,Desi,FAQ,900,950,925,23-Jul-21
+49,50,Agra,Achnera,Potato,Desi,FAQ,900,980,940,22-Jul-21
 50,,,,,,,,,,
 51,,,,,,,,,,
-52,1,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,16 Sep 2021
-53,2,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,15 Sep 2021
-54,3,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,14 Sep 2021
-55,4,Agra,Agra,Potato,Desi,FAQ,800,1020,920.0,13 Sep 2021
-56,5,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,11 Sep 2021
-57,6,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,10 Sep 2021
-58,7,Agra,Agra,Potato,Desi,FAQ,800,1000,920.0,09 Sep 2021
-59,8,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,08 Sep 2021
-60,9,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,07 Sep 2021
-61,10,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,06 Sep 2021
-62,11,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,04 Sep 2021
-63,12,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,03 Sep 2021
-64,13,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,02 Sep 2021
-65,14,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,31 Aug 2021
-66,15,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,30 Aug 2021
-67,16,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,28 Aug 2021
-68,17,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,27 Aug 2021
-69,18,Agra,Agra,Potato,Desi,FAQ,850,1030,925.0,26 Aug 2021
-70,19,Agra,Agra,Potato,Desi,FAQ,830,1050,920.0,25 Aug 2021
-71,20,Agra,Agra,Potato,Desi,FAQ,820,1030,915.0,24 Aug 2021
-72,21,Agra,Agra,Potato,Desi,FAQ,850,1025,920.0,23 Aug 2021
-73,22,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,21 Aug 2021
-74,23,Agra,Agra,Potato,Desi,FAQ,810,1020,920.0,20 Aug 2021
-75,24,Agra,Agra,Potato,Desi,FAQ,820,1030,925.0,19 Aug 2021
-76,25,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,18 Aug 2021
-77,26,Agra,Agra,Potato,Desi,FAQ,815,1020,925.0,17 Aug 2021
-78,27,Agra,Agra,Potato,Desi,FAQ,810,1020,925.0,16 Aug 2021
-79,28,Agra,Agra,Potato,Desi,FAQ,810,1025,920.0,14 Aug 2021
-80,29,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,13 Aug 2021
-81,30,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,12 Aug 2021
-82,31,Agra,Agra,Potato,Desi,FAQ,850,1050,930.0,11 Aug 2021
-83,32,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,10 Aug 2021
-84,33,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,09 Aug 2021
-85,34,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,07 Aug 2021
-86,35,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,06 Aug 2021
-87,36,Agra,Agra,Potato,Desi,FAQ,800,1050,930.0,05 Aug 2021
-88,37,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,04 Aug 2021
-89,38,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,03 Aug 2021
-90,39,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,02 Aug 2021
-91,40,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,31 Jul 2021
-92,41,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,29 Jul 2021
-93,42,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,28 Jul 2021
-94,43,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,27 Jul 2021
-95,44,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,26 Jul 2021
-96,45,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,24 Jul 2021
-97,46,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,23 Jul 2021
-98,47,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,22 Jul 2021
-99,48,Agra,Agra,Potato,Desi,FAQ,800,1000,900.0,21 Jul 2021
-100,49,Agra,Agra,Potato,Desi,FAQ,800,1000,900.0,20 Jul 2021
-101,50,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,19 Jul 2021
+52,1,Agra,Agra,Potato,Desi,FAQ,800,1050,910,16-Sep-21
+53,2,Agra,Agra,Potato,Desi,FAQ,800,1050,915,15-Sep-21
+54,3,Agra,Agra,Potato,Desi,FAQ,800,1050,910,14-Sep-21
+55,4,Agra,Agra,Potato,Desi,FAQ,800,1020,920,13-Sep-21
+56,5,Agra,Agra,Potato,Desi,FAQ,800,1000,910,11-Sep-21
+57,6,Agra,Agra,Potato,Desi,FAQ,800,1050,915,10-Sep-21
+58,7,Agra,Agra,Potato,Desi,FAQ,800,1000,920,09-Sep-21
+59,8,Agra,Agra,Potato,Desi,FAQ,800,1000,910,08-Sep-21
+60,9,Agra,Agra,Potato,Desi,FAQ,800,1050,920,07-Sep-21
+61,10,Agra,Agra,Potato,Desi,FAQ,800,1050,915,06-Sep-21
+62,11,Agra,Agra,Potato,Desi,FAQ,800,1050,910,04-Sep-21
+63,12,Agra,Agra,Potato,Desi,FAQ,800,1050,920,03-Sep-21
+64,13,Agra,Agra,Potato,Desi,FAQ,800,1000,910,02-Sep-21
+65,14,Agra,Agra,Potato,Desi,FAQ,800,1050,920,31-Aug-21
+66,15,Agra,Agra,Potato,Desi,FAQ,800,1050,910,30-Aug-21
+67,16,Agra,Agra,Potato,Desi,FAQ,800,1050,925,28-Aug-21
+68,17,Agra,Agra,Potato,Desi,FAQ,800,1050,920,27-Aug-21
+69,18,Agra,Agra,Potato,Desi,FAQ,850,1030,925,26-Aug-21
+70,19,Agra,Agra,Potato,Desi,FAQ,830,1050,920,25-Aug-21
+71,20,Agra,Agra,Potato,Desi,FAQ,820,1030,915,24-Aug-21
+72,21,Agra,Agra,Potato,Desi,FAQ,850,1025,920,23-Aug-21
+73,22,Agra,Agra,Potato,Desi,FAQ,800,1050,910,21-Aug-21
+74,23,Agra,Agra,Potato,Desi,FAQ,810,1020,920,20-Aug-21
+75,24,Agra,Agra,Potato,Desi,FAQ,820,1030,925,19-Aug-21
+76,25,Agra,Agra,Potato,Desi,FAQ,800,1050,920,18-Aug-21
+77,26,Agra,Agra,Potato,Desi,FAQ,815,1020,925,17-Aug-21
+78,27,Agra,Agra,Potato,Desi,FAQ,810,1020,925,16-Aug-21
+79,28,Agra,Agra,Potato,Desi,FAQ,810,1025,920,14-Aug-21
+80,29,Agra,Agra,Potato,Desi,FAQ,800,1050,925,13-Aug-21
+81,30,Agra,Agra,Potato,Desi,FAQ,800,1050,920,12-Aug-21
+82,31,Agra,Agra,Potato,Desi,FAQ,850,1050,930,11-Aug-21
+83,32,Agra,Agra,Potato,Desi,FAQ,800,1050,920,10-Aug-21
+84,33,Agra,Agra,Potato,Desi,FAQ,850,1050,925,09-Aug-21
+85,34,Agra,Agra,Potato,Desi,FAQ,800,1050,920,07-Aug-21
+86,35,Agra,Agra,Potato,Desi,FAQ,800,1050,925,06-Aug-21
+87,36,Agra,Agra,Potato,Desi,FAQ,800,1050,930,05-Aug-21
+88,37,Agra,Agra,Potato,Desi,FAQ,800,1050,920,04-Aug-21
+89,38,Agra,Agra,Potato,Desi,FAQ,800,1050,920,03-Aug-21
+90,39,Agra,Agra,Potato,Desi,FAQ,850,1050,925,02-Aug-21
+91,40,Agra,Agra,Potato,Desi,FAQ,800,1050,920,31-Jul-21
+92,41,Agra,Agra,Potato,Desi,FAQ,800,1050,920,29-Jul-21
+93,42,Agra,Agra,Potato,Desi,FAQ,800,1050,925,28-Jul-21
+94,43,Agra,Agra,Potato,Desi,FAQ,800,1050,920,27-Jul-21
+95,44,Agra,Agra,Potato,Desi,FAQ,800,1000,910,26-Jul-21
+96,45,Agra,Agra,Potato,Desi,FAQ,800,1050,915,24-Jul-21
+97,46,Agra,Agra,Potato,Desi,FAQ,850,1050,925,23-Jul-21
+98,47,Agra,Agra,Potato,Desi,FAQ,800,1050,910,22-Jul-21
+99,48,Agra,Agra,Potato,Desi,FAQ,800,1000,900,21-Jul-21
+100,49,Agra,Agra,Potato,Desi,FAQ,800,1000,900,20-Jul-21
+101,50,Agra,Agra,Potato,Desi,FAQ,800,1050,920,19-Jul-21
 102,,,,,,,,,,
 103,,,,,,,,,,
-104,1,Agra,Fatehabad,Potato,Desi,FAQ,800,1000,900.0,28 Aug 2021
-105,2,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,23 Apr 2021
-106,3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250.0,22 Apr 2021
-107,4,Agra,Fatehabad,Potato,Desi,FAQ,550,650,600.0,17 Apr 2021
-108,5,Agra,Fatehabad,Potato,Desi,FAQ,600,700,650.0,16 Apr 2021
-109,6,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,14 Apr 2021
-110,7,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,13 Apr 2021
-111,8,Agra,Fatehabad,Potato,Desi,FAQ,600,700,650.0,12 Apr 2021
-112,9,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,10 Apr 2021
-113,10,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,09 Apr 2021
-114,11,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,08 Apr 2021
-115,12,Agra,Fatehabad,Potato,Desi,FAQ,550,650,600.0,07 Apr 2021
-116,13,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,06 Apr 2021
-117,14,Agra,Fatehabad,Potato,Desi,FAQ,500,550,520.0,05 Apr 2021
-118,15,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,02 Apr 2021
-119,16,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,01 Apr 2021
-120,17,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,31 Mar 2021
-121,18,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,30 Mar 2021
-122,19,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,28 Mar 2021
-123,20,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,27 Mar 2021
-124,21,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,26 Mar 2021
-125,22,Agra,Fatehabad,Potato,Desi,FAQ,500,550,520.0,25 Mar 2021
-126,23,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,24 Mar 2021
-127,24,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,23 Mar 2021
-128,25,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,21 Mar 2021
-129,26,Agra,Fatehabad,Potato,Desi,FAQ,500,550,520.0,19 Mar 2021
-130,27,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,18 Mar 2021
-131,28,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,17 Mar 2021
-132,29,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,16 Mar 2021
-133,30,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,15 Mar 2021
-134,31,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,14 Mar 2021
-135,32,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,13 Mar 2021
-136,33,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,11 Mar 2021
-137,34,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,10 Mar 2021
-138,35,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,09 Mar 2021
-139,36,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,08 Mar 2021
-140,37,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,06 Mar 2021
-141,38,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,05 Mar 2021
-142,39,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,03 Mar 2021
-143,40,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,02 Mar 2021
-144,41,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,01 Mar 2021
-145,42,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,28 Feb 2021
-146,43,Agra,Fatehabad,Potato,Desi,FAQ,450,550,500.0,27 Feb 2021
-147,44,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,26 Feb 2021
-148,45,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,25 Feb 2021
-149,46,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,23 Feb 2021
-150,47,Agra,Fatehabad,Potato,Desi,FAQ,600,700,650.0,21 Feb 2021
-151,48,Agra,Fatehabad,Potato,Desi,FAQ,500,550,520.0,20 Feb 2021
-152,49,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,17 Feb 2021
-153,50,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550.0,16 Feb 2021
+104,1,Agra,Fatehabad,Potato,Desi,FAQ,800,1000,900,28-Aug-21
+105,2,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,23-Apr-21
+106,3,Agra,Fatehabad,Potato,Desi,FAQ,1200,1300,1250,22-Apr-21
+107,4,Agra,Fatehabad,Potato,Desi,FAQ,550,650,600,17-Apr-21
+108,5,Agra,Fatehabad,Potato,Desi,FAQ,600,700,650,16-Apr-21
+109,6,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,14-Apr-21
+110,7,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,13-Apr-21
+111,8,Agra,Fatehabad,Potato,Desi,FAQ,600,700,650,12-Apr-21
+112,9,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,10-Apr-21
+113,10,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,09-Apr-21
+114,11,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,08-Apr-21
+115,12,Agra,Fatehabad,Potato,Desi,FAQ,550,650,600,07-Apr-21
+116,13,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,06-Apr-21
+117,14,Agra,Fatehabad,Potato,Desi,FAQ,500,550,520,05-Apr-21
+118,15,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,02-Apr-21
+119,16,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,01-Apr-21
+120,17,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,31-Mar-21
+121,18,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,30-Mar-21
+122,19,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,28-Mar-21
+123,20,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,27-Mar-21
+124,21,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,26-Mar-21
+125,22,Agra,Fatehabad,Potato,Desi,FAQ,500,550,520,25-Mar-21
+126,23,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,24-Mar-21
+127,24,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,23-Mar-21
+128,25,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,21-Mar-21
+129,26,Agra,Fatehabad,Potato,Desi,FAQ,500,550,520,19-Mar-21
+130,27,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,18-Mar-21
+131,28,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,17-Mar-21
+132,29,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,16-Mar-21
+133,30,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,15-Mar-21
+134,31,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,14-Mar-21
+135,32,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,13-Mar-21
+136,33,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,11-Mar-21
+137,34,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,10-Mar-21
+138,35,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,09-Mar-21
+139,36,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,08-Mar-21
+140,37,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,06-Mar-21
+141,38,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,05-Mar-21
+142,39,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,03-Mar-21
+143,40,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,02-Mar-21
+144,41,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,01-Mar-21
+145,42,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,28-Feb-21
+146,43,Agra,Fatehabad,Potato,Desi,FAQ,450,550,500,27-Feb-21
+147,44,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,26-Feb-21
+148,45,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,25-Feb-21
+149,46,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,23-Feb-21
+150,47,Agra,Fatehabad,Potato,Desi,FAQ,600,700,650,21-Feb-21
+151,48,Agra,Fatehabad,Potato,Desi,FAQ,500,550,520,20-Feb-21
+152,49,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,17-Feb-21
+153,50,Agra,Fatehabad,Potato,Desi,FAQ,500,600,550,16-Feb-21
 154,,,,,,,,,,
 155,,,,,,,,,,
-156,1,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,16 Sep 2021
-157,2,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,15 Sep 2021
-158,3,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,14 Sep 2021
-159,4,Agra,Agra,Potato,Desi,FAQ,800,1020,920.0,13 Sep 2021
-160,5,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,11 Sep 2021
-161,6,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,10 Sep 2021
-162,7,Agra,Agra,Potato,Desi,FAQ,800,1000,920.0,09 Sep 2021
-163,8,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,08 Sep 2021
-164,9,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,07 Sep 2021
-165,10,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,06 Sep 2021
-166,11,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,04 Sep 2021
-167,12,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,03 Sep 2021
-168,13,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,02 Sep 2021
-169,14,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,31 Aug 2021
-170,15,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,30 Aug 2021
-171,16,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,28 Aug 2021
-172,17,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,27 Aug 2021
-173,18,Agra,Agra,Potato,Desi,FAQ,850,1030,925.0,26 Aug 2021
-174,19,Agra,Agra,Potato,Desi,FAQ,830,1050,920.0,25 Aug 2021
-175,20,Agra,Agra,Potato,Desi,FAQ,820,1030,915.0,24 Aug 2021
-176,21,Agra,Agra,Potato,Desi,FAQ,850,1025,920.0,23 Aug 2021
-177,22,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,21 Aug 2021
-178,23,Agra,Agra,Potato,Desi,FAQ,810,1020,920.0,20 Aug 2021
-179,24,Agra,Agra,Potato,Desi,FAQ,820,1030,925.0,19 Aug 2021
-180,25,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,18 Aug 2021
-181,26,Agra,Agra,Potato,Desi,FAQ,815,1020,925.0,17 Aug 2021
-182,27,Agra,Agra,Potato,Desi,FAQ,810,1020,925.0,16 Aug 2021
-183,28,Agra,Agra,Potato,Desi,FAQ,810,1025,920.0,14 Aug 2021
-184,29,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,13 Aug 2021
-185,30,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,12 Aug 2021
-186,31,Agra,Agra,Potato,Desi,FAQ,850,1050,930.0,11 Aug 2021
-187,32,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,10 Aug 2021
-188,33,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,09 Aug 2021
-189,34,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,07 Aug 2021
-190,35,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,06 Aug 2021
-191,36,Agra,Agra,Potato,Desi,FAQ,800,1050,930.0,05 Aug 2021
-192,37,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,04 Aug 2021
-193,38,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,03 Aug 2021
-194,39,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,02 Aug 2021
-195,40,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,31 Jul 2021
-196,41,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,29 Jul 2021
-197,42,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,28 Jul 2021
-198,43,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,27 Jul 2021
-199,44,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,26 Jul 2021
-200,45,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,24 Jul 2021
-201,46,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,23 Jul 2021
-202,47,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,22 Jul 2021
-203,48,Agra,Agra,Potato,Desi,FAQ,800,1000,900.0,21 Jul 2021
-204,49,Agra,Agra,Potato,Desi,FAQ,800,1000,900.0,20 Jul 2021
-205,50,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,19 Jul 2021
+156,1,Agra,Agra,Potato,Desi,FAQ,800,1050,910,16-Sep-21
+157,2,Agra,Agra,Potato,Desi,FAQ,800,1050,915,15-Sep-21
+158,3,Agra,Agra,Potato,Desi,FAQ,800,1050,910,14-Sep-21
+159,4,Agra,Agra,Potato,Desi,FAQ,800,1020,920,13-Sep-21
+160,5,Agra,Agra,Potato,Desi,FAQ,800,1000,910,11-Sep-21
+161,6,Agra,Agra,Potato,Desi,FAQ,800,1050,915,10-Sep-21
+162,7,Agra,Agra,Potato,Desi,FAQ,800,1000,920,09-Sep-21
+163,8,Agra,Agra,Potato,Desi,FAQ,800,1000,910,08-Sep-21
+164,9,Agra,Agra,Potato,Desi,FAQ,800,1050,920,07-Sep-21
+165,10,Agra,Agra,Potato,Desi,FAQ,800,1050,915,06-Sep-21
+166,11,Agra,Agra,Potato,Desi,FAQ,800,1050,910,04-Sep-21
+167,12,Agra,Agra,Potato,Desi,FAQ,800,1050,920,03-Sep-21
+168,13,Agra,Agra,Potato,Desi,FAQ,800,1000,910,02-Sep-21
+169,14,Agra,Agra,Potato,Desi,FAQ,800,1050,920,31-Aug-21
+170,15,Agra,Agra,Potato,Desi,FAQ,800,1050,910,30-Aug-21
+171,16,Agra,Agra,Potato,Desi,FAQ,800,1050,925,28-Aug-21
+172,17,Agra,Agra,Potato,Desi,FAQ,800,1050,920,27-Aug-21
+173,18,Agra,Agra,Potato,Desi,FAQ,850,1030,925,26-Aug-21
+174,19,Agra,Agra,Potato,Desi,FAQ,830,1050,920,25-Aug-21
+175,20,Agra,Agra,Potato,Desi,FAQ,820,1030,915,24-Aug-21
+176,21,Agra,Agra,Potato,Desi,FAQ,850,1025,920,23-Aug-21
+177,22,Agra,Agra,Potato,Desi,FAQ,800,1050,910,21-Aug-21
+178,23,Agra,Agra,Potato,Desi,FAQ,810,1020,920,20-Aug-21
+179,24,Agra,Agra,Potato,Desi,FAQ,820,1030,925,19-Aug-21
+180,25,Agra,Agra,Potato,Desi,FAQ,800,1050,920,18-Aug-21
+181,26,Agra,Agra,Potato,Desi,FAQ,815,1020,925,17-Aug-21
+182,27,Agra,Agra,Potato,Desi,FAQ,810,1020,925,16-Aug-21
+183,28,Agra,Agra,Potato,Desi,FAQ,810,1025,920,14-Aug-21
+184,29,Agra,Agra,Potato,Desi,FAQ,800,1050,925,13-Aug-21
+185,30,Agra,Agra,Potato,Desi,FAQ,800,1050,920,12-Aug-21
+186,31,Agra,Agra,Potato,Desi,FAQ,850,1050,930,11-Aug-21
+187,32,Agra,Agra,Potato,Desi,FAQ,800,1050,920,10-Aug-21
+188,33,Agra,Agra,Potato,Desi,FAQ,850,1050,925,09-Aug-21
+189,34,Agra,Agra,Potato,Desi,FAQ,800,1050,920,07-Aug-21
+190,35,Agra,Agra,Potato,Desi,FAQ,800,1050,925,06-Aug-21
+191,36,Agra,Agra,Potato,Desi,FAQ,800,1050,930,05-Aug-21
+192,37,Agra,Agra,Potato,Desi,FAQ,800,1050,920,04-Aug-21
+193,38,Agra,Agra,Potato,Desi,FAQ,800,1050,920,03-Aug-21
+194,39,Agra,Agra,Potato,Desi,FAQ,850,1050,925,02-Aug-21
+195,40,Agra,Agra,Potato,Desi,FAQ,800,1050,920,31-Jul-21
+196,41,Agra,Agra,Potato,Desi,FAQ,800,1050,920,29-Jul-21
+197,42,Agra,Agra,Potato,Desi,FAQ,800,1050,925,28-Jul-21
+198,43,Agra,Agra,Potato,Desi,FAQ,800,1050,920,27-Jul-21
+199,44,Agra,Agra,Potato,Desi,FAQ,800,1000,910,26-Jul-21
+200,45,Agra,Agra,Potato,Desi,FAQ,800,1050,915,24-Jul-21
+201,46,Agra,Agra,Potato,Desi,FAQ,850,1050,925,23-Jul-21
+202,47,Agra,Agra,Potato,Desi,FAQ,800,1050,910,22-Jul-21
+203,48,Agra,Agra,Potato,Desi,FAQ,800,1000,900,21-Jul-21
+204,49,Agra,Agra,Potato,Desi,FAQ,800,1000,900,20-Jul-21
+205,50,Agra,Agra,Potato,Desi,FAQ,800,1050,920,19-Jul-21
 206,,,,,,,,,,
 207,,,,,,,,,,
-208,1,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,16 Sep 2021
-209,2,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,15 Sep 2021
-210,3,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,14 Sep 2021
-211,4,Agra,Agra,Potato,Desi,FAQ,800,1020,920.0,13 Sep 2021
-212,5,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,11 Sep 2021
-213,6,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,10 Sep 2021
-214,7,Agra,Agra,Potato,Desi,FAQ,800,1000,920.0,09 Sep 2021
-215,8,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,08 Sep 2021
-216,9,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,07 Sep 2021
-217,10,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,06 Sep 2021
-218,11,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,04 Sep 2021
-219,12,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,03 Sep 2021
-220,13,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,02 Sep 2021
-221,14,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,31 Aug 2021
-222,15,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,30 Aug 2021
-223,16,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,28 Aug 2021
-224,17,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,27 Aug 2021
-225,18,Agra,Agra,Potato,Desi,FAQ,850,1030,925.0,26 Aug 2021
-226,19,Agra,Agra,Potato,Desi,FAQ,830,1050,920.0,25 Aug 2021
-227,20,Agra,Agra,Potato,Desi,FAQ,820,1030,915.0,24 Aug 2021
-228,21,Agra,Agra,Potato,Desi,FAQ,850,1025,920.0,23 Aug 2021
-229,22,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,21 Aug 2021
-230,23,Agra,Agra,Potato,Desi,FAQ,810,1020,920.0,20 Aug 2021
-231,24,Agra,Agra,Potato,Desi,FAQ,820,1030,925.0,19 Aug 2021
-232,25,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,18 Aug 2021
-233,26,Agra,Agra,Potato,Desi,FAQ,815,1020,925.0,17 Aug 2021
-234,27,Agra,Agra,Potato,Desi,FAQ,810,1020,925.0,16 Aug 2021
-235,28,Agra,Agra,Potato,Desi,FAQ,810,1025,920.0,14 Aug 2021
-236,29,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,13 Aug 2021
-237,30,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,12 Aug 2021
-238,31,Agra,Agra,Potato,Desi,FAQ,850,1050,930.0,11 Aug 2021
-239,32,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,10 Aug 2021
-240,33,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,09 Aug 2021
-241,34,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,07 Aug 2021
-242,35,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,06 Aug 2021
-243,36,Agra,Agra,Potato,Desi,FAQ,800,1050,930.0,05 Aug 2021
-244,37,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,04 Aug 2021
-245,38,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,03 Aug 2021
-246,39,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,02 Aug 2021
-247,40,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,31 Jul 2021
-248,41,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,29 Jul 2021
-249,42,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,28 Jul 2021
-250,43,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,27 Jul 2021
-251,44,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,26 Jul 2021
-252,45,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,24 Jul 2021
-253,46,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,23 Jul 2021
-254,47,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,22 Jul 2021
-255,48,Agra,Agra,Potato,Desi,FAQ,800,1000,900.0,21 Jul 2021
-256,49,Agra,Agra,Potato,Desi,FAQ,800,1000,900.0,20 Jul 2021
-257,50,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,19 Jul 2021
+208,1,Agra,Agra,Potato,Desi,FAQ,800,1050,910,16-Sep-21
+209,2,Agra,Agra,Potato,Desi,FAQ,800,1050,915,15-Sep-21
+210,3,Agra,Agra,Potato,Desi,FAQ,800,1050,910,14-Sep-21
+211,4,Agra,Agra,Potato,Desi,FAQ,800,1020,920,13-Sep-21
+212,5,Agra,Agra,Potato,Desi,FAQ,800,1000,910,11-Sep-21
+213,6,Agra,Agra,Potato,Desi,FAQ,800,1050,915,10-Sep-21
+214,7,Agra,Agra,Potato,Desi,FAQ,800,1000,920,09-Sep-21
+215,8,Agra,Agra,Potato,Desi,FAQ,800,1000,910,08-Sep-21
+216,9,Agra,Agra,Potato,Desi,FAQ,800,1050,920,07-Sep-21
+217,10,Agra,Agra,Potato,Desi,FAQ,800,1050,915,06-Sep-21
+218,11,Agra,Agra,Potato,Desi,FAQ,800,1050,910,04-Sep-21
+219,12,Agra,Agra,Potato,Desi,FAQ,800,1050,920,03-Sep-21
+220,13,Agra,Agra,Potato,Desi,FAQ,800,1000,910,02-Sep-21
+221,14,Agra,Agra,Potato,Desi,FAQ,800,1050,920,31-Aug-21
+222,15,Agra,Agra,Potato,Desi,FAQ,800,1050,910,30-Aug-21
+223,16,Agra,Agra,Potato,Desi,FAQ,800,1050,925,28-Aug-21
+224,17,Agra,Agra,Potato,Desi,FAQ,800,1050,920,27-Aug-21
+225,18,Agra,Agra,Potato,Desi,FAQ,850,1030,925,26-Aug-21
+226,19,Agra,Agra,Potato,Desi,FAQ,830,1050,920,25-Aug-21
+227,20,Agra,Agra,Potato,Desi,FAQ,820,1030,915,24-Aug-21
+228,21,Agra,Agra,Potato,Desi,FAQ,850,1025,920,23-Aug-21
+229,22,Agra,Agra,Potato,Desi,FAQ,800,1050,910,21-Aug-21
+230,23,Agra,Agra,Potato,Desi,FAQ,810,1020,920,20-Aug-21
+231,24,Agra,Agra,Potato,Desi,FAQ,820,1030,925,19-Aug-21
+232,25,Agra,Agra,Potato,Desi,FAQ,800,1050,920,18-Aug-21
+233,26,Agra,Agra,Potato,Desi,FAQ,815,1020,925,17-Aug-21
+234,27,Agra,Agra,Potato,Desi,FAQ,810,1020,925,16-Aug-21
+235,28,Agra,Agra,Potato,Desi,FAQ,810,1025,920,14-Aug-21
+236,29,Agra,Agra,Potato,Desi,FAQ,800,1050,925,13-Aug-21
+237,30,Agra,Agra,Potato,Desi,FAQ,800,1050,920,12-Aug-21
+238,31,Agra,Agra,Potato,Desi,FAQ,850,1050,930,11-Aug-21
+239,32,Agra,Agra,Potato,Desi,FAQ,800,1050,920,10-Aug-21
+240,33,Agra,Agra,Potato,Desi,FAQ,850,1050,925,09-Aug-21
+241,34,Agra,Agra,Potato,Desi,FAQ,800,1050,920,07-Aug-21
+242,35,Agra,Agra,Potato,Desi,FAQ,800,1050,925,06-Aug-21
+243,36,Agra,Agra,Potato,Desi,FAQ,800,1050,930,05-Aug-21
+244,37,Agra,Agra,Potato,Desi,FAQ,800,1050,920,04-Aug-21
+245,38,Agra,Agra,Potato,Desi,FAQ,800,1050,920,03-Aug-21
+246,39,Agra,Agra,Potato,Desi,FAQ,850,1050,925,02-Aug-21
+247,40,Agra,Agra,Potato,Desi,FAQ,800,1050,920,31-Jul-21
+248,41,Agra,Agra,Potato,Desi,FAQ,800,1050,920,29-Jul-21
+249,42,Agra,Agra,Potato,Desi,FAQ,800,1050,925,28-Jul-21
+250,43,Agra,Agra,Potato,Desi,FAQ,800,1050,920,27-Jul-21
+251,44,Agra,Agra,Potato,Desi,FAQ,800,1000,910,26-Jul-21
+252,45,Agra,Agra,Potato,Desi,FAQ,800,1050,915,24-Jul-21
+253,46,Agra,Agra,Potato,Desi,FAQ,850,1050,925,23-Jul-21
+254,47,Agra,Agra,Potato,Desi,FAQ,800,1050,910,22-Jul-21
+255,48,Agra,Agra,Potato,Desi,FAQ,800,1000,900,21-Jul-21
+256,49,Agra,Agra,Potato,Desi,FAQ,800,1000,900,20-Jul-21
+257,50,Agra,Agra,Potato,Desi,FAQ,800,1050,920,19-Jul-21
 258,,,,,,,,,,
 259,,,,,,,,,,
-260,1,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,16 Sep 2021
-261,2,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,15 Sep 2021
-262,3,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,14 Sep 2021
-263,4,Agra,Agra,Potato,Desi,FAQ,800,1020,920.0,13 Sep 2021
-264,5,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,11 Sep 2021
-265,6,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,10 Sep 2021
-266,7,Agra,Agra,Potato,Desi,FAQ,800,1000,920.0,09 Sep 2021
-267,8,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,08 Sep 2021
-268,9,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,07 Sep 2021
-269,10,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,06 Sep 2021
-270,11,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,04 Sep 2021
-271,12,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,03 Sep 2021
-272,13,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,02 Sep 2021
-273,14,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,31 Aug 2021
-274,15,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,30 Aug 2021
-275,16,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,28 Aug 2021
-276,17,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,27 Aug 2021
-277,18,Agra,Agra,Potato,Desi,FAQ,850,1030,925.0,26 Aug 2021
-278,19,Agra,Agra,Potato,Desi,FAQ,830,1050,920.0,25 Aug 2021
-279,20,Agra,Agra,Potato,Desi,FAQ,820,1030,915.0,24 Aug 2021
-280,21,Agra,Agra,Potato,Desi,FAQ,850,1025,920.0,23 Aug 2021
-281,22,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,21 Aug 2021
-282,23,Agra,Agra,Potato,Desi,FAQ,810,1020,920.0,20 Aug 2021
-283,24,Agra,Agra,Potato,Desi,FAQ,820,1030,925.0,19 Aug 2021
-284,25,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,18 Aug 2021
-285,26,Agra,Agra,Potato,Desi,FAQ,815,1020,925.0,17 Aug 2021
-286,27,Agra,Agra,Potato,Desi,FAQ,810,1020,925.0,16 Aug 2021
-287,28,Agra,Agra,Potato,Desi,FAQ,810,1025,920.0,14 Aug 2021
-288,29,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,13 Aug 2021
-289,30,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,12 Aug 2021
-290,31,Agra,Agra,Potato,Desi,FAQ,850,1050,930.0,11 Aug 2021
-291,32,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,10 Aug 2021
-292,33,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,09 Aug 2021
-293,34,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,07 Aug 2021
-294,35,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,06 Aug 2021
-295,36,Agra,Agra,Potato,Desi,FAQ,800,1050,930.0,05 Aug 2021
-296,37,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,04 Aug 2021
-297,38,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,03 Aug 2021
-298,39,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,02 Aug 2021
-299,40,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,31 Jul 2021
-300,41,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,29 Jul 2021
-301,42,Agra,Agra,Potato,Desi,FAQ,800,1050,925.0,28 Jul 2021
-302,43,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,27 Jul 2021
-303,44,Agra,Agra,Potato,Desi,FAQ,800,1000,910.0,26 Jul 2021
-304,45,Agra,Agra,Potato,Desi,FAQ,800,1050,915.0,24 Jul 2021
-305,46,Agra,Agra,Potato,Desi,FAQ,850,1050,925.0,23 Jul 2021
-306,47,Agra,Agra,Potato,Desi,FAQ,800,1050,910.0,22 Jul 2021
-307,48,Agra,Agra,Potato,Desi,FAQ,800,1000,900.0,21 Jul 2021
-308,49,Agra,Agra,Potato,Desi,FAQ,800,1000,900.0,20 Jul 2021
-309,50,Agra,Agra,Potato,Desi,FAQ,800,1050,920.0,19 Jul 2021
+260,1,Agra,Agra,Potato,Desi,FAQ,800,1050,910,16-Sep-21
+261,2,Agra,Agra,Potato,Desi,FAQ,800,1050,915,15-Sep-21
+262,3,Agra,Agra,Potato,Desi,FAQ,800,1050,910,14-Sep-21
+263,4,Agra,Agra,Potato,Desi,FAQ,800,1020,920,13-Sep-21
+264,5,Agra,Agra,Potato,Desi,FAQ,800,1000,910,11-Sep-21
+265,6,Agra,Agra,Potato,Desi,FAQ,800,1050,915,10-Sep-21
+266,7,Agra,Agra,Potato,Desi,FAQ,800,1000,920,09-Sep-21
+267,8,Agra,Agra,Potato,Desi,FAQ,800,1000,910,08-Sep-21
+268,9,Agra,Agra,Potato,Desi,FAQ,800,1050,920,07-Sep-21
+269,10,Agra,Agra,Potato,Desi,FAQ,800,1050,915,06-Sep-21
+270,11,Agra,Agra,Potato,Desi,FAQ,800,1050,910,04-Sep-21
+271,12,Agra,Agra,Potato,Desi,FAQ,800,1050,920,03-Sep-21
+272,13,Agra,Agra,Potato,Desi,FAQ,800,1000,910,02-Sep-21
+273,14,Agra,Agra,Potato,Desi,FAQ,800,1050,920,31-Aug-21
+274,15,Agra,Agra,Potato,Desi,FAQ,800,1050,910,30-Aug-21
+275,16,Agra,Agra,Potato,Desi,FAQ,800,1050,925,28-Aug-21
+276,17,Agra,Agra,Potato,Desi,FAQ,800,1050,920,27-Aug-21
+277,18,Agra,Agra,Potato,Desi,FAQ,850,1030,925,26-Aug-21
+278,19,Agra,Agra,Potato,Desi,FAQ,830,1050,920,25-Aug-21
+279,20,Agra,Agra,Potato,Desi,FAQ,820,1030,915,24-Aug-21
+280,21,Agra,Agra,Potato,Desi,FAQ,850,1025,920,23-Aug-21
+281,22,Agra,Agra,Potato,Desi,FAQ,800,1050,910,21-Aug-21
+282,23,Agra,Agra,Potato,Desi,FAQ,810,1020,920,20-Aug-21
+283,24,Agra,Agra,Potato,Desi,FAQ,820,1030,925,19-Aug-21
+284,25,Agra,Agra,Potato,Desi,FAQ,800,1050,920,18-Aug-21
+285,26,Agra,Agra,Potato,Desi,FAQ,815,1020,925,17-Aug-21
+286,27,Agra,Agra,Potato,Desi,FAQ,810,1020,925,16-Aug-21
+287,28,Agra,Agra,Potato,Desi,FAQ,810,1025,920,14-Aug-21
+288,29,Agra,Agra,Potato,Desi,FAQ,800,1050,925,13-Aug-21
+289,30,Agra,Agra,Potato,Desi,FAQ,800,1050,920,12-Aug-21
+290,31,Agra,Agra,Potato,Desi,FAQ,850,1050,930,11-Aug-21
+291,32,Agra,Agra,Potato,Desi,FAQ,800,1050,920,10-Aug-21
+292,33,Agra,Agra,Potato,Desi,FAQ,850,1050,925,09-Aug-21
+293,34,Agra,Agra,Potato,Desi,FAQ,800,1050,920,07-Aug-21
+294,35,Agra,Agra,Potato,Desi,FAQ,800,1050,925,06-Aug-21
+295,36,Agra,Agra,Potato,Desi,FAQ,800,1050,930,05-Aug-21
+296,37,Agra,Agra,Potato,Desi,FAQ,800,1050,920,04-Aug-21
+297,38,Agra,Agra,Potato,Desi,FAQ,800,1050,920,03-Aug-21
+298,39,Agra,Agra,Potato,Desi,FAQ,850,1050,925,02-Aug-21
+299,40,Agra,Agra,Potato,Desi,FAQ,800,1050,920,31-Jul-21
+300,41,Agra,Agra,Potato,Desi,FAQ,800,1050,920,29-Jul-21
+301,42,Agra,Agra,Potato,Desi,FAQ,800,1050,925,28-Jul-21
+302,43,Agra,Agra,Potato,Desi,FAQ,800,1050,920,27-Jul-21
+303,44,Agra,Agra,Potato,Desi,FAQ,800,1000,910,26-Jul-21
+304,45,Agra,Agra,Potato,Desi,FAQ,800,1050,915,24-Jul-21
+305,46,Agra,Agra,Potato,Desi,FAQ,850,1050,925,23-Jul-21
+306,47,Agra,Agra,Potato,Desi,FAQ,800,1050,910,22-Jul-21
+307,48,Agra,Agra,Potato,Desi,FAQ,800,1000,900,21-Jul-21
+308,49,Agra,Agra,Potato,Desi,FAQ,800,1000,900,20-Jul-21
+309,50,Agra,Agra,Potato,Desi,FAQ,800,1050,920,19-Jul-21
 310,,,,,,,,,,
 311,,,,,,,,,,
-312,1,Agra,Fatehpur Sikri,Potato,Local,FAQ,850,1000,925.0,16 Sep 2021
-313,2,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,910.0,15 Sep 2021
-314,3,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,935.0,14 Sep 2021
-315,4,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,915.0,13 Sep 2021
-316,5,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,900.0,11 Sep 2021
-317,6,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920.0,10 Sep 2021
-318,7,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,910.0,09 Sep 2021
-319,8,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,915.0,08 Sep 2021
-320,9,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,930.0,07 Sep 2021
-321,10,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920.0,06 Sep 2021
-322,11,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,950,880.0,04 Sep 2021
-323,12,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,905.0,03 Sep 2021
-324,13,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1100,950.0,02 Sep 2021
-325,14,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,935.0,31 Aug 2021
-326,15,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920.0,30 Aug 2021
-327,16,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1100,945.0,27 Aug 2021
-328,17,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,900.0,26 Aug 2021
-329,18,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920.0,25 Aug 2021
-330,19,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,910.0,24 Aug 2021
-331,20,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,900.0,23 Aug 2021
-332,21,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1100,950.0,20 Aug 2021
-333,22,Agra,Fatehpur Sikri,Potato,Local,FAQ,850,1050,940.0,19 Aug 2021
-334,23,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,910.0,18 Aug 2021
-335,24,Agra,Fatehpur Sikri,Potato,Local,FAQ,850,1000,935.0,17 Aug 2021
-336,25,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920.0,16 Aug 2021
-337,26,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1100,940.0,14 Aug 2021
-338,27,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,915.0,13 Aug 2021
-339,28,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,930.0,12 Aug 2021
-340,29,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,940.0,11 Aug 2021
-341,30,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,925.0,10 Aug 2021
-342,31,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,935.0,09 Aug 2021
-343,32,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,930.0,07 Aug 2021
-344,33,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,910.0,06 Aug 2021
-345,34,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,900.0,05 Aug 2021
-346,35,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,915.0,04 Aug 2021
-347,36,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,930.0,03 Aug 2021
-348,37,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920.0,31 Jul 2021
-349,38,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,915.0,30 Jul 2021
-350,39,Agra,Fatehpur Sikri,Potato,Local,FAQ,850,1050,940.0,29 Jul 2021
-351,40,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,925.0,28 Jul 2021
-352,41,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,905.0,27 Jul 2021
-353,42,Agra,Fatehpur Sikri,Potato,Local,FAQ,650,1000,870.0,26 Jul 2021
-354,43,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,895.0,24 Jul 2021
-355,44,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,905.0,23 Jul 2021
-356,45,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,880.0,22 Jul 2021
-357,46,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,895.0,20 Jul 2021
-358,47,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,950,875.0,19 Jul 2021
-359,48,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,950,865.0,17 Jul 2021
-360,49,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,880.0,16 Jul 2021
-361,50,Agra,Fatehpur Sikri,Potato,Local,FAQ,750,1000,860.0,15 Jul 2021
+312,1,Agra,Fatehpur Sikri,Potato,Local,FAQ,850,1000,925,16-Sep-21
+313,2,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,910,15-Sep-21
+314,3,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,935,14-Sep-21
+315,4,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,915,13-Sep-21
+316,5,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,900,11-Sep-21
+317,6,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920,10-Sep-21
+318,7,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,910,09-Sep-21
+319,8,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,915,08-Sep-21
+320,9,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,930,07-Sep-21
+321,10,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920,06-Sep-21
+322,11,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,950,880,04-Sep-21
+323,12,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,905,03-Sep-21
+324,13,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1100,950,02-Sep-21
+325,14,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,935,31-Aug-21
+326,15,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920,30-Aug-21
+327,16,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1100,945,27-Aug-21
+328,17,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,900,26-Aug-21
+329,18,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920,25-Aug-21
+330,19,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,910,24-Aug-21
+331,20,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,900,23-Aug-21
+332,21,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1100,950,20-Aug-21
+333,22,Agra,Fatehpur Sikri,Potato,Local,FAQ,850,1050,940,19-Aug-21
+334,23,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,910,18-Aug-21
+335,24,Agra,Fatehpur Sikri,Potato,Local,FAQ,850,1000,935,17-Aug-21
+336,25,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920,16-Aug-21
+337,26,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1100,940,14-Aug-21
+338,27,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,915,13-Aug-21
+339,28,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,930,12-Aug-21
+340,29,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,940,11-Aug-21
+341,30,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,925,10-Aug-21
+342,31,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,935,09-Aug-21
+343,32,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,930,07-Aug-21
+344,33,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,910,06-Aug-21
+345,34,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,900,05-Aug-21
+346,35,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,915,04-Aug-21
+347,36,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,930,03-Aug-21
+348,37,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1050,920,31-Jul-21
+349,38,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,915,30-Jul-21
+350,39,Agra,Fatehpur Sikri,Potato,Local,FAQ,850,1050,940,29-Jul-21
+351,40,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,925,28-Jul-21
+352,41,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,905,27-Jul-21
+353,42,Agra,Fatehpur Sikri,Potato,Local,FAQ,650,1000,870,26-Jul-21
+354,43,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,895,24-Jul-21
+355,44,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,905,23-Jul-21
+356,45,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,880,22-Jul-21
+357,46,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,895,20-Jul-21
+358,47,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,950,875,19-Jul-21
+359,48,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,950,865,17-Jul-21
+360,49,Agra,Fatehpur Sikri,Potato,Local,FAQ,800,1000,880,16-Jul-21
+361,50,Agra,Fatehpur Sikri,Potato,Local,FAQ,750,1000,860,15-Jul-21
 362,,,,,,,,,,
 363,,,,,,,,,,
-364,1,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950.0,16 Sep 2021
-365,2,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950.0,15 Sep 2021
-366,3,Agra,Jagnair,Potato,Desi,FAQ,950,1050,1000.0,14 Sep 2021
-367,4,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950.0,13 Sep 2021
-368,5,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950.0,12 Sep 2021
-369,6,Agra,Jagnair,Potato,Desi,FAQ,1050,1150,1100.0,11 Sep 2021
-370,7,Agra,Jagnair,Potato,Desi,FAQ,950,1050,1000.0,10 Sep 2021
-371,8,Agra,Jagnair,Potato,Desi,FAQ,950,1050,1000.0,09 Sep 2021
-372,9,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050.0,08 Sep 2021
-373,10,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050.0,07 Sep 2021
-374,11,Agra,Jagnair,Potato,Desi,FAQ,1000,1080,1040.0,06 Sep 2021
-375,12,Agra,Jagnair,Potato,Desi,FAQ,1000,1050,1025.0,05 Sep 2021
-376,13,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050.0,04 Sep 2021
-377,14,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050.0,03 Sep 2021
-378,15,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050.0,01 Sep 2021
-379,16,Agra,Jagnair,Potato,Desi,FAQ,1050,1150,1100.0,31 Aug 2021
-380,17,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050.0,27 Aug 2021
-381,18,Agra,Jagnair,Potato,Desi,FAQ,1000,1050,1025.0,26 Aug 2021
-382,19,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050.0,25 Aug 2021
-383,20,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050.0,24 Aug 2021
-384,21,Agra,Jagnair,Potato,Desi,FAQ,950,1050,1000.0,23 Aug 2021
-385,22,Agra,Jagnair,Potato,Desi,FAQ,1000,1050,1025.0,22 Aug 2021
-386,23,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050.0,21 Aug 2021
-387,24,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300.0,20 Aug 2021
-388,25,Agra,Jagnair,Potato,Desi,FAQ,1450,1550,1500.0,19 Aug 2021
-389,26,Agra,Jagnair,Potato,Desi,FAQ,1250,1350,1300.0,18 Aug 2021
-390,27,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450.0,17 Aug 2021
-391,28,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250.0,16 Aug 2021
-392,29,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250.0,15 Aug 2021
-393,30,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450.0,14 Aug 2021
-394,31,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300.0,13 Aug 2021
-395,32,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300.0,11 Aug 2021
-396,33,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450.0,10 Aug 2021
-397,34,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300.0,09 Aug 2021
-398,35,Agra,Jagnair,Potato,Desi,FAQ,1300,1500,1400.0,08 Aug 2021
-399,36,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250.0,07 Aug 2021
-400,37,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250.0,06 Aug 2021
-401,38,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250.0,05 Aug 2021
-402,39,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300.0,04 Aug 2021
-403,40,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250.0,03 Aug 2021
-404,41,Agra,Jagnair,Potato,Desi,FAQ,1100,1200,1150.0,02 Aug 2021
-405,42,Agra,Jagnair,Potato,Desi,FAQ,1300,1400,1350.0,01 Aug 2021
-406,43,Agra,Jagnair,Potato,Desi,FAQ,1500,1600,1550.0,31 Jul 2021
-407,44,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450.0,30 Jul 2021
-408,45,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450.0,29 Jul 2021
-409,46,Agra,Jagnair,Potato,Desi,FAQ,1300,1400,1350.0,26 Jul 2021
-410,47,Agra,Jagnair,Potato,Desi,FAQ,1300,1400,1350.0,25 Jul 2021
-411,48,Agra,Jagnair,Potato,Desi,FAQ,1400,1450,1425.0,24 Jul 2021
-412,49,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300.0,23 Jul 2021
-413,50,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450.0,22 Jul 2021
+364,1,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,16-Sep-21
+365,2,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,15-Sep-21
+366,3,Agra,Jagnair,Potato,Desi,FAQ,950,1050,1000,14-Sep-21
+367,4,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,13-Sep-21
+368,5,Agra,Jagnair,Potato,Desi,FAQ,900,1000,950,12-Sep-21
+369,6,Agra,Jagnair,Potato,Desi,FAQ,1050,1150,1100,11-Sep-21
+370,7,Agra,Jagnair,Potato,Desi,FAQ,950,1050,1000,10-Sep-21
+371,8,Agra,Jagnair,Potato,Desi,FAQ,950,1050,1000,09-Sep-21
+372,9,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,08-Sep-21
+373,10,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,07-Sep-21
+374,11,Agra,Jagnair,Potato,Desi,FAQ,1000,1080,1040,06-Sep-21
+375,12,Agra,Jagnair,Potato,Desi,FAQ,1000,1050,1025,05-Sep-21
+376,13,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,04-Sep-21
+377,14,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,03-Sep-21
+378,15,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,01-Sep-21
+379,16,Agra,Jagnair,Potato,Desi,FAQ,1050,1150,1100,31-Aug-21
+380,17,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,27-Aug-21
+381,18,Agra,Jagnair,Potato,Desi,FAQ,1000,1050,1025,26-Aug-21
+382,19,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,25-Aug-21
+383,20,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,24-Aug-21
+384,21,Agra,Jagnair,Potato,Desi,FAQ,950,1050,1000,23-Aug-21
+385,22,Agra,Jagnair,Potato,Desi,FAQ,1000,1050,1025,22-Aug-21
+386,23,Agra,Jagnair,Potato,Desi,FAQ,1000,1100,1050,21-Aug-21
+387,24,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300,20-Aug-21
+388,25,Agra,Jagnair,Potato,Desi,FAQ,1450,1550,1500,19-Aug-21
+389,26,Agra,Jagnair,Potato,Desi,FAQ,1250,1350,1300,18-Aug-21
+390,27,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,17-Aug-21
+391,28,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,16-Aug-21
+392,29,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,15-Aug-21
+393,30,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,14-Aug-21
+394,31,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300,13-Aug-21
+395,32,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300,11-Aug-21
+396,33,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,10-Aug-21
+397,34,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300,09-Aug-21
+398,35,Agra,Jagnair,Potato,Desi,FAQ,1300,1500,1400,08-Aug-21
+399,36,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,07-Aug-21
+400,37,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,06-Aug-21
+401,38,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,05-Aug-21
+402,39,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300,04-Aug-21
+403,40,Agra,Jagnair,Potato,Desi,FAQ,1200,1300,1250,03-Aug-21
+404,41,Agra,Jagnair,Potato,Desi,FAQ,1100,1200,1150,02-Aug-21
+405,42,Agra,Jagnair,Potato,Desi,FAQ,1300,1400,1350,01-Aug-21
+406,43,Agra,Jagnair,Potato,Desi,FAQ,1500,1600,1550,31-Jul-21
+407,44,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,30-Jul-21
+408,45,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,29-Jul-21
+409,46,Agra,Jagnair,Potato,Desi,FAQ,1300,1400,1350,26-Jul-21
+410,47,Agra,Jagnair,Potato,Desi,FAQ,1300,1400,1350,25-Jul-21
+411,48,Agra,Jagnair,Potato,Desi,FAQ,1400,1450,1425,24-Jul-21
+412,49,Agra,Jagnair,Potato,Desi,FAQ,1200,1400,1300,23-Jul-21
+413,50,Agra,Jagnair,Potato,Desi,FAQ,1400,1500,1450,22-Jul-21
 414,,,,,,,,,,
 415,,,,,,,,,,
-416,1,Agra,Jarar,Potato,Desi,FAQ,800,1000,900.0,27 Aug 2021
-417,2,Agra,Jarar,Potato,Desi,FAQ,2550,2750,2650.0,30 Oct 2020
-418,3,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,30 Jun 2020
-419,4,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,29 Jun 2020
-420,5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,27 Jun 2020
-421,6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,26 Jun 2020
-422,7,Agra,Jarar,Potato,Desi,FAQ,1110,1200,1150.0,25 Jun 2020
-423,8,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,24 Jun 2020
-424,9,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,22 Jun 2020
-425,10,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,20 Jun 2020
-426,11,Agra,Jarar,Potato,Desi,FAQ,1100,1190,1140.0,19 Jun 2020
-427,12,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,18 Jun 2020
-428,13,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,17 Jun 2020
-429,14,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,16 Jun 2020
-430,15,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,15 Jun 2020
-431,16,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,13 Jun 2020
-432,17,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,12 Jun 2020
-433,18,Agra,Jarar,Potato,Desi,FAQ,1200,1250,1220.0,11 Jun 2020
-434,19,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,10 Jun 2020
-435,20,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,08 Jun 2020
-436,21,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,07 Jun 2020
-437,22,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,05 Jun 2020
-438,23,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,04 Jun 2020
-439,24,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,03 Jun 2020
-440,25,Agra,Jarar,Potato,Desi,FAQ,1110,1200,1150.0,02 Jun 2020
-441,26,Agra,Jarar,Potato,Desi,FAQ,1120,1200,1160.0,01 Jun 2020
-442,27,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,31 May 2020
-443,28,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,29 May 2020
-444,29,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,27 May 2020
-445,30,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,26 May 2020
-446,31,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,25 May 2020
-447,32,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,24 May 2020
-448,33,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,22 May 2020
-449,34,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,20 May 2020
-450,35,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,19 May 2020
-451,36,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,18 May 2020
-452,37,Agra,Jarar,Potato,Desi,FAQ,1400,1450,1420.0,17 May 2020
-453,38,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,15 May 2020
-454,39,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150.0,14 May 2020
-455,40,Agra,Jarar,Potato,Desi,FAQ,1100,1300,1200.0,13 May 2020
-456,41,Agra,Jarar,Potato,Desi,FAQ,1200,1400,1300.0,12 May 2020
-457,42,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300.0,11 May 2020
-458,43,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300.0,10 May 2020
-459,44,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300.0,08 May 2020
-460,45,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300.0,07 May 2020
-461,46,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300.0,06 May 2020
-462,47,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300.0,05 May 2020
-463,48,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350.0,04 May 2020
-464,49,Agra,Jarar,Potato,Desi,FAQ,1310,1400,1360.0,03 May 2020
-465,50,Agra,Jarar,Potato,Desi,FAQ,1310,1400,1350.0,01 May 2020
+416,1,Agra,Jarar,Potato,Desi,FAQ,800,1000,900,27-Aug-21
+417,2,Agra,Jarar,Potato,Desi,FAQ,2550,2750,2650,30-Oct-20
+418,3,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,30-Jun-20
+419,4,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,29-Jun-20
+420,5,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,27-Jun-20
+421,6,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,26-Jun-20
+422,7,Agra,Jarar,Potato,Desi,FAQ,1110,1200,1150,25-Jun-20
+423,8,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,24-Jun-20
+424,9,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,22-Jun-20
+425,10,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,20-Jun-20
+426,11,Agra,Jarar,Potato,Desi,FAQ,1100,1190,1140,19-Jun-20
+427,12,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,18-Jun-20
+428,13,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,17-Jun-20
+429,14,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,16-Jun-20
+430,15,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,15-Jun-20
+431,16,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,13-Jun-20
+432,17,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,12-Jun-20
+433,18,Agra,Jarar,Potato,Desi,FAQ,1200,1250,1220,11-Jun-20
+434,19,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,10-Jun-20
+435,20,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,08-Jun-20
+436,21,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,07-Jun-20
+437,22,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,05-Jun-20
+438,23,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,04-Jun-20
+439,24,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,03-Jun-20
+440,25,Agra,Jarar,Potato,Desi,FAQ,1110,1200,1150,02-Jun-20
+441,26,Agra,Jarar,Potato,Desi,FAQ,1120,1200,1160,01-Jun-20
+442,27,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,31-May-20
+443,28,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,29-May-20
+444,29,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,27-May-20
+445,30,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,26-May-20
+446,31,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,25-May-20
+447,32,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,24-May-20
+448,33,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,22-May-20
+449,34,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,20-May-20
+450,35,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,19-May-20
+451,36,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,18-May-20
+452,37,Agra,Jarar,Potato,Desi,FAQ,1400,1450,1420,17-May-20
+453,38,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,15-May-20
+454,39,Agra,Jarar,Potato,Desi,FAQ,1100,1200,1150,14-May-20
+455,40,Agra,Jarar,Potato,Desi,FAQ,1100,1300,1200,13-May-20
+456,41,Agra,Jarar,Potato,Desi,FAQ,1200,1400,1300,12-May-20
+457,42,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,11-May-20
+458,43,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,10-May-20
+459,44,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,08-May-20
+460,45,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,07-May-20
+461,46,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,06-May-20
+462,47,Agra,Jarar,Potato,Desi,FAQ,1250,1350,1300,05-May-20
+463,48,Agra,Jarar,Potato,Desi,FAQ,1300,1400,1350,04-May-20
+464,49,Agra,Jarar,Potato,Desi,FAQ,1310,1400,1360,03-May-20
+465,50,Agra,Jarar,Potato,Desi,FAQ,1310,1400,1350,01-May-20
 466,,,,,,,,,,
 467,,,,,,,,,,
-468,1,Agra,Khairagarh,Potato,Desi,FAQ,750,850,800.0,15 Sep 2021
-469,2,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,14 Sep 2021
-470,3,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750.0,13 Sep 2021
-471,4,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,12 Sep 2021
-472,5,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750.0,10 Sep 2021
-473,6,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,09 Sep 2021
-474,7,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750.0,08 Sep 2021
-475,8,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,07 Sep 2021
-476,9,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,06 Sep 2021
-477,10,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,05 Sep 2021
-478,11,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750.0,04 Sep 2021
-479,12,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,03 Sep 2021
-480,13,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,02 Sep 2021
-481,14,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,01 Sep 2021
-482,15,Agra,Khairagarh,Potato,Desi,FAQ,850,950,900.0,30 Aug 2021
-483,16,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,29 Aug 2021
-484,17,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,28 Aug 2021
-485,18,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,27 Aug 2021
-486,19,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,26 Aug 2021
-487,20,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,25 Aug 2021
-488,21,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,24 Aug 2021
-489,22,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,23 Aug 2021
-490,23,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,22 Aug 2021
-491,24,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,21 Aug 2021
-492,25,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,19 Aug 2021
-493,26,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,18 Aug 2021
-494,27,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,17 Aug 2021
-495,28,Agra,Khairagarh,Potato,Desi,FAQ,750,850,800.0,16 Aug 2021
-496,29,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,15 Aug 2021
-497,30,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,14 Aug 2021
-498,31,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,13 Aug 2021
-499,32,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,12 Aug 2021
-500,33,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,11 Aug 2021
-501,34,Agra,Khairagarh,Potato,Desi,FAQ,750,850,800.0,09 Aug 2021
-502,35,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,07 Aug 2021
-503,36,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,05 Aug 2021
-504,37,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,04 Aug 2021
-505,38,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,03 Aug 2021
-506,39,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,02 Aug 2021
-507,40,Agra,Khairagarh,Potato,Desi,FAQ,600,800,700.0,31 Jul 2021
-508,41,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750.0,30 Jul 2021
-509,42,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750.0,29 Jul 2021
-510,43,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750.0,28 Jul 2021
-511,44,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750.0,27 Jul 2021
-512,45,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750.0,26 Jul 2021
-513,46,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,25 Jul 2021
-514,47,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,23 Jul 2021
-515,48,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750.0,22 Jul 2021
-516,49,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750.0,20 Jul 2021
-517,50,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850.0,19 Jul 2021
+468,1,Agra,Khairagarh,Potato,Desi,FAQ,750,850,800,15-Sep-21
+469,2,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,14-Sep-21
+470,3,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750,13-Sep-21
+471,4,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,12-Sep-21
+472,5,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750,10-Sep-21
+473,6,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,09-Sep-21
+474,7,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750,08-Sep-21
+475,8,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,07-Sep-21
+476,9,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,06-Sep-21
+477,10,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,05-Sep-21
+478,11,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750,04-Sep-21
+479,12,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,03-Sep-21
+480,13,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,02-Sep-21
+481,14,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,01-Sep-21
+482,15,Agra,Khairagarh,Potato,Desi,FAQ,850,950,900,30-Aug-21
+483,16,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,29-Aug-21
+484,17,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,28-Aug-21
+485,18,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,27-Aug-21
+486,19,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,26-Aug-21
+487,20,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,25-Aug-21
+488,21,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,24-Aug-21
+489,22,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,23-Aug-21
+490,23,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,22-Aug-21
+491,24,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,21-Aug-21
+492,25,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,19-Aug-21
+493,26,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,18-Aug-21
+494,27,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,17-Aug-21
+495,28,Agra,Khairagarh,Potato,Desi,FAQ,750,850,800,16-Aug-21
+496,29,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,15-Aug-21
+497,30,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,14-Aug-21
+498,31,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,13-Aug-21
+499,32,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,12-Aug-21
+500,33,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,11-Aug-21
+501,34,Agra,Khairagarh,Potato,Desi,FAQ,750,850,800,09-Aug-21
+502,35,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,07-Aug-21
+503,36,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,05-Aug-21
+504,37,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,04-Aug-21
+505,38,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,03-Aug-21
+506,39,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,02-Aug-21
+507,40,Agra,Khairagarh,Potato,Desi,FAQ,600,800,700,31-Jul-21
+508,41,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750,30-Jul-21
+509,42,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750,29-Jul-21
+510,43,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750,28-Jul-21
+511,44,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750,27-Jul-21
+512,45,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750,26-Jul-21
+513,46,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,25-Jul-21
+514,47,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,23-Jul-21
+515,48,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750,22-Jul-21
+516,49,Agra,Khairagarh,Potato,Desi,FAQ,700,800,750,20-Jul-21
+517,50,Agra,Khairagarh,Potato,Desi,FAQ,800,900,850,19-Jul-21
 518,,,,,,,,,,
 519,,,,,,,,,,
-520,1,Agra,Samsabad,Potato,Local,FAQ,880,920,900.0,30 Jul 2021
-521,2,Agra,Samsabad,Potato,Local,FAQ,2700,2800,2750.0,31 Oct 2020
-522,3,Agra,Samsabad,Potato,Local,FAQ,1950,2050,2000.0,28 Aug 2020
-523,4,Agra,Samsabad,Potato,Local,FAQ,1400,1600,1500.0,07 Jul 2020
-524,5,Agra,Samsabad,Potato,Local,FAQ,1300,1500,1400.0,06 Jul 2020
-525,6,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,05 Jul 2020
-526,7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,04 Jul 2020
-527,8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,03 Jul 2020
-528,9,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,01 Jul 2020
-529,10,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,30 Jun 2020
-530,11,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,29 Jun 2020
-531,12,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,28 Jun 2020
-532,13,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,27 Jun 2020
-533,14,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,26 Jun 2020
-534,15,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,25 Jun 2020
-535,16,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,24 Jun 2020
-536,17,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,23 Jun 2020
-537,18,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,20 Jun 2020
-538,19,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,18 Jun 2020
-539,20,Agra,Samsabad,Potato,Local,FAQ,1100,1400,1200.0,17 Jun 2020
-540,21,Agra,Samsabad,Potato,Local,FAQ,1000,1400,1200.0,16 Jun 2020
-541,22,Agra,Samsabad,Potato,Local,FAQ,1100,1400,1200.0,15 Jun 2020
-542,23,Agra,Samsabad,Potato,Local,FAQ,1100,1400,1200.0,14 Jun 2020
-543,24,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,13 Jun 2020
-544,25,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,11 Jun 2020
-545,26,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,10 Jun 2020
-546,27,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,09 Jun 2020
-547,28,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,08 Jun 2020
-548,29,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,07 Jun 2020
-549,30,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200.0,06 Jun 2020
-550,31,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200.0,03 Jun 2020
-551,32,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,02 Jun 2020
-552,33,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,01 Jun 2020
-553,34,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200.0,31 May 2020
-554,35,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200.0,30 May 2020
-555,36,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200.0,29 May 2020
-556,37,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200.0,28 May 2020
-557,38,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,27 May 2020
-558,39,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,26 May 2020
-559,40,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,24 May 2020
-560,41,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,23 May 2020
-561,42,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,22 May 2020
-562,43,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,21 May 2020
-563,44,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,20 May 2020
-564,45,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200.0,19 May 2020
-565,46,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,18 May 2020
-566,47,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200.0,17 May 2020
-567,48,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,16 May 2020
-568,49,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200.0,15 May 2020
-569,50,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200.0,14 May 2020
+520,1,Agra,Samsabad,Potato,Local,FAQ,880,920,900,30-Jul-21
+521,2,Agra,Samsabad,Potato,Local,FAQ,2700,2800,2750,31-Oct-20
+522,3,Agra,Samsabad,Potato,Local,FAQ,1950,2050,2000,28-Aug-20
+523,4,Agra,Samsabad,Potato,Local,FAQ,1400,1600,1500,07-Jul-20
+524,5,Agra,Samsabad,Potato,Local,FAQ,1300,1500,1400,06-Jul-20
+525,6,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,05-Jul-20
+526,7,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,04-Jul-20
+527,8,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,03-Jul-20
+528,9,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,01-Jul-20
+529,10,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,30-Jun-20
+530,11,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,29-Jun-20
+531,12,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,28-Jun-20
+532,13,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,27-Jun-20
+533,14,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,26-Jun-20
+534,15,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,25-Jun-20
+535,16,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,24-Jun-20
+536,17,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,23-Jun-20
+537,18,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,20-Jun-20
+538,19,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,18-Jun-20
+539,20,Agra,Samsabad,Potato,Local,FAQ,1100,1400,1200,17-Jun-20
+540,21,Agra,Samsabad,Potato,Local,FAQ,1000,1400,1200,16-Jun-20
+541,22,Agra,Samsabad,Potato,Local,FAQ,1100,1400,1200,15-Jun-20
+542,23,Agra,Samsabad,Potato,Local,FAQ,1100,1400,1200,14-Jun-20
+543,24,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,13-Jun-20
+544,25,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,11-Jun-20
+545,26,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,10-Jun-20
+546,27,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,09-Jun-20
+547,28,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,08-Jun-20
+548,29,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,07-Jun-20
+549,30,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,06-Jun-20
+550,31,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,03-Jun-20
+551,32,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,02-Jun-20
+552,33,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,01-Jun-20
+553,34,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,31-May-20
+554,35,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,30-May-20
+555,36,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,29-May-20
+556,37,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,28-May-20
+557,38,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,27-May-20
+558,39,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,26-May-20
+559,40,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,24-May-20
+560,41,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,23-May-20
+561,42,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,22-May-20
+562,43,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,21-May-20
+563,44,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,20-May-20
+564,45,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,19-May-20
+565,46,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,18-May-20
+566,47,Agra,Samsabad,Potato,Local,FAQ,1000,1200,1200,17-May-20
+567,48,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,16-May-20
+568,49,Agra,Samsabad,Potato,Local,FAQ,1100,1300,1200,15-May-20
+569,50,Agra,Samsabad,Potato,Local,FAQ,1000,1300,1200,14-May-20
 570,,,,,,,,,,
 571,,,,,,,,,,
