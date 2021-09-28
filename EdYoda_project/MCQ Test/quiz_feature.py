@@ -12,7 +12,7 @@ class test:
 
 
     def start_test(self):
-        list_of_que= quiz.Mcq_List
+        list_of_que= quiz.Mcq_List[0]['str']['Easy']
 
         score = 0
         for questions in list_of_que:
@@ -27,8 +27,18 @@ class test:
                 score += 1
         print("you got", score, "out of", len(list_of_que))
 
+    def display_write_answer(self):
+        list_of_que = quiz.Mcq_List[0]['str']['Easy']
+
+        for questions in list_of_que:
+            # print(questions)
+            questions['correct_answer']
+            print(questions['question'], 'Options are ',questions['options'],  'correct answer is ',questions['options'][questions['correct_answer']-1])
+
+
+
     def retake_quiz(self):
-        list_of_que = quiz.Mcq_List
+        list_of_que = quiz.Mcq_List[0]['str']['Easy']
 
         score = 0
         for questions in list_of_que:
@@ -44,34 +54,21 @@ class test:
                 score += 1
         print("Your Retake score is : ", score, "out of", len(list_of_que))
 
-    def display_write_answer(self):
-        list_of_que = quiz.Mcq_List
-
-        for questions in list_of_que:
-            # print(questions)
-            questions['correct_answer']
-            print(questions['question'], 'Options are ',questions['options'],  'correct answer is ',questions['options'][questions['correct_answer']-1])
+        right_answers_are = test.display_write_answer(quiz.Mcq_List[0]['str']['Easy'])
+        print(right_answers_are)
 
 
 
+Maths_test= test('Vipin',7500574058,'kumar.vipin1v00@gmail.com')
+# Maths_test.start_test()
+
+Maths_test.retake_quiz()
 
 
 
+# print(Maths_test.User_Name)
+# print(Maths_test.User_Phone_No)
+# print(Maths_test.User_Email_Id)
 
-
-
-
-
-
-
-Maths_test = test('Vipin',7500574058,'kumar.vipin1v00@gmail.com')
-
-# test1.start_test()
-
-# Maths_test.retake_quiz()
-print(Maths_test.User_Name)
-print(Maths_test.User_Phone_No)
-print(Maths_test.User_Email_Id)
-
-Maths_test.display_write_answer()
+# Maths_test.display_write_answer()
 

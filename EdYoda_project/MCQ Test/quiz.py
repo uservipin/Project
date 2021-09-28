@@ -249,7 +249,8 @@ class quiz:
   Mcq_List = [dictMcqTopic]
 
   # print(Mcq_List[0]['list'])
-  # print(Mcq_List[0]['str']['Medium'][0])
+  # print(Mcq_List[0]['str']['Medium'][0)]
+  # print(Mcq_List[0]['str']['Easy'])
 
 
 
@@ -280,36 +281,22 @@ class quiz:
   def add_question_to_mcq_list(self,que_type,hardness):
     quiz.add_question_to_mcq_test(self,que_type,hardness)
 
-  def remove_question_from_mcq_test(self,que_type,hardness,que1):
-      # Mcq_List[0][que_type][hardness][0]['id'] = que1['id']
-      del quiz.Mcq_List[0][que_type][hardness][0][que1['id']]
+  def remove_question_from_mcq_test(self,que_type,hardness):
+      quiz.Mcq_List[0][que_type][hardness].pop(self['id']-1)
+
 
   def clear_Mcq_test(self):
-    quiz.Mcq_List.clear()
+    quiz.Mcq_List[0][que_type][hardness].clear()
+
+
 
   def update_type_of_question(self):
       quiz.add_question_to_mcq_test(self)
 
-  def delete_type_of_question(self):
-     pass
+
 
   def read_type_of_question(self):
       pass;
-
-  def create_type_of_question(self):
-      pass
-
-  def update_hardness_level(self):
-     pass
-
-  def delete_hardness_question(sels):
-     pass
-
-  def create_hardness_of_question(self):
-      pass
-
-  def read_hardness_of_question(self):
-      pass
 
 
   # CRUD for type and difficulty level for MCQ.
@@ -317,12 +304,6 @@ class quiz:
 
 
 # Add first question
-
-
-
-
-
-
 
 # print("Mention Que. Type : str   list   loop   fucn   dict")
 que_type =int(input('''Mention Topic you want to take Quiz.: 1."str"   2. "list"   3. "loop"   4. "fucn"   5. "dict"  '\n' select options  1,2,3,4,5  ''' ))
@@ -370,7 +351,7 @@ hardness =int(input('''Mention Hardness of question  : 1. "Easy"  2. "Medium"   
 
 list_of_hardness = ['Easy', 'Meduim', 'Hard']
 
-if list_of_hardness[hardness-1] == 'Easy' or list_of_hardness[hardness-1] == 'Medium' or list_of_hardness[hardness-1] == 'Hard' :
+if list_of_hardness[hardness-1] == 'Easy' or list_of_hardness[hardness-1] == 'Medium' or list_of_hardness[hardness-1] == 'Hard':
     print('You have selected', list_of_hardness[hardness-1])
 else:
     print("Pleses select corrrect option")
@@ -379,16 +360,16 @@ else:
 
 quiz_que2.update_question(2,'What is odd NO. : ',[1,2,3,5],2)
 que2 = quiz_que2.dict_of_question
-quiz.add_question_to_mcq_list(que1,list_of_topic[que_type-1],list_of_hardness[hardness-1])
+quiz.add_question_to_mcq_list(que2,list_of_topic[que_type-1],list_of_hardness[hardness-1])
 
 
 print(quiz.Mcq_List)
 
 
-
+print('print que 2 ',que2)
 # Remove question from
-quiz.remove_question_from_mcq_test(list_of_topic[que_type-1],list_of_hardness[hardness-1],que1)
 
+quiz.remove_question_from_mcq_test(que_type= list_of_topic[que_type-1],hardness= list_of_hardness[hardness-1],self =que2)
 print("Print List after removing ")
 print(quiz.Mcq_List)
 # Add second question
