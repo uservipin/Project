@@ -11,52 +11,69 @@ class test:
         self.User_Email_Id = User_Email_Id
 
 
-    def start_test(self):
-        list_of_que= quiz.Mcq_List[0]['str']['Easy']
+    def start_test(self,question_type,question_hardness):
 
+        '''
+        print('quiz_feature_que_type',question_type)
+        print('quiz_feature_quiz_hardness',question_hardness)
+
+        :param question_type:
+        :param question_hardness:
+        :return:
+        '''
+        print("\nAnswer the questons: ")
+        list_of_que = quiz.Mcq_List[0][question_type][question_hardness]
         score = 0
         for questions in list_of_que:
             # print(questions)
-            print(questions['question'])
+            print('\n',questions['question'])
             # print("Please select any one option")
-            print("Please select any one option from list : ", questions['options'], '1: For First ', ' ', '2 For Second ', ' ', '3 For third ',' ','4 for Forth option')
+            print("Options are :", questions['options'], '\n Select\n 1 : For First\n 2 : For Second\n 3 : For Third\n 4 : For Fourth')
             # print("answer :", type(questions['correct_answer']))
-            answer = int(input("Please ans this question"))
-            print('\n')
+            answer = int(input("Enter: 'Answer' in int  1  2  3  4  "))
+            # print('\n')
             if answer == questions['correct_answer']:
                 score += 1
-        print("you got", score, "out of", len(list_of_que))
+        print("\nYour score is: ", score, "out of", len(list_of_que),'\n')
 
-    def display_write_answer(self):
-        list_of_que = quiz.Mcq_List[0]['str']['Easy']
+        right_answers_are = test.display_write_answer(self,question_type,question_hardness)
+        # print(right_answers_are)
 
-        for questions in list_of_que:
-            # print(questions)
-            questions['correct_answer']
-            print(questions['question'], 'Options are ',questions['options'],  'correct answer is ',questions['options'][questions['correct_answer']-1])
+    def retake_quiz(self,question_type,question_hardness):
 
-
-
-    def retake_quiz(self):
-        list_of_que = quiz.Mcq_List[0]['str']['Easy']
-
+        print("\nAnswer the questons: ")
+        list_of_que = quiz.Mcq_List[0][question_type][question_hardness]
         score = 0
         for questions in list_of_que:
             # print(questions)
-            print(questions['question'])
+            print('\n',questions['question'])
             # print("Please select any one option")
-            print("Please select any one option from list : ", questions['options'], '1: For First ', ' ', '2 For Second ', ' ',
-                  '3 For third ', ' ', '4 for Forth option')
+            print("Options are :", questions['options'], '\n Select\n 1 : For First\n 2 : For Second\n 3 : For Third\n 4 : For Fourth')
             # print("answer :", type(questions['correct_answer']))
-            answer = int(input("Please ans this question"))
-            print('\n')
+            answer = int(input("Enter: 'Answer' in int  1  2  3  4  "))
+            # print('\n')
             if answer == questions['correct_answer']:
                 score += 1
-        print("Your Retake score is : ", score, "out of", len(list_of_que))
+        print("\nYour Retake score is : ", score, "out of", len(list_of_que))
 
-        right_answers_are = test.display_write_answer(quiz.Mcq_List[0]['str']['Easy'])
-        print(right_answers_are)
+        right_answers_are = test.display_write_answer(self,question_type,question_hardness)
+        # print(right_answers_are)
 
+
+    def display_write_answer(self,question_type,question_hardness):
+        list_of_que = quiz.Mcq_List[0][question_type][question_hardness]
+
+        print('Correct Answers are: ')
+        for questions in list_of_que:
+            # print('\n\n\n',questions,'\n\n\n')
+            # questions['correct_answer']
+            # print('\n',questions['question'], '\nOptions are: ',questions['options'],  '\nCorrect Answer is: ',questions['options'][questions['correct_answer']-1])
+            print('\n',questions['question'], '\nOptions are: ',questions['options'],  '\nCorrect Answer is: ',questions['correct_answer'])
+
+
+
+
+"""
 
 
 Maths_test= test('Vipin',7500574058,'kumar.vipin1v00@gmail.com')
@@ -65,10 +82,10 @@ Maths_test= test('Vipin',7500574058,'kumar.vipin1v00@gmail.com')
 Maths_test.retake_quiz()
 
 
-
 # print(Maths_test.User_Name)
 # print(Maths_test.User_Phone_No)
 # print(Maths_test.User_Email_Id)
-
 # Maths_test.display_write_answer()
 
+
+"""

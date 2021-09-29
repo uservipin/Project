@@ -252,9 +252,6 @@ class quiz:
   # print(Mcq_List[0]['str']['Medium'][0)]
   # print(Mcq_List[0]['str']['Easy'])
 
-
-
-
   @classmethod
   def add_question_to_mcq_test(cls,question, que_type,hardness):
 
@@ -298,17 +295,49 @@ class quiz:
   def read_type_of_question(self):
       pass;
 
+  def type_of_question(self):
+      # Type of Question
+      que_type = int(input('''Mention Topic you want to take Quiz. :\n 1."str"\n 2. "list"\n 3. "loop"\n 4. "fucn"\n 5. "dict"\n  Select options:  1  2  3  4  5 :\n'''))
+      list_of_topic = ['str', 'list', 'loop', 'func', 'dict']
+      print("Que Type. ",list_of_topic[que_type-1], 'Selected for Quiz')
+
+      if list_of_topic[que_type - 1] == 'str' or list_of_topic[que_type - 1] == 'list' or list_of_topic[
+          que_type - 1] == 'loop' or list_of_topic[que_type - 1] == 'func' or list_of_topic[que_type - 1] == 'dict':
+          # print('You have selected', list_of_topic[que_type - 1])
+
+          return list_of_topic[que_type - 1]
+      else:
+          print("Pleses select corrrect option")
+
+
+
+  def hardness_of_question(self):
+      # Hardness of Question
+      hardness = int(
+          input('''\nMention Hardness of question  :\n 1. "Easy"\n 2. "Medium"\n 3. "hard :"\nSelect Options 1  2  3\n'''))
+
+      list_of_hardness = ['Easy', 'Meduim', 'Hard']
+
+      if list_of_hardness[hardness - 1] == 'Easy' or list_of_hardness[hardness - 1] == 'Medium' or list_of_hardness[hardness - 1] == 'Hard':
+          print('Hardness of Question is : ', list_of_hardness[hardness - 1])
+
+          return list_of_hardness[hardness - 1]
+      else:
+          print("Pleses select correct option")
 
   # CRUD for type and difficulty level for MCQ.
 
 
+
+
+
+"""
 
 # Add first question
 
 # print("Mention Que. Type : str   list   loop   fucn   dict")
 que_type =int(input('''Mention Topic you want to take Quiz.: 1."str"   2. "list"   3. "loop"   4. "fucn"   5. "dict"  '\n' select options  1,2,3,4,5  ''' ))
 list_of_topic= [ 'str', 'list', 'loop', 'func','dict']
-
 print("que No. ", que_type)
 
 if list_of_topic[que_type-1] == 'str' or list_of_topic[que_type-1] == 'list' or list_of_topic[que_type-1] == 'loop'  or list_of_topic[que_type-1] == 'func' or list_of_topic[que_type-1] == 'dict':
@@ -326,6 +355,7 @@ if list_of_hardness[hardness-1] == 'Easy' or list_of_hardness[hardness-1] == 'Me
     print('You have selected', list_of_hardness[hardness-1])
 else:
     print("Pleses select corrrect option")
+
 
 quiz_que1 = quiz()
 quiz_que1.update_question(1,'What is even NO. : ',[1,2,3,5],2)
@@ -414,4 +444,4 @@ print(quiz.Mcq_List)
 
 
 
-
+"""
