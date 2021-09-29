@@ -10,7 +10,6 @@ class test:
         self.User_Phone_No = User_Phone_No
         self.User_Email_Id = User_Email_Id
 
-
     def start_test(self,question_type,question_hardness):
 
         '''
@@ -59,7 +58,6 @@ class test:
         right_answers_are = test.display_write_answer(self,question_type,question_hardness)
         # print(right_answers_are)
 
-
     def display_write_answer(self,question_type,question_hardness):
         list_of_que = quiz.Mcq_List[0][question_type][question_hardness]
 
@@ -69,8 +67,6 @@ class test:
             # questions['correct_answer']
             # print('\n',questions['question'], '\nOptions are: ',questions['options'],  '\nCorrect Answer is: ',questions['options'][questions['correct_answer']-1])
             print('\n',questions['question'], '\nOptions are: ',questions['options'],  '\nCorrect Answer is: ',questions['correct_answer'])
-
-
 
 
 """

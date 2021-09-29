@@ -1,5 +1,7 @@
 from user import user_class
 from user import super_user_class
+from quiz import quiz
+
 
 print(
       "\n"
@@ -11,9 +13,12 @@ print(
       "Kindly Please Follow on screen instructions\n"
       )
 
+# super_user1 = super_user_class('Vipin','kumar.vipin1v00@gmail.com',7500574058)
+# super_user1.add_question_to_test()
+# super_user1.update_question()
+# super_user1.delete_question_paper()
 
 
-"""
 print('Let the system know you are:  \n 1. user\n 2. super_user\n')
 
 key= input("Please Enter \n'SUPER USER KEY': To Authenticate You :\n"
@@ -21,7 +26,11 @@ key= input("Please Enter \n'SUPER USER KEY': To Authenticate You :\n"
 
 if key=='super_user@123':
       print(" Welcome You Are Now 'super_user'")
-
+      super_user1 = super_user_class('Vipin', 'kumar.vipin1v00@gmail.com', 7500574058)
+      super_user1.add_question_to_test()
+      super_user1.update_question()
+      super_user1.delete_question_paper()
+      
 if key =='user':
       print("Welcome You Are Now 'user': \nFeatures you can access\n\n"
             
@@ -48,7 +57,6 @@ if key =='user':
 else:
       print("Try with Correct Credentials")
 
-"""
 
 
 

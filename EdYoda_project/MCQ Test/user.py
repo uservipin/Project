@@ -3,20 +3,47 @@ from quiz import  quiz
 
 
 class super_user_class:
+    list_of_super_user= []
 
-    def __init__(self):
-        pass
-    def set_hardness_of_test(self):
-        pass
+    @classmethod
+    def add_super_user(cls,list_of_details_of_super_user):
+        cls.list_of_super_user.append(list_of_details_of_super_user)
 
-    def set_level_of_test(self):
-        pass
+    def __init__(self,name,Email,PhoneNo):
+        self.name= name
+        self.Email= Email
+        self.PhoneNo= PhoneNo
+        super_user_class.add_super_user((self))
+
+    def add_question_to_test(self):
+
+        # print('type_of_que',que_type)
+        # print('hardness',hardness)
+
+        quiz_que1 = quiz()
+
+        question_type = quiz_que1.type_of_question()
+        hardn = quiz_que1.hardness_of_question()
+
+        quiz_que1.update_question(1, 'What is even NO. : ', [1, 2, 3, 5], 2)
+        que1 = quiz_que1.dict_of_question
+        # print("que1", que1)
+        quiz.add_question_to_mcq_list(self =que1 ,que_type=question_type,hardness=hardn)
 
     def update_question(self):
-        pass
+
+        quiz_que1 = quiz()
+        question_type = quiz.type_of_question(self)
+        hardn = quiz.hardness_of_question(self)
+
+        quiz_que1.update_question(1, 'What is even NO. : ', [1, 2, 3, 5], 2)
+        que1 = quiz_que1.dict_of_question
+        quiz.add_question_to_mcq_list(self =que1 ,que_type=question_type,hardness=hardn)
 
     def delete_question_paper(self):
-        pass
+        question_type = quiz.type_of_question(self)
+        hardn = quiz.hardness_of_question(self)
+        quiz.remove_question_from_mcq_test(self,question_type,hardn)
 
     def set_multiple_quiz(self):
         pass
