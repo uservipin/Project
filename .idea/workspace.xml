@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b65baab9-2f8e-4c7b-afb4-14aeeba3a7fe" name="Default Changelist" comment="test to push with pycharm">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b65baab9-2f8e-4c7b-afb4-14aeeba3a7fe" name="Default Changelist" comment="This file test all the cases in python.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EdYoda_project/MCQ Test/Progress.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/EdYoda_project/MCQ Test/Progress.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdYoda_project/LibraryManagementSystem/Book.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdYoda_project/LibraryManagementSystem/Book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdYoda_project/LibraryManagementSystem/Questions.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/EdYoda_project/MCQ Test/quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdYoda_project/MCQ Test/quiz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EdYoda_project/MCQ Test/quiz_feature.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdYoda_project/MCQ Test/quiz_feature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdYoda_project/MCQ Test/test_cases.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdYoda_project/MCQ Test/test_cases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdYoda_project/MCQ Test/test_file_delete_this_file.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/EdYoda_project/MCQ Test/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdYoda_project/MCQ Test/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapup_assignment/scraping/Entry_Exit-1632666986045.json" beforeDir="false" afterPath="$PROJECT_DIR$/mapup_assignment/scraping/Entry_Exit-1632666986045.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +30,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1vrQAAIXmiuBlCrhfsliPtuCcDt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,7 +50,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test_cases">
     <configuration name="quiz_feature" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,8 +72,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_cases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EdYoda_project/MCQ Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EdYoda_project/MCQ Test/test_cases.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_cases" />
         <item itemvalue="Python.quiz_feature" />
       </list>
     </recent_temporary>
@@ -146,7 +179,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632763334943</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="This python file contain details of user and super user along with functionaliyt">
+      <created>1632871852558</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1632871852558</updated>
+    </task>
+    <task id="LOCAL-00012" summary="This file test all the cases in python.">
+      <created>1632871953732</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1632871953732</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,7 +220,9 @@
     <MESSAGE value="classes and methods for varificarion and update as per clinet requirement" />
     <MESSAGE value="mini project in python" />
     <MESSAGE value="test to push with pycharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="test to push with pycharm" />
+    <MESSAGE value="This python file contain details of user and super user along with functionaliyt" />
+    <MESSAGE value="This file test all the cases in python." />
+    <option name="LAST_COMMIT_MESSAGE" value="This file test all the cases in python." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
