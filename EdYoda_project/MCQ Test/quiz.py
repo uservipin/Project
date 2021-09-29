@@ -1,3 +1,7 @@
+"""
+Note Run "test_case.py" file and follow On screen instructions
+"""
+
 class quiz:
 
     dict_srt= {
@@ -281,7 +285,7 @@ class quiz:
 
     def type_of_question(self):
         # Type of Question
-        que_type = int(input('''Mention Topic you want to take Quiz. :\n 1."str"\n 2. "list"\n 3. "loop"\n 4. "fucn"\n 5. "dict"\n  Select options:  1  2  3  4  5 :\n'''))
+        que_type = int(input('''Mention Topic of  Quiz. :\n 1."str"\n 2. "list"\n 3. "loop"\n 4. "fucn"\n 5. "dict"\n  Select options:  1  2  3  4  5 :\n'''))
         list_of_topic = ['str', 'list', 'loop', 'func', 'dict']
         print("Que Type. ",list_of_topic[que_type-1], 'Selected for Quiz')
 
@@ -305,8 +309,8 @@ class quiz:
 
 
 
-
 """
+
 
 # Add first question
 

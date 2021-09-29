@@ -1,3 +1,10 @@
+
+
+"""
+Note Run "test_case.py"  file and follow On screen instructions
+"""
+
+
 from user import user_class
 from user import super_user_class
 from quiz import quiz
@@ -25,8 +32,10 @@ key= input("Please Enter \n'SUPER USER KEY': To Authenticate You :\n"
            "If 'USER' , 'KEY' is  user \n")
 
 if key=='super_user@123':
-      print(" Welcome You Are Now 'super_user'")
-      super_user1 = super_user_class('Vipin', 'kumar.vipin1v00@gmail.com', 7500574058)
+      print(" Welcome You Are Now 'super_user' \n You have Following Features :\n1. Add question with Type and Hardness\n"
+            "2. Update question with Type and Hardness \n3. Delete question with Type and Hardness\n4. Set correct answers of MCQ")
+
+      super_user1 = super_user_class('Vipin', 'kumar.******@gmail.com', 7500574058)
       super_user1.add_question_to_test()
       super_user1.update_question()
       super_user1.delete_question_paper()

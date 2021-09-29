@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b65baab9-2f8e-4c7b-afb4-14aeeba3a7fe" name="Default Changelist" comment="This file test all the cases in python.">
-      <change afterPath="$PROJECT_DIR$/EdYoda_project/MCQ Test/Question_set_Archive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdYoda_project/MCQ Test/Question_set_Archive.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdYoda_project/MCQ Test/Question_set_Archive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EdYoda_project/MCQ Test/quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdYoda_project/MCQ Test/quiz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EdYoda_project/MCQ Test/quiz_feature.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdYoda_project/MCQ Test/quiz_feature.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EdYoda_project/MCQ Test/test_cases.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdYoda_project/MCQ Test/test_cases.py" afterDir="false" />

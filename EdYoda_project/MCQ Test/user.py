@@ -1,3 +1,8 @@
+"""
+Note Run "test_case.py"  file and follow On screen instructions
+"""
+
+
 from quiz_feature import test
 from quiz import  quiz
 
@@ -43,7 +48,7 @@ class super_user_class:
     def delete_question_paper(self):
         question_type = quiz.type_of_question(self)
         hardn = quiz.hardness_of_question(self)
-        quiz.remove_question_from_mcq_test(self,question_type,hardn)
+        quiz.remove_question_from_mcq_test(self=self,que_type =question_type,hardness=hardn)
 
     def set_multiple_quiz(self):
         pass
