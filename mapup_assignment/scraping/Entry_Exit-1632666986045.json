@@ -1,22 +1,4 @@
-
-/*
-(function ($, Drupal, drupalSettings) {
-  Drupal.behaviors.myBehavior = {
-    attach: function (context, settings) {
-      $.ajax({
-        url: Drupal.url('roadways-ramps/generate-json'),
-        type:"GET",
-        contentType:"application/json; charset=utf-8",
-        dataType:"json",
-        success: function(response) {
-          newEntryExits = response;
-        }
-      });
-    }
-  };
-})(jQuery, Drupal, drupalSettings);
-*/
-var entryExits = {
+{
     "Northbound":{
         "entries":{
             "183NO":{
