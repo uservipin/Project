@@ -35,10 +35,30 @@ if key=='super_user@123':
       print(" Welcome You Are Now 'super_user' \n You have Following Features :\n1. Add question with Type and Hardness\n"
             "2. Update question with Type and Hardness \n3. Delete question with Type and Hardness\n4. Set correct answers of MCQ")
 
+
+      func= int(input('You want to add question \n 1. add  \n 2. update \n 3. delete'))
+
+      if func ==1:
+            super_user1 = super_user_class('Vipin', 'kumar.******@gmail.com', 7500574058)
+            super_user1.add_question_to_test()
+
+
+      if func ==2:
+            super_user1 = super_user_class('Vipin', 'kumar.******@gmail.com', 7500574058)
+            super_user1.update_question()
+
+
+
+
+      if func ==3:
+            super_user1 = super_user_class('Vipin', 'kumar.******@gmail.com', 7500574058)
+            super_user1.delete_question_paper()
+
+
       super_user1 = super_user_class('Vipin', 'kumar.******@gmail.com', 7500574058)
       super_user1.add_question_to_test()
       super_user1.update_question()
-      super_user1.delete_question_paper()
+
 
 if key =='user':
       print("Welcome You Are Now 'user': \nFeatures you can access\n\n"
@@ -55,10 +75,6 @@ if key =='user':
       # ask user hardness of quiz
       question_hardness = user1.question_hardness()
 
-      '''
-      # print("test_case_que_type",question_type)
-      # print('test_case_que hardness',question_hardness)
-      '''
 
       take_retake = user_class.take_quiz_or_retake_quiz(user1, question_type, question_hardness)
 
@@ -68,41 +84,3 @@ else:
 
 
 
-
-"""
-user1 = user_class('Vipin',7500574058,'kumar.vipin1v00@gmail.com')
-
-# ask user type of test
-question_type= user1.question_type()
-
-# ask user hardness of quiz
-question_hardness = user1.question_hardness()
-
-'''
-# print("test_case_que_type",question_type)
-# print('test_case_que hardness',question_hardness)
-'''
-
-take_retake= user_class.take_quiz_or_retake_quiz(user1,question_type,question_hardness)
-
-
-"""
-
-
-
-
-"""
-print(
-      "Please Enter details :\n"
-      " 1. Your Name :\n"
-      " 2. Your Email :\n"
-      " 3. Your Phone No. :\n"
-      )
-
-print(
-      '''Hurray! You have entered details:\n
-Mention Topic you want to take Quiz. :\n 1. "str"\n 2. "list"\n 3. "loop"\n 4. "fucn"\n 5. "dict"\n\nSelect options 1,2,3,4,5\n  
-Mention Hardness of question  :\n 1. "Easy"\n 2. "Medium"\n 3. "Hard :"\n\nSelect options 1,2,3
-'''
-       )
-"""

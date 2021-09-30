@@ -73,19 +73,3 @@ class test:
             print('\n',questions['question'], '\nOptions are: ',questions['options'],  '\nCorrect Answer is: ',questions['correct_answer'])
 
 
-"""
-
-
-Maths_test= test('Vipin',7500574058,'kumar.vipin1v00@gmail.com')
-# Maths_test.start_test()
-
-Maths_test.retake_quiz()
-
-
-# print(Maths_test.User_Name)
-# print(Maths_test.User_Phone_No)
-# print(Maths_test.User_Email_Id)
-# Maths_test.display_write_answer()
-
-
-"""

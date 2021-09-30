@@ -30,6 +30,8 @@ class super_user_class:
         question_type = quiz_que1.type_of_question()
         hardn = quiz_que1.hardness_of_question()
 
+        print('hhhhh',hardn)
+
         quiz_que1.update_question(1, 'What is even NO. : ', [1, 2, 3, 5], 2)
         que1 = quiz_que1.dict_of_question
         # print("que1", que1)
