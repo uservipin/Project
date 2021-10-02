@@ -16,6 +16,7 @@ class User:
         Catalog.displayAllBooks()
 
 
+
 class Librarian(User):
 
     def __init__(self, name, location, age, aadhar_id, employee_id):
@@ -69,6 +70,7 @@ class Librarian(User):
     def viewIssuerInfo(self):
         isbn = input("Please enter isbn of the book for which you'd like to view issuer information for: ")
         Catalog.viewIssuerInfo(isbn)
+
 
 
 class Member(User):
