@@ -1,0 +1,19 @@
+,entry_label,Exit_label,entry_id,exit_id,od,price,road,ratetype,time,direction,status
+0,Jones Branch Drive/Route 123,495 Express End (near MD),183NO,181ND,od_1038,0.85,495,DTA,2021-09-27 07:31:45,N,open
+1,Westpark Drive,Route 267,185NO,181ND,od_1037,0.85,495,DTA,2021-09-27 07:31:46,N,open
+2,Interstate 66,Jones Branch Drive/Route 123,185NO,182ND,od_1036,0.85,495,DTA,2021-09-27 07:31:46,N,open
+3,Gallows Road,Westpark Drive,185NO,183ND,od_1035,0.85,495,DTA,2021-09-27 07:31:46,N,open
+4,Braddock Road,Route 7 (Leesburg Pike),187NO,181ND,od_1034,1.00,495,SIGN,2021-09-27 07:38:39,N,open
+5,I-95/I-395/I-495 (Springfield Interchange),Interstate 66,187NO,182ND,od_1033,0.85,495,DTA,2021-09-27 07:30:35,N,open
+6,I-95/I-395 Express Lanes ramps,Lee Highway (Route 29),187NO,183ND,od_1032,0.85,495,DTA,2021-09-27 07:31:48,N,open
+7,Near Pentagon/Eads Street to DC,I-95/I-395/I-495 (Springfield Interchange),187NO,185ND,od_1031,0.85,495,DTA,2021-09-27 07:30:35,N,open
+8,Shirlington Circle,I-395 Near Edsall Road,187NO,186ND,od_1030,0.85,495,SIGN,2021-09-27 07:38:39,N,open
+9,Seminary Road NB,495 Express Lanes/I-495/I-95,189NO,181ND,od_1029,1.60,495,DTA,2021-09-27 07:31:47,N,open
+10,I-395 Near Edsall Road,Fairfax County Parkway/Route 286,189NO,182ND,od_1028,1.40,495,DTA,2021-09-27 07:30:33,N,open
+11,495 Express Lanes/I-495/I-95,Franconia-Springfield Parkway/Route 289,189NO,183ND,od_1027,1.20,495,DTA,2021-09-27 07:30:33,N,open
+12,Old Keene Mill Road/Route 644,I-95 Near Old Keene Mill Road/Route 644,189NO,185ND,od_1026,1.00,495,DTA,2021-09-27 07:31:47,N,open
+13,Franconia-Springfield Parkway/Route 289,I-95 Near Gordon Boulevard/Route 123,189NO,186ND,od_1025,0.85,495,DTA,2021-09-27 07:30:33,N,open
+14,I-95 Near Fairfax County Parkway,Seminary Road NB (HOV-3 ONLY),189NO,187ND,od_1024,0.85,495,SIGN,2021-09-27 07:38:39,N,open
+15,US-1,Pentagon/Eads Street,189NO,188ND,od_1023,0.85,495,DTA,2021-09-27 07:30:33,N,open
+16,Gordon Boulevard/Route 123,Washington Boulevard/Route 27,190NO,181ND,od_1022,2.00,495,SIGN,2021-09-27 07:38:43,N,open
+17,I-95 Near Franconia-Springfield Pkwy NB,Washington D.C.,190NO,182ND,od_1021,1.90,495,DTA,2021-09-27 07:30:31,N,open

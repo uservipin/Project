@@ -1,0 +1,981 @@
+,ProductName,ProductMRP,DiscountedPrice,BrandId,Avalable_stock
+0,SBL Thuja Occidentalis 200 CH (30ml),100,95,3,139
+1,SBL Nux Vomica 30 CH (30ml),90,86,3,16
+2,SBL Carbo Vegetabilis 30 CH (30ml),90,83,3,18
+3,SBL Lycopodium Clavatum 30 CH (30ml),90,86,3,27
+4,SBL Rhus Toxicodendron 200 CH (30ml),100,92,3,12
+5,SBL Arsenic Album 30 CH (30ml),85,77,3,17
+6,SBL Nux Vomica 200 CH (30ml),100,97,3,37
+7,SBL Lycopodium Clavatum 200 CH (30ml),95,87,3,14
+8,SBL Arnica Montana 200 CH (30ml),100,97,3,12
+9,SBL Aconite Napellus 30 CH (30ml),90,86,3,21
+10,SBL Aconite Napellus 200 CH (30ml),100,95,3,29
+11,Willmar Schwabe India Nux Vomica 30 CH (30ml),90,88,2,10
+12,SBL Rhus Toxicodendron 30 CH (30ml),85,78,3,8
+13,Willmar Schwabe India Cydonia Vulgaris 30 CH (30ml),90,90,2,95
+14,SBL Wiesbaden 30 CH (30ml),90,86,3,20
+15,SBL Cinchona Officinalis (China) 30 CH (30ml),85,78,3,11
+16,SBL Belladonna 200 CH (30ml),95,87,3,12
+17,Dr. Reckeweg Arsenic Album 30 CH (11ml),125,125,1,193
+18,SBL Sulphur 30 CH (30ml),85,78,3,12
+19,Dr. Reckeweg Wiesbaden 30 CH (11ml),125,125,1,18
+20,SBL Sepia 200 CH (30ml),95,87,3,16
+21,SBL Carbo Vegetabilis 200 CH (30ml),100,95,3,54
+22,SBL Histaminum 200 CH (30ml),100,95,3,38
+23,SBL Thuja Occidentalis 30 CH (30ml),85,78,3,15
+24,SBL Bryonia Alba 200 CH (30ml),100,92,3,8
+25,SBL Hepar Sulphur 200 CH (30ml),95,87,3,10
+26,SBL Caladium Seguinum 30 CH (30ml),85,81,3,7
+27,SBL Arnica Montana 30 CH (30ml),90,86,3,21
+28,SBL Bryonia Alba 30 CH (30ml),90,86,3,64
+29,Willmar Schwabe India Caladium Seguinum 200 CH (30ml),105,105,2,28
+30,SBL Calcarea Carbonicum 30 CH (30ml),85,81,3,7
+31,SBL Belladonna 30 CH (30ml),90,86,3,23
+32,SBL Natrum Muriaticum 30 CH (30ml),85,78,3,9
+33,SBL Hepar Sulphur 30 CH (30ml),85,78,3,13
+34,Dr. Reckeweg Thuja Occidentalis 200 CH (11ml),145,145,1,23
+35,SBL Thuja Occidentalis 1M (1000 CH) (30ml),120,108,3,10
+36,Dr. Reckeweg Arnica Montana 200 CH (11ml),145,145,1,16
+37,SBL Silicea 200 CH (30ml),95,87,3,12
+38,Dr. Reckeweg Nux Vomica 30 CH (11ml),125,125,1,32
+39,Dr. Reckeweg Nux Vomica 200 CH (11ml),145,145,1,8
+40,SBL Allium Cepa 30 CH (30ml),90,83,3,8
+41,SBL Calcarea Carbonicum 200 CH (30ml),100,91,3,10
+42,SBL Arsenic Album 200 CH (30ml),100,92,3,10
+43,SBL Apis Mellifica 30 CH (30ml),90,86,3,76
+44,SBL Pulsatilla Nigricans 200 CH (30ml),95,87,3,14
+45,Dr. Reckeweg Lycopodium Clavatum 30 CH (11ml),125,125,1,162
+46,SBL Robinia Pseudacacia 30 CH (30ml),90,86,3,14
+47,Willmar Schwabe India Thuja occidentalis 200 CH (30ml),105,103,2,12
+48,SBL Agnus Castus 30 CH (30ml),90,86,3,87
+49,SBL Onosmodium Virginianum 30 CH (30ml),90,86,3,16
+50,SBL Sulphur 200 CH (30ml),89,85,3,50
+51,SBL Causticum 200 CH (30ml),95,87,3,10
+52,SBL Wiesbaden 200 CH (30ml),95,87,3,25
+53,Dr. Reckeweg Belladonna 30 CH (11ml),125,125,1,24
+54,Willmar Schwabe India Lycopodium Clavatum 30 CH (30ml),90,88,2,15
+55,Dr. Reckeweg Sulphur 200 CH (11ml),145,145,1,12
+56,Willmar Schwabe India Baryta Carbonicum 200 CH (30ml),105,105,2,14
+57,SBL Acid Nitricum 30 CH (30ml),85,81,3,12
+58,Dr. Reckeweg Rhododendron Chrysanthum 30 CH (11ml),125,125,1,9
+59,SBL Mercurius Solubilis 30 CH (30ml),85,81,3,26
+60,Willmar Schwabe India Histaminum Hydrochloricum 30 CH (30ml),90,90,2,23
+61,SBL Kali Bichromicum 30 CH (30ml),90,83,3,13
+62,SBL Alumina 200 CH (30ml),100,95,3,87
+63,Willmar Schwabe India Carbo Vegetabilis 30 CH (30ml),90,90,2,23
+64,Dr. Reckeweg Carbo Vegetabilis 30 CH (11ml),125,125,1,11
+65,Willmar Schwabe India Caladium Seguinum 30 CH (30ml),90,90,2,34
+66,Willmar Schwabe India Caladium Seguinum 1M (1000 CH) (30ml),120,120,2,12
+67,Willmar Schwabe India Cina 30 CH (30ml),90,90,2,0
+68,SBL Staphysagria 30 CH (30ml),85,81,3,20
+69,SBL Trinitrotoluene (tnt) 30 CH (30ml),90,86,3,8
+70,SBL Acid Hydrofluoricum 30 CH (30ml),85,72,3,18
+71,SBL Kali Bichromicum 200 CH (30ml),100,95,3,88
+72,SBL Carbo Vegetabilis 6 CH (30ml),90,86,3,69
+73,SBL Histaminum 30 CH (30ml),90,86,3,95
+74,SBL Cinchona Officinalis (China) 200 CH (30ml),95,90,3,11
+75,Willmar Schwabe India Bryonia Alba 30 CH (30ml),90,90,2,9
+76,Dr. Reckeweg Aesculus Hippocastanum 30 CH (11ml),125,125,1,29
+77,SBL Clematis Erecta 30 CH (30ml),90,86,3,78
+78,SBL Pulsatilla Nigricans 30 CH (30ml),85,78,3,14
+79,SBL Petroleum 200 CH (30ml),100,95,3,6
+80,Willmar Schwabe India Lycopodium Clavatum 200 CH (30ml),105,105,2,19
+81,SBL Cantharis 30 CH (30ml),85,81,3,15
+82,SBL Rosmarinus Officinalis 30 CH (30ml),90,86,3,85
+83,SBL Sulphur 6 CH (30ml),90,86,3,67
+84,SBL Phosphorus 200 CH (30ml),100,95,3,17
+85,SBL Osteo Arthritic Nosode 30 CH (30ml),85,81,3,8
+86,SBL Graphites 30 CH (30ml),85,81,3,18
+87,SBL Antimonium Crudum 6 CH (30ml),90,86,3,68
+88,SBL Natrum Muriaticum 200 CH (30ml),95,87,3,17
+89,Dr. Reckeweg Bryonia Alba 200 CH (11ml),145,145,1,42
+90,Dr. Reckeweg Acid Fluoricum 30 CH (11ml),125,125,1,9
+91,SBL Aesculus Hippocastanum 200 CH (30ml),100,95,3,12
+92,Dr. Reckeweg Rhus Toxicodendron 30 CH (11ml),125,125,1,13
+93,SBL Pancreatinum 30 CH (30ml),90,86,3,60
+94,SBL Arnica Montana 6 CH (30ml),90,86,3,72
+95,SBL Ruta Graveolens 30 CH (30ml),85,81,3,11
+96,Willmar Schwabe India Aconite Napellus 30 CH (30ml),90,90,2,9
+97,SBL Sarracenia Purpurea 1M (1000 CH) (30ml),135,128,3,75
+98,Willmar Schwabe India Apis Mellifica 6 CH (30ml),90,90,2,27
+99,Dr. Reckeweg Hepar Sulphur 200 CH (11ml),145,145,1,13
+100,SBL Aloe Socotrina 30 CH (30ml),90,86,3,80
+101,SBL Robinia Pseudacacia 6 CH (30ml),90,86,3,25
+102,SBL Ledum Palustre 200 CH (30ml),100,95,3,26
+103,SBL Gelsemium Sempervirens 200 CH (30ml),100,92,3,13
+104,Willmar Schwabe India Agnus Castus 30 CH (30ml),90,88,2,8
+105,SBL Ruta Graveolens 200 CH (30ml),100,95,3,7
+106,Dr. Reckeweg Lycopodium Clavatum 1M (1000 CH) (11ml),180,180,1,126
+107,SBL Magnesia Phosphoricum 6 CH (30ml),90,86,3,81
+108,Dr. Reckeweg Acid Phosphoricum 30 CH (11ml),125,125,1,143
+109,Willmar Schwabe India Nux Vomica 1M (1000 CH) (30ml),120,120,2,23
+110,SBL Calcarea Fluoricum 30 CH (30ml),90,86,3,70
+111,SBL Arsenic Sulphuratum Flavum 30 CH (30ml),90,86,3,27
+112,SBL Mercurius Solubilis 200 CH (30ml),100,92,3,22
+113,SBL Asafoetida 30 CH (30ml),90,86,3,71
+114,Willmar Schwabe India Carbo Animalis 200 CH (30ml),105,105,2,25
+115,Willmar Schwabe India Arnica Montana 200 CH (30ml),105,103,2,7
+116,Dr. Reckeweg Carbo Vegetabilis 200 CH (11ml),145,145,1,49
+117,SBL Allium Cepa 200 CH (30ml),95,90,3,14
+118,SBL Antimonium Crudum 30 CH (30ml),85,81,3,6
+119,Dr. Reckeweg Calcarea Carbonicum 200 CH (11ml),145,145,1,88
+120,Willmar Schwabe India Bryonia Alba 200 CH (30ml),105,105,2,16
+121,Willmar Schwabe India Thuja occidentalis 30 CH (30ml),90,90,2,42
+122,Willmar Schwabe India Conium Maculatum 30 CH (30ml),90,90,2,5
+123,SBL Amyl Nitrosum 1M (1000 CH) (30ml),135,128,3,75
+124,SBL Acid Phosphoricum 30 CH (30ml),85,78,3,11
+125,SBL Tellurium 30 CH (30ml),90,86,3,95
+126,SBL Astacus Fluviatilis 6 CH (30ml),85,72,3,6
+127,SBL Ignatia Amara 30 CH (30ml),90,86,3,6
+128,SBL Silicea 30 CH (30ml),85,81,3,27
+129,SBL Caladium Seguinum 200 CH (30ml),100,95,3,76
+130,Willmar Schwabe India Sulphur 30 CH (30ml),90,90,2,9
+131,Willmar Schwabe India Thuja occidentalis 1M (1000 CH) (30ml),120,120,2,8
+132,SBL Gelsemium Sempervirens 30 CH (30ml),90,83,3,17
+133,Dr. Reckeweg Calcarea Fluoricum 200 CH (11ml),145,145,1,4
+134,Willmar Schwabe India Graphites 30 CH (30ml),90,90,2,8
+135,SBL Arsenic Album 3 CH (30ml),90,86,3,37
+136,SBL Prednisone 200 CH (30ml),100,95,3,78
+137,Willmar Schwabe India Natrum muriaticum 30 CH (30ml),90,88,2,9
+138,SBL Argentum Nitricum 30 CH (30ml),90,86,3,66
+139,Dr. Reckeweg Eupatorium Perfoliatum 30 CH (11ml),125,125,1,11
+140,Dr. Reckeweg Sepia 200 CH (11ml),145,145,1,118
+141,SBL Ignatia Amara 200 CH (30ml),100,95,3,61
+142,SBL Antimonium Tartaricum 200 CH (30ml),100,95,3,40
+143,SBL Folliculinum 30 CH (30ml),85,81,3,10
+144,SBL Acid Phosphoricum 1M (1000 CH) (30ml),135,128,3,32
+145,SBL Sabal Serrulata 30 CH (30ml),90,86,3,62
+146,SBL Insulinum 30 CH (30ml),90,86,3,20
+147,SBL Selenium 200 CH (30ml),95,90,3,9
+148,SBL Thiosinaminum 1M (1000 CH) (30ml),135,128,3,42
+149,Willmar Schwabe India Oophorinum 30 CH (30ml),90,90,2,47
+150,Willmar Schwabe India Histaminum Hydrochloricum 200 CH (30ml),105,105,2,500
+151,Dr. Reckeweg Sepia 30 CH (11ml),125,125,1,12
+152,SBL Osteo Arthritic Nosode 200 CH (30ml),100,95,3,33
+153,Dr. Reckeweg Lycopodium Clavatum 200 CH (11ml),145,145,1,9
+154,SBL Kreosotum 30 CH (30ml),90,86,3,34
+155,SBL Colchicum Autumnale 30 CH (30ml),90,86,3,87
+156,SBL Argentum Nitricum 200 CH (30ml),100,95,3,11
+157,Willmar Schwabe India Hippomanes 30 CH (30ml),90,90,2,93
+158,Willmar Schwabe India Apis Mellifica 30 CH (30ml),90,90,2,429
+159,Dr. Reckeweg Rhus Toxicodendron 200 CH (11ml),145,145,1,11
+160,Willmar Schwabe India Ignatia Amara 200 CH (30ml),105,105,2,10
+161,Dr. Reckeweg Caulophyllum Thalictroides 30 CH (11ml),125,125,1,78
+162,Dr. Reckeweg Arnica Montana 30 CH (11ml),125,125,1,14
+163,Willmar Schwabe India Arsenic Album 30 CH (30ml),90,88,2,23
+164,SBL Pulsatilla Nigricans 6 CH (30ml),90,86,3,93
+165,Lords Carbo Veg 200 CH (30ml),95,86,24,481
+166,Dr. Reckeweg Ratanhia 30 CH (11ml),125,125,1,15
+167,Dr. Reckeweg Hypericum Perforatum 200 CH (11ml),145,145,1,16
+168,SBL Hypericum Perforatum 200 CH (30ml),100,95,3,11
+169,Dr. Reckeweg Rosmarinus Officinalis 30 CH (11ml),125,125,1,10
+170,SBL Calcarea Fluoricum 200 CH (30ml),100,95,3,29
+171,SBL Strontium Carbonicum 30 CH (30ml),90,86,3,79
+172,Willmar Schwabe India Conium Maculatum 200 CH (30ml),105,105,2,7
+173,Willmar Schwabe India Rauvolfia Serpentina 200 CH (30ml),105,105,2,13
+174,Dr. Reckeweg Natrum Muriaticum 200 CH (11ml),145,145,1,20
+175,SBL Drosera Rotundifolia 30 CH (30ml),85,81,3,7
+176,SBL Berberis Aquifolium 30 CH (30ml),90,86,3,78
+177,SBL Pulsatilla Nigricans 1M (1000 CH) (30ml),135,128,3,93
+178,Dr. Reckeweg Chenopodium Anthelminticum 30 CH (11ml),125,125,1,56
+179,Willmar Schwabe India Arsenic Album 200 CH (30ml),105,105,2,21
+180,SBL Staphysagria 200 CH (30ml),95,90,3,7
+181,SBL Kali Bromatum 30 CH (30ml),90,86,3,44
+182,Willmar Schwabe India Cinchona Officinalis (China) 30 CH (30ml),90,90,2,5
+183,B Jain Lycopodium Clavatum 200 CH (10ml),45,41,84,100
+184,Willmar Schwabe India Cantharis 30 CH (30ml),90,90,2,500
+185,SBL Baryta Carbonicum 200 CH (30ml),100,95,3,72
+186,SBL Sulphur 1M (1000 CH) (30ml),120,102,3,17
+187,Dr. Reckeweg Thuja Occidentalis 1M (1000 CH) (11ml),180,180,1,9
+188,Dr. Reckeweg Conium Maculatum 200 CH (11ml),145,145,1,134
+189,Willmar Schwabe India Causticum 200 CH (30ml),105,105,2,5
+190,SBL Folliculinum 200 CH (30ml),100,95,3,21
+191,SBL Lapis Albus 30 CH (30ml),90,86,3,80
+192,Dr. Reckeweg Aconite Napellus 200 CH (11ml),145,145,1,15
+193,SBL Amyl Nitrosum 200 CH (30ml),100,95,3,79
+194,Willmar Schwabe India Sulphur 200 CH (30ml),105,105,2,500
+195,SBL Withania Somnifera 30 CH (30ml),90,86,3,88
+196,Willmar Schwabe India Rhus toxicodendron 200 CH (30ml),105,105,2,500
+197,SBL Thiosinaminum 200 CH (30ml),100,95,3,93
+198,SBL Syzygium Jambolanum 1M (1000 CH) (30ml),135,128,3,68
+199,Willmar Schwabe India Hypothalamus 200 CH (30ml),105,105,2,4
+200,Willmar Schwabe India Sulphur 1M (1000 CH) (30ml),120,120,2,0
+201,SBL Arsenic Album 6 CH (30ml),90,86,3,33
+202,Willmar Schwabe India Serum Anguillae 30 CH (30ml),90,90,2,54
+203,Willmar Schwabe India Silicea 30 CH (30ml),90,90,2,500
+204,Dr. Reckeweg Silicea 200 CH (11ml),145,145,1,10
+205,Willmar Schwabe India Pulsatilla Nigricans 30 CH (30ml),90,90,2,5
+206,SBL Medorrhinum 1M (1000 CH) (30ml),135,128,3,82
+207,SBL Spongia Tosta 200 CH (30ml),100,95,3,20
+208,SBL Osteo Arthritic Nosode 1M (1000 CH) (30ml),135,128,3,80
+209,SBL Paraffinum 30 CH (30ml),90,86,3,94
+210,SBL Eupatorium Perfoliatum 200 CH (30ml),100,92,3,19
+211,SBL Aquilegaia Vulgaris 30 CH (30ml),90,86,3,88
+212,SBL Magnesia Phosphoricum 200 CH (30ml),100,95,3,33
+213,SBL Ipecacuanha 30 CH (30ml),90,86,3,86
+214,SBL Phytolacca Berry 200 CH (30ml),100,95,3,82
+215,B Jain Arsenicum Bromatum 6 CH (30ml),85,77,84,120
+216,Dr. Reckeweg China Officinalis 30 CH (11ml),125,125,1,65
+217,Dr. Reckeweg Plumbum Metallicum 200 CH (11ml),145,145,1,11
+218,SBL Borax 30 CH (30ml),90,86,3,9
+219,SBL Sabadilla 30 CH (30ml),90,86,3,63
+220,Willmar Schwabe India Silicea 1M (1000 CH) (30ml),120,120,2,18
+221,SBL Rumex Crispus 30 CH (30ml),90,86,3,6
+222,SBL Bryonia Alba 6 CH (30ml),90,86,3,30
+223,B Jain Sulphur 6 CH (10ml),40,36,84,100
+224,Dr. Reckeweg Aconite Napellus 30 CH (11ml),125,125,1,10
+225,Dr. Reckeweg Pulsatilla Nigricans 30 CH (11ml),125,125,1,65
+226,Dr. Reckeweg Aesculus Hippocastanum 200 CH (11ml),145,145,1,224
+227,Willmar Schwabe India Ruta Graveolens 30 CH (30ml),90,90,2,33
+228,SBL Rhus Toxicodendron 6 CH (30ml),90,86,3,23
+229,SBL Onosmodium Virginianum 200 CH (30ml),100,95,3,83
+230,SBL Bufo Rana 200 CH (30ml),100,95,3,93
+231,SBL Sanguinaria Canadensis 30 CH (30ml),90,86,3,42
+232,Willmar Schwabe India Gelsemium Sempervirens 1M (1000 CH) (30ml),120,120,2,19
+233,SBL Euphrasia Officinalis 30 CH (30ml),90,86,3,35
+234,SBL Ovarinum 30 CH (30ml),90,86,3,38
+235,Dr. Reckeweg Scirrhinum 200 CH (11ml),145,145,1,443
+236,Willmar Schwabe India Mercurius solubilis 30 CH (30ml),90,90,2,11
+237,Willmar Schwabe India Iodium 1M (1000 CH) (30ml),120,120,2,0
+238,SBL Cinnabaris 30 CH (30ml),90,86,3,94
+239,SBL Influenzinum 200 CH (30ml),95,90,3,38
+240,Dr. Reckeweg Thyroidinum 30 CH (11ml),125,125,1,178
+241,Dr. Reckeweg Arnica Montana 1M (1000 CH) (11ml),180,180,1,10
+242,SBL Paris Quadrifolia 200 CH (30ml),100,95,3,92
+243,Dr. Reckeweg Magnesia Phosphoricum CM CH (11ml),255,255,1,122
+244,SBL Hypericum Perforatum 1M (1000 CH) (30ml),135,128,3,88
+245,Willmar Schwabe India Nuphar Lutea 1M (1000 CH) (30ml),120,120,2,43
+246,Dr. Reckeweg Vinca Minor 30 CH (11ml),125,125,1,452
+247,SBL Phosphorus 10M CH (30ml),285,271,3,36
+248,Dr. Reckeweg Gelsemium Sempervirens 200 CH (11ml),145,145,1,18
+249,B Jain Psorinum 1M (1000 CH) (10ml),65,59,84,100
+250,SBL Hamamelis Virginica 30 CH (30ml),85,81,3,7
+251,SBL Hydrastis Canadensis 200 CH (30ml),100,95,3,38
+252,SBL Petroleum 6 CH (30ml),90,86,3,92
+253,Dr. Reckeweg Thuja Occidentalis 30 CH (11ml),125,125,1,71
+254,Dr. Reckeweg Antimonium Crudum 200 CH (11ml),145,145,1,9
+255,Dr. Reckeweg Causticum 200 CH (11ml),145,145,1,9
+256,SBL Chelidonium Majus 30 CH (30ml),90,86,3,33
+257,SBL Echinacea Angustifolia 6 CH (30ml),90,86,3,91
+258,SBL Parotidinum 200 CH (30ml),100,95,3,95
+259,SBL Thuja Occidentalis 10M CH (30ml),285,271,3,80
+260,Willmar Schwabe India Carbo Vegetabilis 200 CH (30ml),105,100,2,15
+261,SBL Magnesia Phosphoricum 30 CH (30ml),90,86,3,6
+262,SBL Silicea 1M (1000 CH) (30ml),135,128,3,73
+263,Dr. Reckeweg Agaricus Muscarius 200 CH (11ml),145,145,1,11
+264,SBL Conium Maculatum 30 CH (30ml),85,81,3,17
+265,Willmar Schwabe India Bothrops Lanceolatus 30 CH (30ml),90,90,2,2
+266,Dr. Reckeweg Allium Cepa 30 CH (11ml),125,125,1,14
+267,SBL Cinchona Officinalis (China) 6 CH (30ml),90,86,3,39
+268,SBL Lycopodium Clavatum 1M (1000 CH) (30ml),120,114,3,8
+269,Willmar Schwabe India Psorinum 1M (1000 CH) (30ml),120,120,2,22
+270,Willmar Schwabe India Cydonia Vulgaris 200 CH (30ml),105,105,2,12
+271,Dr. Reckeweg Kali Muriaticum 30 CH (11ml),125,125,1,454
+272,Dr. Reckeweg Lapis Albus 30 CH (11ml),125,125,1,160
+273,Dr. Reckeweg Arsenic Album 200 CH (11ml),145,145,1,7
+274,SBL Sepia 30 CH (30ml),90,86,3,33
+275,Dr. Reckeweg Rhus Toxicodendron 1M (1000 CH) (11ml),180,180,1,345
+276,SBL Rhododendron Chrysanthum 30 CH (30ml),90,86,3,39
+277,SBL Zincum Metallicum 30 CH (30ml),85,81,3,10
+278,SBL Kali Muriaticum 6 CH (30ml),90,86,3,86
+279,SBL Eupatorium Perfoliatum 30 CH (30ml),90,83,3,13
+280,Dr. Reckeweg Mercurius Solubilis 30 CH (11ml),125,125,1,8
+281,SBL Tribulus Terrestris 200 CH (30ml),100,95,3,95
+282,B Jain Aesculus Hippocastanum 30 CH (30ml),85,77,84,476
+283,Willmar Schwabe India Acid Nitricum 30 CH (30ml),90,90,2,4
+284,Lords Acid Fluor 200 CH (30ml),95,86,24,474
+285,Dr. Wellmans Arsenicum Album 30 CH (30ml),90,81,25,195
+286,Lords Allium Cepa 6 CH (30ml),85,77,24,496
+287,SBL Drosera Rotundifolia 200 CH (30ml),95,90,3,5
+288,Dr. Reckeweg Cantharis 30 CH (11ml),125,125,1,5
+289,SBL Graphites 200 CH (30ml),95,90,3,10
+290,B Jain Fucus Vesiculosus 6 CH (30ml),85,77,84,498
+291,B Jain Phytolacca Berry 6 CH (30ml),85,77,84,497
+292,SBL Mercurius Corrosivus 30 CH (30ml),90,86,3,11
+293,B Jain Thyroidinum 30 CH (30ml),85,77,84,472
+294,B Jain Fucus Vesiculosus 30 CH (30ml),85,77,84,491
+295,B Jain Phytolacca Berry 200 CH (30ml),95,86,84,484
+296,SBL Mezereum 30 CH (30ml),90,86,3,6
+297,Willmar Schwabe India Calcarea Carbonicum 200 CH (30ml),105,105,2,5
+298,SBL Mercurius Solubilis 6 CH (30ml),90,86,3,93
+299,B Jain Adrenalinum 200 CH (30ml),95,86,84,496
+300,B Jain Adrenalinum 30 CH (30ml),85,77,84,497
+301,Dr. Reckeweg Silicea CM CH (11ml),255,255,1,448
+302,B Jain Fucus Vesiculosus 200 CH (30ml),95,86,84,496
+303,Willmar Schwabe India Nux Vomica 200 CH (30ml),105,103,2,10
+304,Willmar Schwabe India Sepia 30 CH (30ml),90,90,2,500
+305,B Jain Calcarea Iodata 200 CH (30ml),95,86,84,490
+306,B Jain Calcarea Iodata 6 CH (30ml),85,77,84,497
+307,B Jain Thyroidinum 6 CH (30ml),85,77,84,497
+308,Dr. Reckeweg Sulphur 6 CH (11ml),125,125,1,120
+309,B Jain Adrenalinum 6 CH (30ml),85,77,84,496
+310,B Jain Fucus Vesiculosus 12 CH (30ml),85,77,84,498
+311,Willmar Schwabe India Hypothalamus 1M (1000 CH) (30ml),120,120,2,9
+312,SBL Wiesbaden 1M (1000 CH) (30ml),135,128,3,93
+313,SBL Aviaire 30 CH (30ml),90,86,3,83
+314,SBL Kali Muriaticum 200 CH (30ml),100,95,3,93
+315,Bakson Aurum Arsenicicum 200 CH (30ml),105,95,6,7
+316,SBL Tellurium 200 CH (30ml),100,95,3,90
+317,SBL Apis Mellifica 200 CH (30ml),95,81,3,15
+318,SBL Conium Maculatum 200 CH (30ml),100,95,3,88
+319,Willmar Schwabe India Spigelia 30 CH (30ml),90,90,2,5
+320,SBL Stramonium 30 CH (30ml),85,81,3,5
+321,SBL Glonoinum 30 CH (30ml),90,86,3,7
+322,SBL Iodium 200 CH (30ml),100,95,3,89
+323,SBL Kali Phosphoricum 1M (1000 CH) (30ml),120,102,3,11
+324,Willmar Schwabe India Ledum palustre 30 CH (30ml),90,90,2,21
+325,SBL Kali Bromatum 200 CH (30ml),100,95,3,78
+326,Dr. Reckeweg Ammonium Muriaticum 30 CH (11ml),125,125,1,98
+327,Dr. Reckeweg Phytolacca Berry 200 CH (11ml),145,145,1,206
+328,SBL Acid Nitricum 200 CH (30ml),100,95,3,92
+329,Dr. Reckeweg Influenzinum 200 CH (11ml),145,145,1,42
+330,SBL Causticum 30 CH (30ml),90,86,3,26
+331,SBL Petroleum 30 CH (30ml),90,86,3,38
+332,SBL Ferrum Phosphoricum 30 CH (30ml),90,86,3,5
+333,Willmar Schwabe India Hydrocotyle Asiatica 30 CH (30ml),90,90,2,6
+334,SBL Strophanthus Hispidus 30 CH (30ml),90,86,3,89
+335,SBL Acid Phosphoricum 200 CH (30ml),95,87,3,20
+336,SBL Phytolacca 200 CH (30ml),95,90,3,12
+337,SBL Colocynthis 30 CH (30ml),90,86,3,39
+338,Willmar Schwabe India Antimonium Chloridum 30 CH (30ml),90,90,2,1
+339,SBL Chelidonium Majus 200 CH (30ml),95,81,3,17
+340,SBL Aurum Metallicum 200 CH (30ml),100,95,3,41
+341,SBL Myristica Sebifera 200 CH (30ml),100,95,3,91
+342,Willmar Schwabe India Gelsemium Sempervirens 30 CH (30ml),90,90,2,500
+343,Willmar Schwabe India Crotalus Cascavella 200 CH (30ml),105,105,2,10
+344,Willmar Schwabe India Allium cepa 30 CH (30ml),90,88,2,9
+345,SBL Tanacetum Vulgare 200 CH (30ml),100,95,3,93
+346,SBL Dulcamara 30 CH (30ml),90,86,3,11
+347,Willmar Schwabe India Natrum Carbonicum 30 CH (30ml),85,85,2,2
+348,Dr. Reckeweg Antimonium Crudum 30 CH (11ml),125,125,1,281
+349,SBL Podophyllum Peltatum 30 CH (30ml),85,81,3,17
+350,Dr. Reckeweg Causticum 30 CH (11ml),125,125,1,15
+351,Dr. Reckeweg Phosphorus 1M (1000 CH) (11ml),180,180,1,449
+352,Dr. Reckeweg Alumina 30 CH (11ml),125,125,1,25
+353,SBL Epiphegus Virginiana 200 CH (30ml),100,95,3,94
+354,B Jain Spongia Tosta 30 CH (30ml),85,77,84,471
+355,SBL Lemna Minor 30 CH (30ml),90,86,3,8
+356,SBL Caulophyllum Thalictroides 30 CH (30ml),90,86,3,85
+357,SBL Pyrogenium 200 CH (30ml),100,95,3,40
+358,Willmar Schwabe India Hypericum perforatum 200 CH (30ml),105,105,2,6
+359,SBL Carica Papaya 6 CH (30ml),90,86,3,92
+360,SBL Medorrhinum 200 CH (30ml),100,95,3,90
+361,Willmar Schwabe India Negundium Americana 1M (1000 CH) (30ml),120,120,2,18
+362,SBL Sabadilla 200 CH (30ml),100,95,3,94
+363,Willmar Schwabe India Passiflora Incarnata 30 CH (30ml),90,90,2,5
+364,Dr. Reckeweg Hepar Sulphur 30 CH (11ml),125,125,1,208
+365,SBL Baryta Carbonicum 30 CH (30ml),90,86,3,83
+366,SBL Cannabis Sativa 1M (1000 CH) (30ml),135,128,3,92
+367,SBL Dulcamara 200 CH (30ml),100,95,3,9
+368,SBL Teucrium Marum Verum 30 CH (30ml),85,81,3,6
+369,Similia India Chamomila 30 CH (30ml),90,81,288,449
+370,B Jain Hepar Sulphur 200 CH (10ml),45,41,84,100
+371,SBL Kali Carbonicum 30 CH (30ml),90,86,3,39
+372,Dr. Reckeweg Ignatia Amara 200 CH (11ml),145,145,1,8
+373,Willmar Schwabe India Lycopodium Clavatum 1M (1000 CH) (30ml),120,120,2,8
+374,Dr. Reckeweg Anacardium Orientale 30 CH (11ml),125,125,1,176
+375,SBL Serum Anguillae 30 CH (30ml),90,86,3,30
+376,Willmar Schwabe India Phosphorus 1M (1000 CH) (30ml),120,120,2,8
+377,SBL Urtica Urens 30 CH (30ml),90,86,3,91
+378,B Jain Cineraria Maritima 1M (1000 CH) (30ml),120,108,84,495
+379,Dr. Reckeweg Abrotanum 30 CH (11ml),125,125,1,7
+380,SBL Cimicifuga Racemosa 200 CH (30ml),100,95,3,7
+381,Wheezal Justicia Adhatoda 3X (30ml),100,90,8,24
+382,Lords Arsenicum Iod 200 CH (30ml),95,86,24,496
+383,SBL Cannabis Indica 30 CH (30ml),90,86,3,81
+384,Willmar Schwabe India Collinsonia canadensis 200 CH (30ml),105,105,2,0
+385,Willmar Schwabe India Mercurius solubilis 200 CH (30ml),105,105,2,500
+386,SBL Mercurius Solubilis 10M CH (30ml),285,271,3,37
+387,SBL Camphora 1M (1000 CH) (30ml),135,115,3,58
+388,B Jain Haliaeetus Leucocepha 30 CH (30ml),85,77,84,100
+389,Lords Bryonia Alb 200 CH (30ml),95,86,24,479
+390,SBL Eupatorium Purpureum 30 CH (30ml),90,86,3,49
+391,Dr. Reckeweg Calcarea Carbonicum 1M (1000 CH) (11ml),180,180,1,8
+392,SBL Arsenic Album 1M (1000 CH) (30ml),135,128,3,86
+393,SBL Agnus Castus 200 CH (30ml),95,81,3,17
+394,SBL Sulphur 10M CH (30ml),285,271,3,34
+395,Willmar Schwabe India Belladonna 200 CH (30ml),105,105,2,24
+396,Willmar Schwabe India Rhus toxicodendron 30 CH (30ml),90,88,2,13
+397,SBL Vaccinotoxinum 1M (1000 CH) (30ml),135,128,3,48
+398,SBL Antimonium Arsenicicum 30 CH (30ml),90,86,3,49
+399,Dr. Reckeweg Ruta Graveolens 30 CH (11ml),125,125,1,93
+400,SBL Strophanthus Hispidus 200 CH (30ml),100,95,3,91
+401,SBL Solidago Virgaurea 3 CH (30ml),90,86,3,89
+402,SBL Cuprum Metallicum 30 CH (30ml),90,86,3,86
+403,Willmar Schwabe India Aconite Napellus 200 CH (30ml),105,105,2,6
+404,Dr. Reckeweg Gelsemium Sempervirens 30 CH (11ml),125,125,1,16
+405,SBL Sticta Pulmonaria 30 CH (30ml),85,81,3,6
+406,SBL Actaea Spicata 30 CH (30ml),90,86,3,85
+407,SBL Acid Picricum 30 CH (30ml),90,86,3,88
+408,Dr. Reckeweg Pyrogenium 200 CH (11ml),145,145,1,5
+409,SBL sol 200 CH (30ml),100,95,3,92
+410,SBL Symphytum Officinale 200 CH (30ml),95,81,3,22
+411,Dr. Reckeweg Cocculus Indicus 30 CH (11ml),125,125,1,314
+412,SBL Arnica Montana 3 CH (30ml),90,86,3,58
+413,Willmar Schwabe India Influenzinum 30 CH (30ml),90,90,2,14
+414,Willmar Schwabe India Mancinella 30 CH (30ml),90,90,2,73
+415,SBL Natrum Sulphuricum 200 CH (30ml),95,90,3,8
+416,SBL Lobelia Inflata 6 CH (30ml),90,86,3,95
+417,SBL Carica Papaya 200 CH (30ml),100,95,3,92
+418,Dr. Reckeweg Tellurium 30 CH (11ml),125,125,1,178
+419,B Jain Calcarea Fluorica 1M (1000 CH) (30ml),120,108,84,479
+420,SBL Digitalis Purpurea 30 CH (30ml),85,81,3,5
+421,Similia India Thuja 200 CH (30ml),100,90,288,491
+422,Dr. Reckeweg Dulcamara 30 CH (11ml),125,125,1,6
+423,SBL Prunus Spinosa 30 CH (30ml),90,86,3,86
+424,Willmar Schwabe India Bacillus Coli 1M (1000 CH) (30ml),120,120,2,33
+425,Dr. Reckeweg Viscum Album 30 CH (11ml),125,125,1,179
+426,Dr. Reckeweg Spongia Tosta 30 CH (11ml),125,125,1,18
+427,Willmar Schwabe India X-Ray 30 CH (30ml),85,85,2,3
+428,SBL Calendula Officinalis 30 CH (30ml),90,86,3,40
+429,Willmar Schwabe India Ammonium Carbonicum 30 CH (30ml),90,90,2,12
+430,SBL Origanum Majorana 30 CH (30ml),90,86,3,79
+431,SBL Sinapis Nigra 200 CH (30ml),100,95,3,93
+432,B Jain Staphysagria 1M (1000 CH) (30ml),120,108,84,487
+433,Willmar Schwabe India Thyroidinum 200 CH (30ml),105,105,2,0
+434,SBL Cephalandra Indica 200 CH (30ml),100,95,3,96
+435,Dr. Reckeweg Spongia Tosta 200 CH (11ml),145,145,1,5
+436,B Jain Tinospora Cordifolia 1M (1000 CH) (30ml),120,108,84,476
+437,Willmar Schwabe India Agnus Castus 200 CH (30ml),105,105,2,39
+438,Dr. Reckeweg Kali Arsenicosum 30 CH (11ml),125,125,1,420
+439,Dr. Reckeweg Crotalus Horridus 30 CH (11ml),125,125,1,379
+440,B Jain Opium 30 CH (10ml),40,36,84,100
+441,B Jain Glycyrrhiza Glabra 1M (1000 CH) (30ml),120,108,84,498
+442,SBL Acid Chrysophanicum 200 CH (30ml),100,95,3,95
+443,Lords Acid Nitricum 200 CH (30ml),95,86,24,486
+444,B Jain Nux Vomica 200 CH (10ml),45,41,84,100
+445,SBL Xanthoxylum Fraxineum 200 CH (30ml),100,95,3,94
+446,B Jain Thuja Occidentalis 1M (1000 CH) (10ml),65,59,84,100
+447,SBL Ricinus Communis 200 CH (30ml),100,95,3,95
+448,B Jain Bryonia Alba 1M (1000 CH) (10ml),65,59,84,100
+449,SBL Embelia Ribes 200 CH (30ml),100,95,3,95
+450,Willmar Schwabe India Vinca Minor 30 CH (30ml),90,90,2,6
+451,Willmar Schwabe India Betula Pendula Folia 30 CH (30ml),90,90,2,1
+452,B Jain Vinca Minor 1M (1000 CH) (10ml),65,59,84,100
+453,SBL Calcarea Fluoricum 1M (1000 CH) (30ml),135,128,3,96
+454,SBL Aegle Marmelos 200 CH (30ml),100,95,3,94
+455,SBL Terminalia Chebula 1M (1000 CH) (30ml),135,128,3,49
+456,Willmar Schwabe India Epiphagus Virginiana 30 CH (30ml),90,90,2,82
+457,B Jain Natrum Muriaticum 6 CH (10ml),40,36,84,100
+458,SBL Aegle Folia 30 CH (30ml),90,86,3,95
+459,B Jain Ustilago Maydis 200 CH (10ml),45,41,84,100
+460,B Jain Cinchona Officinalis 1M (1000 CH) (10ml),65,59,84,100
+461,B Jain Aletris Farinosa 30 CH (10ml),40,36,84,100
+462,SBL Drosera Rotundifolia 1M (1000 CH) (30ml),135,128,3,50
+463,SBL Lemna Minor 200 CH (30ml),100,95,3,31
+464,Willmar Schwabe India Sulphur 6 CH (30ml),90,90,2,35
+465,SBL Jaborandi 6 CH (30ml),90,86,3,63
+466,B Jain Stramonium 200 CH (10ml),45,41,84,100
+467,SBL Veratrum Album 200 CH (30ml),100,95,3,94
+468,Lords Chelidonium Maj 1M (1000 CH) (30ml),125,113,24,499
+469,B Jain Blatta Orientalis 200 CH (30ml),95,86,84,488
+470,B Jain Janosia Ashoka 1M (1000 CH) (30ml),120,108,84,492
+471,B Jain Bryonia Alba 200 CH (10ml),45,41,84,100
+472,Lords Hamamelis Virg 200 CH (30ml),95,86,24,497
+473,SBL sol 1M (1000 CH) (30ml),135,128,3,50
+474,B Jain Ruta Graveolens 1M (1000 CH) (30ml),120,108,84,488
+475,B Jain Cascara Sagrada 200 CH (30ml),95,86,84,497
+476,B Jain Bufo Rana 1M (1000 CH) (10ml),65,59,84,100
+477,Willmar Schwabe India Cheiranthus Cheiri 200 CH (30ml),105,105,2,6
+478,SBL Vaccinotoxinum 200 CH (30ml),100,95,3,94
+479,B Jain Kreosotum 1M (1000 CH) (10ml),65,59,84,100
+480,B Jain Syzygium Jambolanum 1M (1000 CH) (10ml),65,59,84,100
+481,SBL Glonoinum 200 CH (30ml),100,95,3,89
+482,SBL Ovarinum 6 CH (30ml),90,86,3,82
+483,Lords Nux Vomica 30 CH (30ml),85,77,24,482
+484,Willmar Schwabe India Eupatorium Perfoliatum 30 CH (30ml),90,90,2,7
+485,Dr. Reckeweg Robinia Pseudacacia 30 CH (11ml),125,125,1,23
+486,Willmar Schwabe India Spongia Tosta 200 CH (30ml),105,105,2,5
+487,B Jain Bacillinum 1M (1000 CH) (10ml),65,59,84,100
+488,SBL Acorus Calamus 200 CH (30ml),75,64,3,5
+489,B Jain Acidum Nitricum 1M (1000 CH) (10ml),65,59,84,100
+490,Lords Euphrasia 1M (1000 CH) (30ml),125,113,24,499
+491,B Jain Aloe Socotrina 1M (1000 CH) (10ml),65,59,84,100
+492,Dr. Reckeweg Aesculus Hippocastanum 50M CH (11ml),230,205,1,476
+493,SBL Bryonia Alba 1M (1000 CH) (30ml),135,128,3,43
+494,Dr. Reckeweg Graphites 30 CH (11ml),125,125,1,8
+495,SBL Paeonia Officinalis 30 CH (30ml),90,86,3,90
+496,Dr. Reckeweg Selenium 200 CH (11ml),145,145,1,67
+497,Willmar Schwabe India Acid Nitricum 200 CH (30ml),105,105,2,5
+498,Willmar Schwabe India Lapis Albus 6 CH (30ml),90,90,2,20
+499,Dr. Reckeweg Medorrhinum 1M (1000 CH) (11ml),180,180,1,8
+500,Willmar Schwabe India Insulinum 30 CH (30ml),90,90,2,16
+501,Dr. Reckeweg Agnus Castus 30 CH (11ml),125,125,1,20
+502,Dr. Reckeweg Bryonia Alba 1M (1000 CH) (11ml),180,180,1,172
+503,SBL Pancreatinum 200 CH (30ml),100,95,3,90
+504,SBL Acidum Citricum 200 CH (30ml),100,95,3,95
+505,SBL Kali Phosphoricum 6 CH (30ml),90,86,3,92
+506,Willmar Schwabe India Candida Albicans 30 CH (30ml),90,90,2,17
+507,Willmar Schwabe India Selenium 30 CH (30ml),90,90,2,9
+508,SBL Lachesis 200 CH (30ml),100,95,3,90
+509,Dr. Reckeweg Arsenic Sulphuratum Flavum 30 CH (11ml),125,125,1,9
+510,Dr. Reckeweg Selenium 30 CH (11ml),125,125,1,80
+511,SBL Acid Sulphuricum 30 CH (30ml),90,86,3,95
+512,Willmar Schwabe India Glonoinum 30 CH (30ml),85,85,2,5
+513,Lords Belladonna 30 CH (30ml),85,77,24,487
+514,Dr. Reckeweg Argentum Nitricum 30 CH (11ml),125,125,1,10
+515,SBL Beryllium Metallicum 30 CH (30ml),90,86,3,90
+516,Dr. Reckeweg Jaborandi 200 CH (11ml),145,145,1,472
+517,SBL Insulinum 200 CH (30ml),100,95,3,82
+518,B Jain Sepia 3X (30ml),110,99,84,477
+519,SBL Calendula Officinalis 200 CH (30ml),100,95,3,91
+520,SBL Aethusa Cynapium 30 CH (30ml),90,86,3,93
+521,SBL Kali Sulphuricum 200 CH (30ml),100,95,3,92
+522,SBL Anthrakokali 30 CH (30ml),90,86,3,93
+523,Dr. Reckeweg Radium Bromatum 200 CH (11ml),145,145,1,133
+524,Willmar Schwabe India Sepia 200 CH (30ml),105,105,2,9
+525,Willmar Schwabe India Helonias Dioica 30 CH (30ml),90,90,2,31
+526,SBL Tuberculinum 1M (1000 CH) (30ml),135,128,3,32
+527,B Jain Rhus Toxicodendron 200 CH (30ml),95,86,84,390
+528,SBL Tanacetum Vulgare 30 CH (30ml),90,86,3,94
+529,Bakson Aspidosperma 30 CH (30ml),100,90,6,6
+530,Willmar Schwabe India Nuphar Lutea 200 CH (30ml),105,105,2,6
+531,Willmar Schwabe India Medorrhinum  200 CH (30ml),105,105,2,7
+532,Willmar Schwabe India Hamamelis virginica 30 CH (30ml),90,90,2,6
+533,Dr. Reckeweg Ignatia Amara 30 CH (11ml),125,125,1,9
+534,Willmar Schwabe India Bacillus Coli 200 CH (30ml),105,105,2,3
+535,SBL Carcinosin 200 CH (30ml),100,95,3,96
+536,Willmar Schwabe India Psorinum 200 CH (30ml),105,105,2,19
+537,SBL Oleum Animale 30 CH (30ml),90,86,3,95
+538,Willmar Schwabe India Petroleum 30 CH (30ml),90,90,2,338
+539,SBL Ferrum Phosphoricum 200 CH (30ml),100,95,3,10
+540,Willmar Schwabe India Bismuthum Metallicum 200 CH (30ml),105,105,2,6
+541,SBL Acid Picricum 200 CH (30ml),100,95,3,92
+542,SBL Bufo Rana 30 CH (30ml),90,86,3,88
+543,SBL Physostigma Venenosum 200 CH (30ml),100,95,3,92
+544,Dr. Reckeweg Berberis Aquifolium 200 CH (11ml),145,145,1,136
+545,Dr. Reckeweg Antimonium Tartaricum 30 CH (11ml),125,125,1,46
+546,SBL Silica Marina 200 CH (30ml),100,95,3,96
+547,SBL Sarsaparilla 30 CH (30ml),90,86,3,85
+548,SBL Jacaranda Caroba 30 CH (30ml),90,86,3,93
+549,B Jain Aconitum Napellus 30 CH (30ml),85,77,84,334
+550,SBL Aurum Metallicum 30 CH (30ml),90,86,3,43
+551,Willmar Schwabe India Bacillinum  200 CH (30ml),105,105,2,17
+552,Willmar Schwabe India Antimonium Tartaricum 30 CH (30ml),90,90,2,20
+553,Dr. Reckeweg Dulcamara 200 CH (11ml),145,145,1,11
+554,SBL Sinapis Nigra 30 CH (30ml),90,86,3,95
+555,SBL Psorinum 1M (1000 CH) (30ml),120,102,3,9
+556,SBL Hypericum Perforatum 30 CH (30ml),90,86,3,9
+557,SBL Holarrhena Antidysenterica 1M (1000 CH) (30ml),135,128,3,49
+558,SBL Histaminum 12 CH (30ml),90,86,3,88
+559,Willmar Schwabe India Thuja occidentalis 10M CH (10ml),185,185,2,6
+560,Willmar Schwabe India Insulinum 200 CH (30ml),105,105,2,5
+561,B Jain Syzygium Jambolanum 1M (1000 CH) (30ml),120,108,84,458
+562,SBL Variolinum 30 CH (30ml),90,86,3,94
+563,Willmar Schwabe India Oleum Jecoris 1M (1000 CH) (30ml),120,120,2,3
+564,Willmar Schwabe India Onosmodium Virginianum 200 CH (30ml),105,105,2,11
+565,Dr. Reckeweg Pulsatilla Nigricans 200 CH (11ml),145,145,1,163
+566,B Jain Carcinosinum 1M (1000 CH) (30ml),120,108,84,455
+567,Willmar Schwabe India Carduus Marianus 6 CH (30ml),90,90,2,35
+568,Willmar Schwabe India Sabadilla 30 CH (30ml),90,90,2,0
+569,Willmar Schwabe India Kali Carbonicum 30 CH (30ml),90,90,2,3
+570,Lords Cina 30 CH (30ml),85,77,24,496
+571,Lords Nux Vomica 200 CH (30ml),95,86,24,484
+572,Lords Pulsatilla 30 CH (30ml),85,77,24,490
+573,SBL Symphytum Officinale 30 CH (30ml),85,81,3,5
+574,Lords Hypericum Perf 200 CH (30ml),95,86,24,494
+575,Dr. Reckeweg Nux Vomica 1M (1000 CH) (11ml),180,180,1,166
+576,SBL Apis Mellifica 6 CH (30ml),90,86,3,30
+577,SBL Kali Bromatum 6 CH (30ml),90,86,3,85
+578,SBL Chamomilla 30 CH (30ml),90,86,3,22
+579,SBL Plumbum Metallicum 200 CH (30ml),100,95,3,33
+580,Willmar Schwabe India Polyporus Pinicola 30 CH (30ml),90,77,2,7
+581,Willmar Schwabe India Staphysagria 200 CH (30ml),105,105,2,6
+582,SBL Cuprum Metallicum 200 CH (30ml),95,90,3,5
+583,SBL Solidago Virgaurea 30 CH (30ml),85,72,3,9
+584,SBL Psorinum 6 CH (30ml),90,72,3,91
+585,Dr. Reckeweg Calcarea Carbonicum 30 CH (11ml),125,125,1,9
+586,SBL Borax 200 CH (30ml),100,95,3,6
+587,Dr. Reckeweg Caladium Seguinum 30 CH (11ml),125,125,1,8
+588,SBL Syzygium Jambolanum 30 CH (30ml),90,86,3,85
+589,SBL Ruta Graveolens 6 CH (30ml),90,86,3,83
+590,Dr. Reckeweg Lemna Minor 30 CH (11ml),125,125,1,11
+591,Willmar Schwabe India Robinia pseudacacia 200 CH (30ml),105,105,2,5
+592,SBL Lecithinum 12 CH (30ml),90,86,3,92
+593,Lords Antimonium Crud 30 CH (30ml),85,77,24,494
+594,Dr. Reckeweg Petroleum 200 CH (11ml),145,145,1,7
+595,Willmar Schwabe India Tarentula Hispanica 200 CH (30ml),105,105,2,8
+596,Willmar Schwabe India Baptisia Tinctoria 30 CH (30ml),90,90,2,5
+597,Dr. Reckeweg Cicuta Virosa 30 CH (11ml),125,125,1,468
+598,SBL Murex Purpurea 30 CH (30ml),90,86,3,93
+599,Dr. Reckeweg Nux Moschata 200 CH (11ml),145,145,1,459
+600,Dr. Reckeweg Hepar Sulphur 1M (1000 CH) (11ml),180,180,1,386
+601,Willmar Schwabe India Oenanthe Crocata 200 CH (30ml),100,100,2,1
+602,SBL Berberis Vulgaris 30 CH (30ml),90,86,3,90
+603,Dr. Reckeweg Baryta Carbonicum 1M (1000 CH) (11ml),180,180,1,9
+604,Dr. Reckeweg Acid Nitricum 1M (1000 CH) (11ml),180,180,1,459
+605,SBL Spigelia 200 CH (30ml),95,90,3,5
+606,SBL Spiritus Quercus Glandium 30 CH (30ml),90,86,3,86
+607,Dr. Reckeweg Lycopodium Clavatum 6 CH (11ml),125,125,1,429
+608,Dr. Reckeweg Typhoidinum 200 CH (11ml),145,145,1,456
+609,SBL Arnica Montana 1M (1000 CH) (30ml),135,128,3,65
+610,Lords Sulphur 30 CH (30ml),85,77,24,494
+611,Willmar Schwabe India Petroselinum Sativum 30 CH (30ml),90,90,2,37
+612,SBL Fagopyrum Esculentum 200 CH (30ml),100,95,3,96
+613,Dr. Reckeweg Stramonium 30 CH (11ml),125,125,1,174
+614,Willmar Schwabe India Phytolacca Decandra 200 CH (30ml),105,105,2,500
+615,B Jain Symphytum Officinale 200 CH (30ml),95,86,84,480
+616,SBL Psorinum 200 CH (30ml),95,90,3,7
+617,Willmar Schwabe India Hepar Sulphur 30 CH (30ml),90,88,2,8
+618,SBL Cadmium Sulphuricum 6 CH (30ml),90,86,3,96
+619,SBL Cannabis Sativa 200 CH (30ml),100,95,3,93
+620,SBL Bismuthum Metallicum 30 CH (30ml),90,86,3,87
+621,Lords Ipecacuanha 200 CH (30ml),95,86,24,495
+622,Dr. Reckeweg Acid Nitricum 200 CH (11ml),145,145,1,6
+623,SBL Lecithinum 30 CH (30ml),90,86,3,91
+624,Lords Arnica Mont 30 CH (30ml),85,77,24,489
+625,SBL Coca 30 CH (30ml),90,86,3,7
+626,Willmar Schwabe India Ruta Graveolens 1M (1000 CH) (30ml),120,120,2,9
+627,SBL Chlorpromazine 200 CH (30ml),100,95,3,94
+628,Willmar Schwabe India Cholesterinum 30 CH (30ml),90,90,2,62
+629,SBL Viscum Album 30 CH (30ml),85,81,3,7
+630,SBL Arsenic Iodatum 30 CH (30ml),90,86,3,39
+631,Adel Pekana Arnica Montana 200 CH (10ml),150,150,4,11
+632,SBL Podophyllum Peltatum 200 CH (30ml),95,90,3,8
+633,Willmar Schwabe India Momordica Balsamina 30 CH (30ml),90,90,2,1
+634,Dr. Reckeweg Sulphur 1M (1000 CH) (11ml),180,180,1,218
+635,SBL Agraphis Nutans 30 CH (30ml),90,86,3,95
+636,SBL Ceanothus Americanus 30 CH (30ml),90,86,3,94
+637,Willmar Schwabe India Valeriana Officinalis 1M (1000 CH) (30ml),120,120,2,0
+638,Willmar Schwabe India Pulsatilla Nigricans 1M (1000 CH) (30ml),120,120,2,6
+639,SBL Withania Somnifera 1M (1000 CH) (30ml),135,128,3,36
+640,SBL Hydrocotyle Asiatica 200 CH (30ml),100,95,3,94
+641,Dr. Reckeweg Conium Maculatum 1M (1000 CH) (11ml),180,180,1,5
+642,B Jain Bacillinum 200 CH (10ml),45,41,84,100
+643,Dr. Reckeweg Naja Tripudians 200 CH (11ml),145,145,1,125
+644,B Jain Belladonna 6 CH (30ml),85,77,84,491
+645,SBL Acalypha Indica 30 CH (30ml),90,86,3,96
+646,Willmar Schwabe India Buxus Sempervirens 6 CH (30ml),85,85,2,0
+647,Willmar Schwabe India Lavandula Angustifolia 30 CH (30ml),90,90,2,1
+648,Willmar Schwabe India Apis Mellifica 200 CH (30ml),105,105,2,500
+649,SBL Coccus Cacti 30 CH (30ml),90,86,3,95
+650,SBL Arum Triphyllum 30 CH (30ml),90,86,3,94
+651,SBL Diphtherinum 200 CH (30ml),100,95,3,95
+652,Willmar Schwabe India Strychninum Phosphoricum 30 CH (30ml),90,90,2,3
+653,SBL Chlorpromazine 30 CH (30ml),90,86,3,96
+654,SBL Rhus Toxicodendron 10M CH (30ml),285,271,3,90
+655,Willmar Schwabe India Bismuthum Nitricum 30 CH (30ml),90,90,2,0
+656,Willmar Schwabe India Spigelia 200 CH (30ml),105,105,2,8
+657,SBL Ambra Grisea 200 CH (30ml),100,95,3,96
+658,SBL Bothrops Lanceolatus 30 CH (30ml),90,86,3,95
+659,SBL Thyroidinum 30 CH (30ml),90,86,3,34
+660,Willmar Schwabe India Lachesis 1M (1000 CH) (30ml),120,120,2,8
+661,SBL Silicea 10M CH (30ml),285,271,3,23
+662,Dr. Reckeweg Silicea 6 CH (11ml),125,125,1,455
+663,Willmar Schwabe India Kali Bromatum 200 CH (30ml),105,105,2,0
+664,Willmar Schwabe India Calcarea Arsenicosa 1M (1000 CH) (30ml),120,120,2,4
+665,Dr. Reckeweg Baryta Carbonicum 200 CH (11ml),145,145,1,14
+666,Boiron Rhus Toxicodendron Multi Dose Pellets 200 CH (4g),150,150,265,3
+667,Willmar Schwabe India Cannabis Sativa 1M (1000 CH) (30ml),120,120,2,20
+668,Willmar Schwabe India Anacardium Occidentale 200 CH (30ml),105,105,2,11
+669,B Jain Nux Vomica 1M (1000 CH) (30ml),120,108,84,483
+670,SBL Caladium Seguinum 10M CH (30ml),285,271,3,42
+671,Willmar Schwabe India Titanium Metallicum 6 CH (30ml),90,90,2,2
+672,Dr. Reckeweg Carcinosin 30 CH (11ml),125,125,1,456
+673,SBL Ferrum Magneticum 200 CH (30ml),100,95,3,92
+674,BHP Arsenicum Album 30 CH (30ml),90,85,610,54
+675,B Jain Coffea Cruda 30 CH (30ml),85,77,84,487
+676,SBL Terebinthinae Oleum 30 CH (30ml),90,86,3,78
+677,Willmar Schwabe India Ferrum Metallicum 1M (1000 CH) (30ml),120,120,2,9
+678,SBL Lathyrus Sativa 1M (1000 CH) (30ml),135,128,3,50
+679,SBL sol 30 CH (30ml),90,86,3,93
+680,Dr. Reckeweg Hydrocotyle Asiatica 1M (1000 CH) (11ml),180,180,1,487
+681,Willmar Schwabe India Ginseng 30 CH (30ml),90,90,2,13
+682,Willmar Schwabe India Calcarea Arsenicosa CM CH (10ml),325,325,2,1
+683,Willmar Schwabe India Dulcamara 200 CH (30ml),105,105,2,26
+684,SBL Carcinosin 30 CH (30ml),90,86,3,95
+685,SBL Origanum Majorana 3 CH (30ml),90,86,3,93
+686,Willmar Schwabe India Fraxinus Americana 200 CH (30ml),105,105,2,28
+687,SBL Chlorpromazine 1M (1000 CH) (30ml),135,128,3,49
+688,SBL Chininum Sulphuricum 30 CH (30ml),90,86,3,94
+689,Dr. Reckeweg Ferrum Phosphoricum 200 CH (11ml),145,145,1,472
+690,Willmar Schwabe India Asafoetida 200 CH (30ml),105,105,2,3
+691,Boiron Argentum Metallicum Multi Dose Pellets 30 CH (4g),150,150,265,2
+692,SBL Hekla Lava 30 CH (30ml),90,86,3,88
+693,SBL Belladonna 10M CH (30ml),285,271,3,44
+694,SBL Oleum Santali 30 CH (30ml),90,86,3,91
+695,Willmar Schwabe India Thea Chinensis 6 CH (30ml),90,90,2,0
+696,SBL Tabacum 200 CH (30ml),100,95,3,95
+697,Similia India Arnica Montana 200 CH (30ml),100,90,288,487
+698,SBL Paeonia Officinalis 3 CH (30ml),90,86,3,93
+699,Willmar Schwabe India Causticum 1M (1000 CH) (30ml),120,120,2,12
+700,Lords Carbo Veg 6 CH (30ml),85,77,24,496
+701,Dr. Reckeweg Aesculus Hippocastanum 1M (1000 CH) (11ml),180,180,1,439
+702,SBL Fel Tauri 30 CH (30ml),90,86,3,73
+703,Boiron Staphysagria Multi Dose Pellets 200 CH (4g),150,150,265,5
+704,Dr. Reckeweg Viscum Album 200 CH (11ml),145,145,1,173
+705,Lords Sabadilla 200 CH (30ml),95,86,24,498
+706,SBL Natrum Bromatum 1M (1000 CH) (30ml),135,128,3,49
+707,B Jain Nux Vomica 50M CH (30ml),325,293,84,498
+708,B Jain Hepar Sulphur 1M (1000 CH) (10ml),65,59,84,100
+709,B Jain Streptococcinum 12 CH (30ml),85,77,84,499
+710,Willmar Schwabe India Helleborus Niger 6 CH (30ml),90,90,2,0
+711,Lords Bryonia Alb 30 CH (30ml),85,77,24,488
+712,B Jain Kalium Iodatum 12 CH (30ml),85,77,84,499
+713,SBL Calcarea Arsenicosum 10M CH (30ml),285,271,3,47
+714,SBL Chlorpromazine 12 CH (30ml),90,86,3,95
+715,Boiron Lachesis Multi Dose Pellets 30 CH (4g),150,150,265,5
+716,SBL Acid Picricum 1M (1000 CH) (30ml),135,128,3,46
+717,SBL Spigelia Marylandica 1M (1000 CH) (30ml),135,128,3,47
+718,SBL Onosmodium Virginianum 6 CH (30ml),90,86,3,96
+719,B Jain Kalium Iodatum 6 CH (30ml),85,77,84,497
+720,SBL Tribulus Terrestris 1M (1000 CH) (30ml),135,128,3,42
+721,B Jain Staphylococcus Aureus 30 CH (30ml),85,77,84,493
+722,B Jain Tuberculinum Bovinum 12 CH (30ml),85,77,84,498
+723,Willmar Schwabe India Pothos Foetidus 30 CH (30ml),90,90,2,12
+724,B Jain Acidum Phosphoricum 200 CH (10ml),45,41,84,100
+725,B Jain Hepar Sulphur 50M CH (10ml),160,144,84,100
+726,B Jain Haliaeetus Leucocepha 200 CH (10ml),45,41,84,100
+727,B Jain Hepar Sulphur 10M CH (10ml),120,108,84,100
+728,SBL Calcarea Fluoricum 10M CH (30ml),285,271,3,35
+729,SBL Ginseng 6 CH (30ml),90,86,3,96
+730,SBL Quassia Amara 200 CH (30ml),100,95,3,89
+731,SBL Bothrops Lanceolatus 200 CH (30ml),100,95,3,96
+732,Willmar Schwabe India Pituitary Gland 200 CH (30ml),105,105,2,2
+733,B Jain Arnica Montana 200 CH (10ml),45,41,84,100
+734,SBL Kali Carbonicum 6 CH (30ml),90,86,3,96
+735,SBL Asafoetida 200 CH (30ml),100,95,3,96
+736,Willmar Schwabe India Kali Bromatum 1M (1000 CH) (30ml),120,120,2,47
+737,Willmar Schwabe India Hydrangea Arborescens 30 CH (30ml),90,90,2,61
+738,SBL Brahmi 3 CH (30ml),90,86,3,93
+739,Willmar Schwabe India Helianthus Annus 200 CH (30ml),100,100,2,0
+740,SBL Holarrhena Antidysenterica 3 CH (30ml),90,86,3,95
+741,Willmar Schwabe India Histaminum Hydrochloricum 1M (1000 CH) (30ml),120,120,2,16
+742,SBL Baryta Sulphurata 200 CH (30ml),100,95,3,93
+743,SBL Ovarinum 12 CH (30ml),90,86,3,94
+744,Dr. Reckeweg Croton Tiglium 200 CH (11ml),145,145,1,488
+745,Willmar Schwabe India Euphrasia Officinalis 30 CH (30ml),90,90,2,19
+746,SBL Morbillinum 1M (1000 CH) (30ml),135,128,3,50
+747,SBL Ammonium Causticum 30 CH (30ml),90,86,3,96
+748,Dr. Reckeweg Bryonia Alba CM CH (11ml),255,255,1,466
+749,Dr. Reckeweg Cina 200 CH (11ml),145,145,1,419
+750,SBL Chininum Arsenicosum 12 CH (30ml),90,86,3,89
+751,SBL Gymnema Sylvestre 6 CH (30ml),90,86,3,95
+752,Dr. Reckeweg Kali Carbonicum CM CH (11ml),255,255,1,480
+753,Lords Kali Brom 200 CH (30ml),95,86,24,496
+754,B Jain Sabadilla 30 CH (10ml),40,36,84,100
+755,B Jain Haliaeetus Leucocepha 10M CH (10ml),120,108,84,100
+756,B Jain Stannum Metallicum 30 CH (30ml),85,77,84,497
+757,B Jain Haliaeetus Leucocepha 1M (1000 CH) (10ml),65,59,84,100
+758,Willmar Schwabe India Teucrium Marum Verum 1M (1000 CH) (30ml),120,120,2,20
+759,SBL Collinsonia Canadensis 30 CH (30ml),90,86,3,87
+760,SBL Alloxanum 30 CH (30ml),90,86,3,78
+761,Willmar Schwabe India Orchitinum 30 CH (30ml),90,90,2,8
+762,Willmar Schwabe India Oophorinum 6 CH (30ml),90,90,2,5
+763,Willmar Schwabe India Mercurius Iodatus Ruber 200 CH (30ml),105,105,2,11
+764,B Jain Agnus Castus 200 CH (10ml),45,41,84,100
+765,Bakson Aspidosperma 6 CH (30ml),100,90,6,8
+766,Bakson Fragaria Vesca 3X (30ml),100,75,6,0
+767,SBL Aesculus Hippocastanum 30 CH (30ml),85,78,3,29
+768,SBL Cimicifuga Racemosa 30 CH (30ml),90,86,3,94
+769,SBL Palladium 30 CH (30ml),90,86,3,95
+770,SBL Salix Nigra 1M (1000 CH) (30ml),135,128,3,40
+771,Willmar Schwabe India Orchitinum 200 CH (30ml),100,100,2,12
+772,SBL Kreosotum 200 CH (30ml),95,90,3,6
+773,Bakson Skookum Chuck 50M CH (30ml),325,293,6,9
+774,SBL Clematis Erecta 200 CH (30ml),95,90,3,5
+775,Dr. Reckeweg Apis Mellifica 30 CH (11ml),125,125,1,178
+776,Dr. Reckeweg Acid Phosphoricum 200 CH (11ml),145,145,1,154
+777,Willmar Schwabe India Oophorinum 200 CH (30ml),105,105,2,12
+778,Lords Aconite Nap 200 CH (30ml),95,86,24,494
+779,Willmar Schwabe India Pyrogenium 1M (1000 CH) (30ml),120,120,2,28
+780,SBL Abrotanum 30 CH (30ml),85,81,3,5
+781,Willmar Schwabe India Hyoscyamus niger 200 CH (30ml),100,100,2,3
+782,Dr. Reckeweg Mercurius Corrosivus 30 CH (11ml),125,125,1,372
+783,Willmar Schwabe India Calcarea Fluoricum 30 CH (30ml),90,90,2,6
+784,Willmar Schwabe India Opium 200 CH (30ml),105,105,2,21
+785,Lords Ipecacuanha 30 CH (30ml),85,77,24,481
+786,Dr. Reckeweg Thyroidinum 200 CH (11ml),145,145,1,10
+787,SBL Bellis Perennis 30 CH (30ml),90,86,3,77
+788,Dr. Reckeweg Bufo Rana 200 CH (11ml),145,145,1,415
+789,Willmar Schwabe India Antimonium Crudum 6 CH (30ml),90,90,2,104
+790,Lords Rhus Tox 200 CH (30ml),95,86,24,482
+791,SBL Cina 200 CH (30ml),95,81,3,7
+792,Lords Stramonium 30 CH (30ml),85,77,24,495
+793,Willmar Schwabe India Lathyrus Sativa 30 CH (30ml),90,90,2,6
+794,SBL Adonis Vernalis 30 CH (30ml),90,86,3,96
+795,SBL Nymphaea Odorata 200 CH (30ml),100,95,3,96
+796,Willmar Schwabe India Lophophytum Leandri 30 CH (30ml),90,90,2,29
+797,B Jain Camphora 200 CH (10ml),45,41,84,100
+798,Dr. Reckeweg Acid Phosphoricum 6 CH (11ml),125,125,1,10
+799,B Jain Thiosinaminum 6 CH (10ml),40,36,84,100
+800,Dr. Reckeweg Wiesbaden 200 CH (11ml),145,145,1,190
+801,Willmar Schwabe India Staphylococcinum 1M (1000 CH) (30ml),120,120,2,36
+802,SBL Stramonium 200 CH (30ml),100,95,3,92
+803,Dr. Reckeweg Nux Vomica 50M CH (11ml),230,230,1,470
+804,SBL Fel Tauri 1M (1000 CH) (30ml),135,128,3,40
+805,Dr. Reckeweg Natrum Muriaticum 1M (1000 CH) (11ml),180,180,1,9
+806,SBL Lycopus Virginicus 3 CH (30ml),90,86,3,95
+807,Willmar Schwabe India Thyroidinum 30 CH (30ml),90,90,2,21
+808,Willmar Schwabe India Aloe Socotrina 200 CH (30ml),105,105,2,10
+809,Dr. Reckeweg X-Ray 10M CH (11ml),200,200,1,487
+810,SBL Cannabis Indica 200 CH (30ml),100,95,3,92
+811,SBL Tuberculinum 200 CH (30ml),95,90,3,9
+812,SBL Chenopodium Anthelminticum 6 CH (30ml),90,86,3,81
+813,SBL Cupressus Lawsoniana 200 CH (30ml),100,95,3,96
+814,Willmar Schwabe India Pancreatinum 200 CH (30ml),105,105,2,29
+815,Willmar Schwabe India Alumina 30 CH (30ml),90,90,2,20
+816,SBL Ephedra Vulgaris 200 CH (30ml),100,95,3,96
+817,Dr. Reckeweg Hamamelis Virginica 30 CH (11ml),125,125,1,4
+818,Dr. Reckeweg Helleborus Niger 1M (1000 CH) (11ml),180,180,1,491
+819,SBL Adrenocorticotrophin 200 CH (30ml),100,95,3,88
+820,Willmar Schwabe India Lophophytum Leandri 6 CH (30ml),90,90,2,21
+821,B Jain Cuprum Metallicum 30 CH (10ml),40,36,84,100
+822,B Jain Ruta Graveolens 200 CH (10ml),45,41,84,100
+823,SBL Argentum Phosphoricum 6 CH (30ml),90,86,3,95
+824,SBL Natrum Hypophosphorosum 200 CH (30ml),100,95,3,95
+825,B Jain Dulcamara 6 CH (10ml),40,36,84,100
+826,SBL Hepar Sulphur 6 CH (30ml),90,86,3,29
+827,SBL Digitalis Purpurea 200 CH (30ml),100,95,3,94
+828,Dr. Reckeweg Natrum Muriaticum 6 CH (11ml),125,125,1,128
+829,SBL Carlsbad 1M (1000 CH) (30ml),135,128,3,49
+830,B Jain Cuprum Metallicum 200 CH (10ml),45,41,84,100
+831,B Jain Sulphur 200 CH (10ml),45,41,84,100
+832,SBL Cerium Metallicum 6 CH (30ml),90,86,3,95
+833,SBL Parathyroidinum 6 CH (30ml),90,86,3,96
+834,Willmar Schwabe India Justicia Adhatoda 1M (1000 CH) (30ml),120,120,2,3
+835,B Jain Sulphur 1M (1000 CH) (10ml),65,59,84,100
+836,B Jain Apocynum Cannabinum 30 CH (10ml),40,36,84,100
+837,SBL Calcarea Muriatica 200 CH (30ml),100,95,3,96
+838,Willmar Schwabe India Lapis Albus 30 CH (30ml),90,90,2,6
+839,SBL Hypericum Perforatum 6 CH (30ml),90,86,3,88
+840,Dr. Reckeweg Platinum Metallicum 10M CH (11ml),200,200,1,483
+841,B Jain Crataegus Oxyacantha 6X (30ml),110,83,84,490
+842,SBL Kali Arsenicosum 200 CH (30ml),100,95,3,94
+843,SBL Adrenocorticotrophin 6 CH (30ml),90,86,3,96
+844,B Jain Acidum Benzoicum 12 CH (30ml),85,77,84,489
+845,B Jain Ledum Palustre 6 CH (10ml),40,36,84,100
+846,SBL Natrum Iodatum 200 CH (30ml),100,95,3,94
+847,Willmar Schwabe India Barium Sulphuratum 200 CH (30ml),110,110,2,2
+848,B Jain  Badiaga 6 CH (30ml),85,77,84,496
+849,B Jain  Badiaga 200 CH (30ml),95,86,84,497
+850,SBL Natrum Hypophosphorosum 6 CH (30ml),90,86,3,95
+851,SBL Adonis Vernalis 200 CH (30ml),100,95,3,96
+852,Dr. Reckeweg Iodium 30 CH (11ml),125,125,1,187
+853,SBL Natrum Nitricum 6 CH (30ml),90,86,3,95
+854,SBL Thiosinaminum 6 CH (30ml),90,86,3,96
+855,B Jain Syphillinum 1M (1000 CH) (10ml),65,59,84,100
+856,Dr. Reckeweg Tuberculinum Bovinum 1M (1000 CH) (11ml),180,180,1,148
+857,B Jain Kalium Nitricum 200 CH (30ml),95,86,84,499
+858,SBL Thyroxinum 6 CH (30ml),90,86,3,96
+859,SBL Thyroxinum 30 CH (30ml),90,86,3,96
+860,SBL Cupressus Lawsoniana 6 CH (30ml),90,86,3,96
+861,SBL Aralia Racemosa 200 CH (30ml),100,95,3,90
+862,SBL Cerium Metallicum 200 CH (30ml),100,95,3,96
+863,B Jain Ocimum Sanctum 200 CH (30ml),95,86,84,491
+864,Willmar Schwabe India Colocynthis  30 CH (30ml),90,90,2,500
+865,Dr. Reckeweg Bufo Rana 10M CH (11ml),200,200,1,487
+866,SBL Parathyroidinum 200 CH (30ml),100,95,3,96
+867,B Jain  Badiaga 1M (1000 CH) (30ml),120,108,84,498
+868,SBL Natrum Iodatum 6 CH (30ml),90,86,3,96
+869,SBL Baptisia Tinctoria 200 CH (30ml),100,95,3,45
+870,Dr. Reckeweg Kali Bichromicum 200 CH (11ml),145,145,1,54
+871,Willmar Schwabe India Viola Tricolor 30 CH (30ml),90,90,2,31
+872,SBL Thyroxinum 200 CH (30ml),100,95,3,96
+873,SBL Cenchris Contortrix 30 CH (30ml),90,86,3,95
+874,Willmar Schwabe India Kali Bromatum 30 CH (30ml),90,90,2,30
+875,Willmar Schwabe India Petroleum 6 CH (30ml),90,90,2,19
+876,B Jain Belladonna 30 CH (30ml),85,77,84,406
+877,SBL Scrophularia Nodosa 3 CH (30ml),90,86,3,93
+878,SBL Natrum Bromatum 200 CH (30ml),100,95,3,96
+879,SBL Hyoscyamus Niger 200 CH (30ml),100,95,3,95
+880,SBL Thyroidinum 200 CH (30ml),100,95,3,24
+881,B Jain Medorrhinum 1M (1000 CH) (30ml),120,108,84,478
+882,B Jain Triticum Repens 30 CH (30ml),85,64,84,493
+883,SBL Calcarea Ova Tosta 200 CH (30ml),100,95,3,95
+884,Willmar Schwabe India Antimonium Crudum 30 CH (30ml),90,90,2,6
+885,SBL Urtica Urens 200 CH (30ml),100,95,3,91
+886,Willmar Schwabe India Belladonna 30 CH (30ml),90,90,2,5
+887,SBL Antimonium Tartaricum 30 CH (30ml),90,86,3,12
+888,SBL Sabina 200 CH (30ml),100,95,3,93
+889,SBL Ornithogalum Umbellatum 30 CH (30ml),90,86,3,86
+890,Dr. Reckeweg Opium 200 CH (11ml),145,145,1,10
+891,Dr. Reckeweg Calcarea Fluoricum 30 CH (11ml),125,125,1,5
+892,Dr. Reckeweg Collinsonia Canadensis 200 CH (11ml),145,145,1,383
+893,SBL Thuja Occidentalis 6 CH (30ml),90,86,3,42
+894,Willmar Schwabe India Avena Sativa 30 CH (30ml),90,90,2,48
+895,Willmar Schwabe India Carya Alba 30 CH (30ml),90,90,2,0
+896,SBL Nyctanthes Arbortristis 30 CH (30ml),90,86,3,94
+897,SBL Kali Carbonicum 200 CH (30ml),100,95,3,41
+898,Dr. Reckeweg Arsenic Album CM CH (11ml),255,255,1,7
+899,SBL Calcarea Sulphuricum 30 CH (30ml),90,86,3,91
+900,Lords Nux Vomica 1M (1000 CH) (30ml),125,94,24,487
+901,Willmar Schwabe India Arnica Montana 30 CH (30ml),90,90,2,5
+902,SBL Strychninum 30 CH (30ml),90,86,3,96
+903,SBL Oleander 6 CH (30ml),90,86,3,95
+904,Willmar Schwabe India Onosmodium Virginianum 30 CH (30ml),90,90,2,24
+905,Dr. Reckeweg Graphites 10M CH (11ml),200,200,1,467
+906,Dr. Reckeweg Teucrium Marum Verum CM CH (11ml),255,255,1,128
+907,SBL Acid Aceticum 30 CH (30ml),90,86,3,95
+908,SBL Osmium Metallicum 30 CH (30ml),90,86,3,85
+909,Dr. Reckeweg Viscum Album 6 CH (11ml),125,125,1,1
+910,SBL Lilium Tigrinum 30 CH (30ml),90,86,3,89
+911,SBL Baryta Muriaticum 30 CH (30ml),90,86,3,91
+912,SBL Coca 200 CH (30ml),95,90,3,4
+913,SBL Chrysarobinum 30 CH (30ml),90,86,3,88
+914,Dr. Reckeweg Eupatorium Perfoliatum 200 CH (11ml),145,145,1,13
+915,Willmar Schwabe India Agnus Castus 6 CH (30ml),90,90,2,5
+916,Boiron Lycopodium Clavatum Multi Dose Pellets 30 CH (4g),150,150,265,12
+917,Willmar Schwabe India Polyporus Pinicola 200 CH (30ml),105,105,2,79
+918,Dr. Reckeweg Iodium 200 CH (11ml),145,145,1,356
+919,SBL Hyoscyamus Niger 30 CH (30ml),90,86,3,9
+920,Willmar Schwabe India Kalmia Latifolia 30 CH (30ml),90,90,2,12
+921,SBL Belladonna 3 CH (30ml),90,86,3,67
+922,Dr. Reckeweg Conium Maculatum 30 CH (11ml),125,125,1,186
+923,Dr. Reckeweg Agaricus Muscarius 1M (1000 CH) (11ml),180,180,1,470
+924,SBL Croton Tiglium 30 CH (30ml),90,86,3,36
+925,Haslab Vanadium 30 CH (30ml),70,67,28,33
+926,Willmar Schwabe India Usnea Barbata 200 CH (30ml),105,105,2,1
+927,Dr. Reckeweg Hydrastis Canadensis 6 CH (11ml),125,111,1,488
+928,Dr. Reckeweg Thuja Occidentalis CM CH (11ml),255,255,1,11
+929,SBL Antimonium Crudum 200 CH (30ml),100,95,3,11
+930,SBL Sarracenia Purpurea 200 CH (30ml),100,80,3,95
+931,Willmar Schwabe India Zincum Picricum 1M (1000 CH) (30ml),120,120,2,1
+932,SBL Cocculus Indicus 30 CH (30ml),90,86,3,90
+933,SBL Cantharis 200 CH (30ml),100,95,3,35
+934,SBL Fragaria Vesca 30 CH (30ml),90,72,3,91
+935,Willmar Schwabe India Bryonia Alba 1M (1000 CH) (30ml),120,120,2,6
+936,SBL Belladonna 1M (1000 CH) (30ml),135,128,3,90
+937,Dr. Reckeweg Plumbum Metallicum 1M (1000 CH) (11ml),180,180,1,464
+938,SBL Iodium 30 CH (30ml),90,86,3,6
+939,Willmar Schwabe India Natrum muriaticum 200 CH (30ml),105,105,2,12
+940,SBL Natrum Carbonicum 30 CH (30ml),90,86,3,5
+941,Willmar Schwabe India Laburnum Anagyroides 30 CH (30ml),90,90,2,1
+942,SBL Camphora Monobromata 30 CH (30ml),90,86,3,93
+943,Willmar Schwabe India Acid Phosphoricum 30 CH (30ml),90,90,2,500
+944,SBL Bovista 6 CH (30ml),90,86,3,88
+945,Dr. Reckeweg Teucrium Marum Verum 10M CH (11ml),200,200,1,187
+946,SBL Natrum Phosphoricum 30 CH (30ml),85,81,3,9
+947,Willmar Schwabe India Hepar Sulphur 6 CH (30ml),90,90,2,37
+948,Willmar Schwabe India Rosmarinus Officinalis 30 CH (30ml),90,90,2,7
+949,Dr. Reckeweg Jaborandi 30 CH (11ml),125,125,1,157
+950,Willmar Schwabe India Candida Albicans 200 CH (30ml),105,105,2,5
+951,Dr. Reckeweg Calcarea Fluoricum 6 CH (11ml),125,125,1,428
+952,Dr. Reckeweg Arnica Montana 6 CH (11ml),125,125,1,145
+953,SBL Arsenic Sulphuratum Flavum 200 CH (30ml),95,90,3,5
+954,Dr. Reckeweg Calcarea Carbonicum CM CH (11ml),255,255,1,451
+955,Dr. Reckeweg Nux Vomica CM CH (11ml),255,255,1,453
+956,SBL Natrum Muriaticum 1M (1000 CH) (30ml),135,104,3,12
+957,SBL Phosphorus 30 CH (30ml),85,81,3,35
+958,Willmar Schwabe India Staphysagria 30 CH (30ml),90,90,2,49
+959,Willmar Schwabe India Cimicifuga Racemosa 30 CH (30ml),90,90,2,4
+960,Dr. Reckeweg Colchicum 30 CH (11ml),125,125,1,81
+961,B Jain Euphrasia Officinalis 30 CH (30ml),85,77,84,477
+962,SBL Viscum Album 6 CH (30ml),90,86,3,37
+963,Willmar Schwabe India Podophyllum Peltatum 30 CH (30ml),90,90,2,5
+964,SBL Ginkgo Biloba 1M (1000 CH) (30ml),135,128,3,41
+965,Willmar Schwabe India Fagopyrum Esculentum 30 CH (30ml),90,90,2,39
+966,B Jain Adamas (Diamond dust) 200 CH (30ml),95,86,84,100
+967,SBL Ferrum Metallicum 30 CH (30ml),90,86,3,33
+968,Similia India Nux Vomica 200 CH (30ml),100,75,288,485
+969,SBL Phosphorus 6 CH (30ml),90,72,3,94
+970,SBL Nux Vomica 1M (1000 CH) (30ml),135,128,3,91
+971,SBL Ledum Palustre 6 CH (30ml),90,86,3,95
+972,B Jain Thuja Occidentalis 200 CH (30ml),95,86,84,401
+973,SBL Naphthalinum 30 CH (30ml),90,86,3,95
+974,B Jain Ruta Graveolens 6X (30ml),110,99,84,492
+975,SBL Astacus Fluviatilis 30 CH (30ml),90,86,3,42
+976,SBL Convallaria Majalis 200 CH (30ml),100,80,3,95
+977,SBL Passiflora Incarnata 1M (1000 CH) (30ml),135,128,3,45
+978,Willmar Schwabe India Rhus toxicodendron 6 CH (30ml),90,90,2,48
+979,Bakson Hippozaeninum 30 CH (30ml),100,90,6,6
