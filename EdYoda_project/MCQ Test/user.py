@@ -50,7 +50,11 @@ class super_user_class:
     def delete_question_paper(self):
         question_type = quiz.type_of_question(self)
         hardn = quiz.hardness_of_question(self)
-        quiz.remove_question_from_mcq_test(self=self,que_type =question_type,hardness=hardn)
+
+        id = int(input('\nEnter Id of Question to delete\n'))
+        que= quiz.Mcq_List[0][question_type][hardn][id - 1]
+
+        quiz.remove_question_from_mcq_test(self=que,que_type =question_type,hardness=hardn)
 
     def set_multiple_quiz(self):
         pass
