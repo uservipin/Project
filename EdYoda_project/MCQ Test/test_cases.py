@@ -28,7 +28,7 @@ print(
 
 print('Let the system know you are:  \n 1. user\n 2. super_user\n')
 
-key= input("Please Enter \n'SUPER USER KEY': To Authenticate You :\n"
+key= input("Please Enter \n'SUPER USER KEY': super_user@123  To Authenticate You :\n"
            "If 'USER' , 'KEY' is  user \n")
 
 if key=='super_user@123':
@@ -36,28 +36,19 @@ if key=='super_user@123':
             "2. Update question with Type and Hardness \n3. Delete question with Type and Hardness\n4. Set correct answers of MCQ")
 
 
-      func= int(input('You want to add question \n 1. add  \n 2. update \n 3. delete'))
+      func= int(input('You want to add question \n 1. add  \n 2. update \n 3. delete\n'))
 
       if func ==1:
             super_user1 = super_user_class('Vipin', 'kumar.******@gmail.com', 7500574058)
             super_user1.add_question_to_test()
 
-
       if func ==2:
             super_user1 = super_user_class('Vipin', 'kumar.******@gmail.com', 7500574058)
             super_user1.update_question()
 
-
-
-
       if func ==3:
             super_user1 = super_user_class('Vipin', 'kumar.******@gmail.com', 7500574058)
             super_user1.delete_question_paper()
-
-
-      super_user1 = super_user_class('Vipin', 'kumar.******@gmail.com', 7500574058)
-      super_user1.add_question_to_test()
-      super_user1.update_question()
 
 
 if key =='user':

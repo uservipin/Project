@@ -237,7 +237,7 @@ class quiz:
                     }
     Mcq_List = [dictMcqTopic]
     """
-    # print(Mcq_List[0]['str']['Medium'][0)]
+    # print(Mcq_List[0]['str']['Medium'][0]
     # print(Mcq_List[0]['str']['Easy'])
     """
 
@@ -246,8 +246,12 @@ class quiz:
 
         print("quiz_que_type", que_type)
         print("quiz_hardness",hardness)
-        print('questions',question)
-        print(cls.Mcq_List[0][que_type][hardness][question['id']-1].update(question))
+        print('question',question)
+        print(cls.Mcq_List[0][que_type][hardness])
+        print(cls.Mcq_List[0][que_type][hardness][question['id']-1])
+        cls.Mcq_List[0][que_type][hardness][question['id']-1].update( question= question)
+        print(cls.Mcq_List[0][que_type][hardness][question['id'] - 1])
+        print(cls.Mcq_List[0][que_type][hardness])
 
         # cls.Mcq_List[0][que_type][hardness][0]['id'] = question['id']
         # cls.Mcq_List[0][que_type][hardness][0]['question'] = question['question']
