@@ -285,7 +285,7 @@ class quiz:
         quiz.Mcq_List[0][que_type][hardness].clear()
 
     def update_type_of_question(self,que_type,hardness):
-    
+
         quiz.add_question_to_mcq_test(self,que_type,hardness)
 
 
